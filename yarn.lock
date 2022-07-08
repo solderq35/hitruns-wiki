@@ -2123,7 +2123,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@easyops-cn/docusaurus-search-local@workspace:*, @easyops-cn/docusaurus-search-local@workspace:docusaurus-search-local":
+"@easyops-cn/docusaurus-search-local@workspace:*, @easyops-cn/docusaurus-search-local@workspace:^, @easyops-cn/docusaurus-search-local@workspace:docusaurus-search-local":
   version: 0.0.0-use.local
   resolution: "@easyops-cn/docusaurus-search-local@workspace:docusaurus-search-local"
   dependencies:
@@ -12051,6 +12051,7 @@ __metadata:
     "@babel/preset-env": ^7.17.0
     "@babel/preset-react": ^7.16.7
     "@babel/preset-typescript": ^7.16.7
+    "@easyops-cn/docusaurus-search-local": "workspace:^"
     "@typescript-eslint/eslint-plugin": ^5.0.0
     "@typescript-eslint/parser": ^5.0.0
     babel-jest: ^28.1.0

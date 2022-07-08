@@ -46,5 +46,8 @@
     "@docusaurus/preset-classic": "2.0.0-beta.20",
     "@docusaurus/theme-classic": "2.0.0-beta.20",
     "@docusaurus/theme-common": "2.0.0-beta.20"
+  },
+  "dependencies": {
+    "@easyops-cn/docusaurus-search-local": "workspace:^"
   }
 }

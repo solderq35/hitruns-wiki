@@ -16,7 +16,7 @@ module.exports = {
   },
   themeConfig: {
     navbar: {
-      title: "Docusaurus Search",
+      title: "HitRuns Wiki",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -28,18 +28,9 @@ module.exports = {
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/easyops-cn/docusaurus-search-local",
           label: "GitHub",
-          position: "right",
-        },
-        {
-          type: "localeDropdown",
-          position: "right",
-        },
-        {
-          type: "docsVersionDropdown",
           position: "right",
         },
       ],
