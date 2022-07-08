@@ -1,3 +1,8 @@
+---
+title: Electrocution
+description: Electrocution tips and spreadsheet
+---
+
 Disclaimer- Guide ported from H2. The tricks here seem to work in H3 as well so far based on personal testing, but keep in mind some small things may be altered.
 
 **NOTE: If a certain trick doesn't seem to be mentioned here, please check the other "Tips and Tricks" guides first: https://www.speedrun.com/hitman_3/guides
