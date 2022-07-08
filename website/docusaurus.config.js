@@ -4,8 +4,8 @@ module.exports = {
   title: "Docusaurus Search",
   tagline:
     "An offline/local search example using @easyops-cn/docusaurus-search-local",
-  url: "https://easyops-cn.github.io",
-  baseUrl: buildType === "preview" ? "/" : "/docusaurus-search-local/",
+  url: "https://hitruns-wiki.vercel.app/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "easyops-cn", // Usually your GitHub org/user name.
