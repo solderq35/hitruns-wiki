@@ -23,8 +23,8 @@ module.exports = {
       },
       items: [
         {
-          to: "guides/index",
-          activeBasePath: "guides",
+          to: "docs/index",
+          activeBasePath: "docs",
           label: "Guides",
           position: "left",
         },
@@ -39,15 +39,15 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Guides",
+          title: "docs",
           items: [
             {
               label: "Style Guide",
-              to: "guides/doc1",
+              to: "docs/doc1",
             },
             {
               label: "Second Guide",
-              to: "guides/doc2/",
+              to: "docs/doc2/",
             },
           ],
         },
@@ -90,8 +90,8 @@ module.exports = {
       "@docusaurus/preset-classic",
       {
         docs: {
-			path: 'guides',
-			routeBasePath: 'guides',
+			path: 'docs',
+			routeBasePath: 'docs',
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
