@@ -1,7 +1,9 @@
 ---
-title: Which Discord Servers should I Join?
-description: Hitman speedrun discords
+title: Hitman Speedrun Discords
+description: Hitman Speedrun Discords
 ---
+
+## Which Hitman Speedrun Discords Should I Join?
 
 These are the following Hitman speedrunning discord servers:
 

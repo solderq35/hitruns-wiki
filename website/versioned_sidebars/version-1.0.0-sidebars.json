@@ -33,6 +33,10 @@
         "livesplit_manual",
         "livesplit_auto_official"
       ]
+    },
+    {
+      "type": "doc",
+      "id": "discord"
     }
   ]
 }
