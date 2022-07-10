@@ -5,7 +5,7 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 [Video Tutorial](https://youtu.be/81oA4RHAQug)- If you prefer video to text tutorial.
 
-# Specifications: 
+## Specifications: 
 
 **For a number of reasons explained below, please install the [Peacock Autosplitter](https://www.speedrun.com/hitman_3/guide/vamms) if you have the option to do so. It is more accurate, although it does require installing [Peacock](https://thepeacockproject.org/wiki/intel/) as well.**
 
@@ -23,7 +23,7 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 * This autosplitter is not 100% accurate, this tool is just to get a decent estimate of your final in game time. Runs will be retimed by moderators as necessary.**
 
-# Installation
+## Installation
 Download Livesplit [here](https://livesplit.org/downloads/)
 
 Download the hitman3.asl code from here: https://github.com/sandro-h/hitman3_asl
@@ -46,7 +46,7 @@ Right click on main Livesplit application window, and go to "Compare Against", t
 
 Right click on main Livesplit application window, and go to "Settings", and adjust hotkeys as needed. "Numpad 1" (have Num Lock on) is the default for starting and splitting. 
 
-# Usage Instructions
+## Usage Instructions
 
 Start game. Press Numpad 1 (default binding). The livesplit timer should turn green, but still be set as 0.
 

@@ -9,25 +9,25 @@ Disclaimer- Guide ported from H2. The tricks here seem to work in H3 as well so 
 If you still can't find what you're looking for, feel free to shoot a question in the #hitman-3 channel of the Discord: https://discord.com/invite/E45wUBnxBT
 **
 
-# Fast throw instructions (all platforms)
-## Fast throw (at NPC's)
+## Fast Throw (All Platforms)
+### Fast throw (at NPC's)
 * Press the crouch button, then press the throw button, then press crouch again to un-crouch all in quick succession. The second crouch button press is unnecessary, but it make the animation smoother and makes you ready for a second fast throw. Fast throw will make your throw at an NPC come out half a second faster (ish) per throw.
 * Additional notes: Fast throw at NPC doesn't really work with large items (e.g. propane or axes), nor if you are facing away from NPC
 
 * [PC Example](https://youtu.be/tBnykFC3fE4?t=24)
 * [Console Example](https://youtu.be/cyuw5pHubsk?t=78)
 
-## Fast throw (not at NPC's)
+### Fast throw (not at NPC's)
 Note: Instructions above mainly cover how to do this while throwing something at NPC face to KO them, but crouch and uncrouch can also speed up animation of throwing items in general, even when not hitting an NPC.
 * [Example of fast throw of violin onto ground](https://youtu.be/m9HkkYNEOBI?t=23)
 * Fast throw (not at NPC) works quite well with large items, such as propane, axe, briefcases
 
-# Fast Interact 
+## Fast Interact 
 
 * Disclaimer the below methods are not the *only* way of fast interact, just the easiest methods
 * Note that if you have a briefcase in your hand, you will need to have an additional item (so briefcase in left hand, additional item in right), to be able to make this work easily. Otherwise you may conceal an item in briefcase instead of instant interacting.
 
-# PC Fast Interact Instructions
+### PC Fast Interact Instructions
 
 For PC, this trick can be used for any circle prompt tied to the default interact button (G). This includes, but is not limited to, exits, turning on sinks, turning on radios, and unlocking doors. 
 
@@ -38,12 +38,12 @@ For PC, this trick can be used for any circle prompt tied to the default interac
 * [Sink fast interact example](https://youtu.be/muO9Mm3yUvQ?t=14)
 * [Fast exit example](https://youtu.be/muO9Mm3yUvQ?t=53)
 
-# Console Fast Interact
+### Console Fast Interact
 
 For console, fast interact can be used for any circle prompt tied to the buttons triangle, circle, and X (on PS4), or Y, A, and B (on XB1).
 This includes, but it not limited to, picking up items, disguise changes, dragging bodies, and exits/ sinks/ radios/ unlocking doors.
 
-## PS4 Instructions
+#### PS4 Instructions
 
 For fast pickup, fast exit, fast interact with sinks/ radios/ unlocking doors etc: 
 * When by a pickup/ interact prompt, press inventory button (D-pad left or right button), then square OR circle, then triangle in quick succession.
@@ -54,7 +54,7 @@ For fast disguise change:
 For fast body drag: 
 * When by a body drag prompt, press inventory (D-pad left or right button), then square OR circle , then circle in quick succession.
 
-## XB1 Instructions
+#### XB1 Instructions
 
 For fast pickup, fast exit, fast interact with sinks/ radios/ unlocking doors etc: 
 * When by a pickup/ interact prompt, press inventory button (D-pad left or right button), then X OR B, then Y in quick succession 

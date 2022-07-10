@@ -4,12 +4,12 @@ description: Livesplit with manual splitting.
 ---
 Manual splitting, not autosplitter.
 
-# Specifications
+## Specifications
 * Works for all platforms and server versions
 * 100% accurate
 * Slower to use than Autosplitters
 
-# Installation
+## Installation
 
 Download Livesplit [here](https://livesplit.org/downloads/)
 
@@ -31,7 +31,7 @@ Right click on main Livesplit application window, and go to "Compare Against", t
 
 Right click on main Livesplit application window, and go to "Settings", and adjust hotkeys as needed. 
 
-# How to Use
+## How to Use
 Press your splitting hotkey (default keybind is Numpad 1). Type your time for the given level in and hit Enter key to save the split time for the level. Repeat after each level.
 
 https://i.ibb.co/zsGmxJf/entergametime.png
