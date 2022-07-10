@@ -3,9 +3,7 @@ title: Miscellaneous Techniques / Glossary
 description: Tips that don't fit a particular page
 ---
 
-Disclaimer- Guide ported from H2. The tricks here seem to work in H3 as well so far based on personal testing, but keep in mind some small things may be altered.
-
-**NOTE: If a certain trick doesn't seem to be mentioned here, please check the other "Tips and Tricks" guides first: https://www.speedrun.com/hitman_3/guides
+**NOTE: If a certain trick doesn't seem to be mentioned here, please check the other guides here first, or use the search bar.
 If you still can't find what you're looking for, feel free to shoot a question in the #hitman-3 channel of the Discord: https://discord.com/invite/E45wUBnxBT
 **
 
@@ -24,7 +22,7 @@ Some of the methods of unlocking doors were covered [here](https://www.speedrun.
 General guidelines:
 *  Lockpick and Crowbar obviously only work on physical lock doors, while scramblers/ key hackers and EMP only work on electric doors.
 * All SMG's, assault rifles, sniper rifles, shotguns, striker/ matador and full auto pistols can shoot open physical lock doors and electric swinging doors alike. You cannot shoot open sliding electric doors with guns.
-* You can open doors with semi-auto pistols, refer [here](https://www.speedrun.com/hitman_3/guide/h5jij#ch13_quot_Mudshot_quot_) for more info.
+* You can open doors with semi-auto pistols, refer [here](https://hitruns-wiki.vercel.app/docs/guns#mudshot) for more info.
 * [Example video](https://youtu.be/voBsuKu-thI?t=136)
 * You can additionally speed this up by [not pausing until you take the first shot](https://youtu.be/voBsuKu-thI?t=148), although this is riskier.
 * Explosives can generally open physical lock doors and electric swinging doors, but not electric sliding doors.

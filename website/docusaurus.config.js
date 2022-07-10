@@ -33,6 +33,17 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
+		{
+          href: "https://www.speedrun.com/hitman_3/",
+          label: "Leaderboards (Official)",
+          position: "right",
+        },
+		{
+          href: "https://hitruns.vercel.app/",
+          label: "Leaderboards (Mirror)",
+          position: "right",
+        },
+		
       ],
     },
     footer: {
@@ -44,6 +55,14 @@ module.exports = {
             {
               label: "Gameplay Guides",
               to: "docs/index",
+            },
+			{
+              label: "Beginner FAQ",
+              to: "docs/beginner",
+            },
+			{
+              label: "Livesplit",
+              to: "docs/livesplit",
             },
           ],
         },
@@ -63,6 +82,14 @@ module.exports = {
             {
               label: "GitHub",
               href: "https://github.com/solderq35/hitruns-wiki",
+            },
+            {
+              label: "Leaderboards (Official)",
+              href: "https://www.speedrun.com/hitman_3/",
+            },
+			{
+              label: "Leaderboards (Mirror)",
+              href: "https://hitruns.vercel.app/",
             },
           ],
         },
