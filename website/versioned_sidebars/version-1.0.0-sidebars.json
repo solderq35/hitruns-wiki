@@ -1,23 +1,38 @@
 {
-    "Docusaurus": [
-	     {
+  "Docusaurus": [
+    {
       "type": "category",
-      "label": "Docusaurus",
+      "label": "Gameplay Technique Guides",
       "link": {
         "type": "generated-index",
-		"slug": "index"
+        "slug": "index"
       },
       "items": [
-        "doc1",
-        "doc2",
-        "doc3",
-		"doc4",
-		"doc5",
-		"doc6",
-		"doc7"
+        "boosting",
+        "electrocution",
+        "explosives",
+        "fast_anim",
+        "guns",
+        "lures",
+        "miscellaneous"
+      ]
+    },
+    {
+      "type": "doc",
+      "id": "beginner"
+    },
+    {
+      "type": "category",
+      "label": "Livesplit",
+      "link": {
+        "type": "generated-index",
+        "slug": "livesplit"
+      },
+      "items": [
+        "livesplit_peacock",
+        "livesplit_manual",
+        "livesplit_auto_official"
       ]
     }
-	 
-    ]
+  ]
 }
-

@@ -1,9 +1,9 @@
 const buildType = process.env.BUILD_TYPE;
 
 module.exports = {
-  title: "Docusaurus Search",
+  title: "HitRuns Wiki",
   tagline:
-    "An offline/local search example using @easyops-cn/docusaurus-search-local",
+    "An improved version of speedrun.com/hitman_3/guides",
   url: "https://hitruns-wiki.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -19,7 +19,7 @@ module.exports = {
       title: "HitRuns Wiki",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/favicon.png",
       },
       items: [
         {
@@ -29,7 +29,7 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://github.com/easyops-cn/docusaurus-search-local",
+          href: "https://github.com/solderq35/hitruns-wiki",
           label: "GitHub",
           position: "right",
         },
@@ -39,32 +39,29 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "docs",
+          title: "Guides",
           items: [
             {
-              label: "Style Guide",
-              to: "docs/doc1",
-            },
-            {
-              label: "Second Guide",
-              to: "docs/doc2/",
+              label: "Gameplay Guides",
+              to: "docs/index",
             },
           ],
         },
+
         {
-          title: "Community",
+          title: "Hitman Speedrun Discords",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Hitman Runs Discord",
+              href: "https://discord.com/invite/E45wUBnxBT",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "F7SC Discord",
+              href: "https://discord.com/invite/kVMBEZA",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              label: "Lego Stuffers Discord",
+			  href: "https://discord.gg/WvGmnFcpVM"
             },
           ],
         },
@@ -72,17 +69,13 @@ module.exports = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "blog",
-            },
-            {
               label: "GitHub",
-              href: "https://github.com/easyops-cn/docusaurus-search-local",
+              href: "https://github.com/solderq35/hitruns-wiki",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Hitruns Wiki, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -95,13 +88,13 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/easyops-cn/docusaurus-search-local/edit/master/website/",
+            "https://github.com/solderq35/hitruns-wiki/edit/master/website/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/easyops-cn/docusaurus-search-local/edit/master/website/",
+            "https://github.com/solderq35/hitruns-wiki/edit/master/website/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

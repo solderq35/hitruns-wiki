@@ -8,39 +8,27 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: "💪 Written in TypeScript",
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
-    description: <>A Result You Can Trust.</>,
-  },
-  {
-    title: "🌎 Multi Languages Supported",
-    imageUrl: "img/undraw_docusaurus_tree.svg",
-    description: <>Dozens of languages supported, including 中文分词 🇨🇳.</>,
-  },
-  {
-    title: "💅 Styles polished",
-    imageUrl: "img/undraw_docusaurus_react.svg",
-    description: (
-      <>
-        Looks pretty good, actually just like the Algolia Search on Docusaurus
-        v2 website.
-      </>
-    ),
+    title: "Guides",
+    imageUrl: "https://assets2.rockpapershotgun.com/hitmandubaiheader.jpg/BROK/resize/1920x1080%3E/format/jpg/quality/80/hitmandubaiheader.jpg",
+    description: <><a href="/docs/index">Check our guides here!</a>.</>,
   },
 ];
 
 function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
+  
   return (
+  <center>
     <div className={clsx("col col--4", styles.feature)}>
       {imgUrl && (
         <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
+          <img src={imgUrl} alt={title} />
         </div>
       )}
       <h3>{title}</h3>
       <p>{description}</p>
     </div>
+	</center>
   );
 }
 
@@ -49,19 +37,19 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
       <header className={clsx("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">
-            An offline/local search example using{" "}
+            An improved version of {" "}
             <a
-              href="https://github.com/easyops-cn/docusaurus-search-local"
-              style={{ color: "var(--ifm-hero-text-color)" }}
+              href="https://www.speedrun.com/hitman_3/guides"
+              style={{ color: "var(--ifm-hero-text-color)"}}
             >
-              @easyops-cn/docusaurus-search-local
+              speedrun.com/hitman_3/guides
             </a>
             .
           </p>
