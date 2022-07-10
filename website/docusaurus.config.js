@@ -52,16 +52,8 @@ module.exports = {
           title: "Hitman Speedrun Discords",
           items: [
             {
-              label: "Hitman Runs Discord",
-              href: "https://discord.com/invite/E45wUBnxBT",
-            },
-            {
-              label: "F7SC Discord",
-              href: "https://discord.com/invite/kVMBEZA",
-            },
-            {
-              label: "Lego Stuffers Discord",
-			  href: "https://discord.gg/WvGmnFcpVM"
+              label: "List of Hitman Speedrun Discords",
+              href: "/docs/discord",
             },
           ],
         },
