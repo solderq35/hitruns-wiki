@@ -34,14 +34,19 @@ module.exports = {
           position: "right",
         },
 		{
-          href: "https://www.speedrun.com/hitman_3/",
-          label: "Leaderboards (Official)",
-          position: "right",
+          href: "/docs/resources",
+          label: "Resources",
+          position: "left",
         },
 		{
-          href: "https://hitruns.vercel.app/",
-          label: "Leaderboards (Mirror)",
-          position: "right",
+          href: "/docs/discord",
+          label: "Discord",
+          position: "left",
+        },
+		{
+          href: "https://www.speedrun.com/hitman_3/",
+          label: "Leaderboards",
+          position: "left",
         },
 		
       ],
@@ -68,10 +73,10 @@ module.exports = {
         },
 
         {
-          title: "Hitman Speedrun Discords",
+          title: "Community",
           items: [
             {
-              label: "List of Hitman Speedrun Discords",
+              label: "Discord",
               href: "/docs/discord",
             },
           ],
@@ -84,12 +89,12 @@ module.exports = {
               href: "https://github.com/solderq35/hitruns-wiki",
             },
             {
-              label: "Leaderboards (Official)",
+              label: "Leaderboards",
               href: "https://www.speedrun.com/hitman_3/",
             },
 			{
-              label: "Leaderboards (Mirror)",
-              href: "https://hitruns.vercel.app/",
+              label: "Resources",
+              href: "/docs/resources",
             },
           ],
         },

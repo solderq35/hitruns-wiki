@@ -37,6 +37,10 @@
     {
       "type": "doc",
       "id": "discord"
+    },
+	{
+      "type": "doc",
+      "id": "resources"
     }
   ]
 }
