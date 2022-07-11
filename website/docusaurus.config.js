@@ -3,7 +3,7 @@ const buildType = process.env.BUILD_TYPE;
 module.exports = {
   title: "HitRuns Wiki",
   tagline:
-    "An improved version of speedrun.com/hitman_3/guides",
+    "Hitman 3 Speedrunning Wiki. Got a question on a Hitman speedrun trick? We're here to help.",
   url: "https://hitruns-wiki.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -94,7 +94,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Hitruns Wiki, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Solderq35. All rights reserved.`,
     },
   },
   presets: [

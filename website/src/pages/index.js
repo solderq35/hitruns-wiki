@@ -8,13 +8,12 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: "Guides",
+    title: <a href="/docs/index">Check our guides here!</a>,
     imageUrl: "https://assets2.rockpapershotgun.com/hitmandubaiheader.jpg/BROK/resize/1920x1080%3E/format/jpg/quality/80/hitmandubaiheader.jpg",
-    description: <><a href="/docs/index">Check our guides here!</a>.</>,
   },
 ];
 
-function Feature({ imageUrl, title, description }) {
+function Feature({ imageUrl, title }) {
   const imgUrl = useBaseUrl(imageUrl);
   
   return (
@@ -25,8 +24,7 @@ function Feature({ imageUrl, title, description }) {
           <img src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <p>{description}</p>
+      <h3 className = "h3margin">{title}</h3>
     </div>
 	</center>
   );
@@ -44,14 +42,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">
-            An improved version of {" "}
-            <a
-              href="https://www.speedrun.com/hitman_3/guides"
-              style={{ color: "var(--ifm-hero-text-color)"}}
-            >
-              speedrun.com/hitman_3/guides
-            </a>
-            .
+            Hitman 3 Speedrunning Wiki. Got a question on a Hitman speedrun trick? We're here to help.
           </p>
           <div className={styles.buttons}>
             <Link
