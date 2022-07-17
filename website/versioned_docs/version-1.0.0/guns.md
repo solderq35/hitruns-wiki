@@ -54,7 +54,8 @@ Sieker does not fire bullets, but its emetic effect is very useful. Besides the 
 Saves about half a second overall
 * Technically this works with all large items that can be unpacked from briefcases, but most common use is with sniper rifle.
 * To perform fast unpack, the optimal inputs are:
-  * Look Down > Drop > Unpack > Crouch > Uncrouch ([Example]((https://youtu.be/iFOvfjnZ3NY)))
+  * Look Down > Drop > Unpack > Crouch > Uncrouch 
+    * [Example Video](https://youtu.be/iFOvfjnZ3NY)
   * Note: Don't unpack if you don't have a reason to stand up before shooting. In particular, beginners may want to forgo the uncrouch input, as mistiming this can lead to a very slow unpack animation.
 ## Snap Shooting
 Generally speaking snap shooting refers to shooting quickly without aiming much before hand, using the white dot in the middle of screen to help aim at most.
