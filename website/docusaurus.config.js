@@ -3,7 +3,7 @@ const buildType = process.env.BUILD_TYPE;
 module.exports = {
   title: "HitRuns Wiki",
   tagline:
-    "Hitman 3 Speedrunning Wiki. Got a question on a Hitman speedrun trick? We're here to help.",
+    "Hitman 3 Speedrunning Wiki",
   url: "https://hitruns-wiki.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",

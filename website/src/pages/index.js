@@ -42,7 +42,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">
-            Hitman 3 Speedrunning Wiki. Got a question on a Hitman speedrun trick? We're here to help.
+            Hitman 3 Speedrunning Wiki
           </p>
           <div className={styles.buttons}>
             <Link
