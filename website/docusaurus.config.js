@@ -19,7 +19,7 @@ module.exports = {
       title: "HitRuns Wiki",
       logo: {
         alt: "My Site Logo",
-        src: "img/favicon.png",
+        src: "img/favicon2.png",
       },
       items: [
         {
