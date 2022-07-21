@@ -11,7 +11,7 @@ If you still can't find what you're looking for, feel free to shoot a question i
 ## Explosive Properties Table
 Please consult the following tables for explosive device properties before reading further: https://imgur.com/a/d4ZCtvO
 
-https://i.ibb.co/yVd6R4m/unknown-5.png
+![explosives table](https://i.ibb.co/yVd6R4m/unknown-5.png)
 (Credit: muddye)
 
 **Note that it is possible to KO or kill a target with an explosive device before the accident explosion kills them. If you KO a target before they die from accident explosion, you lose SA**

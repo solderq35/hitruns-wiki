@@ -25,8 +25,10 @@ If you still can't find what you're looking for, feel free to shoot a question i
 * Apple (Least amount, not good for anything but can work)
 
 ### General Breakable Object Boosting Tips
-* If throwing breakable objects to boost, it may be helpful to fast throw (crouch -> throw to throw faster and save time. [Example](https://youtu.be/syuwT2Ce01M?t=61)
-* Aiming with the gun can help a lot navigating out of bounds, as you move with greater precision when aiming a run. [Example](https://youtu.be/3LJ_Bffotwg?t=610)
+* If throwing breakable objects to boost, it may be helpful to fast throw (crouch -> throw to throw faster and save time. 
+  * [Example](https://youtu.be/syuwT2Ce01M?t=61)
+* Aiming with the gun can help a lot navigating out of bounds, as you move with greater precision when aiming a run. 
+  * [Example](https://youtu.be/3LJ_Bffotwg?t=610)
 
 **Note that 47 does not take fall damage in general, but in certain areas of the map, such as over water, you can fall through a kill plane and instantly die.**
 
@@ -51,8 +53,10 @@ If you still can't find what you're looking for, feel free to shoot a question i
 ### Stair Boost
 * [Chongqing Stair Boost](https://youtu.be/dh8IuU2kTho?t=33): Throw breakable brick to get onto stair railings
 * [Sgail Stair Boost](https://youtu.be/3LJ_Bffotwg?t=610): Throw muffin to get onto stair railings, use pistol aiming to move precisely after that.
-* Additional tips: Throw breakable object about as far away from the side and the width of 47's feet and on the 1st step ([Example](https://media.discordapp.net/attachments/802883289240043571/818312945205248030/unknown.png?width=1043&height=586)). If you throw the breakable object on the corner of the step or the edge of the step it may not break. Try to make sure that you get a circle emanating from where the muffin throw reticle is, for most consistency.
-* Checking for circle when throwing breakable object [Example](https://youtu.be/1JA3QvBl9b8?t=1)
+* Additional tips: Throw breakable object about as far away from the side and the width of 47's feet and on the 1st step. If you throw the breakable object on the corner of the step or the edge of the step it may not break. Try to make sure that you get a circle emanating from where the muffin throw reticle is, for most consistency.
+  * [Example](https://media.discordapp.net/attachments/802883289240043571/818312945205248030/unknown.png?width=1043&height=586)
+* Checking for circle when throwing breakable object 
+  * [Example](https://youtu.be/1JA3QvBl9b8?t=1)
 
 ### Boost with Briefcase (no Breaching Charge)
 * [Colorado Boost with Suitcase](https://youtu.be/264oMY9Ys34?t=60): Throw breakable crystal ball to walk on briefcase and get a better sniping angle

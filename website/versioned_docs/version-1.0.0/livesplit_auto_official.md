@@ -32,13 +32,13 @@ Unzip the folder of the Livesplit Download, and then click on the Livesplit Appl
 
 Right click on main Livesplit application window, go to "Edit Splits". Here you can enter information about the game name, category, and splits for each map to your liking. Be sure to select the "Game Time" option. Enter your estimated in game time splits for each map in "segment time" column. 
 
-https://i.ibb.co/TrJWrq5/splitsedit.png
+![Segment Time](https://i.ibb.co/TrJWrq5/splitsedit.png)
 
 Click "okay", then right click the main Livesplit application window and click on "save splits as" to save the splits for later use.
 
 Right click on main Livesplit application window, and go to "Edit Layout". Click on the "+" symbol, then go to "Control", then "Scriptable Autosplitter". Double click on "Scriptable Autosplitter", then "browse", and select the hitman3.asl file you downloaded earlier.
 
-https://i.ibb.co/Mn4qC8w/editlayout.png
+![Layout](https://i.ibb.co/Mn4qC8w/editlayout.png)
 
 Click "okay", then right click the main Livesplit application window and click on "save layout as" to save the splits for later use.
 

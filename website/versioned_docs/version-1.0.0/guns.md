@@ -147,7 +147,7 @@ More advanced versions of gunslide include gunslide with railing. In this case c
 ## Miscellaneous Gun Stats (from muddye)
 
 Non Sniper Gun Stats
-https://media.discordapp.net/attachments/610476804448452618/868583868729524264/pistoldmg.png
+![gun stats](https://media.discordapp.net/attachments/610476804448452618/868583868729524264/pistoldmg.png)
 
 Damage Multiplier values for each Difficulty
-https://media.discordapp.net/attachments/845296311800561694/845841968424681472/DifficultyDMG.png
+![damage multiplier table](https://media.discordapp.net/attachments/845296311800561694/845841968424681472/DifficultyDMG.png)
