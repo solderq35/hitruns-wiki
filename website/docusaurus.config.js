@@ -8,8 +8,8 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "easyops-cn", // Usually your GitHub org/user name.
-  projectName: "docusaurus-search-local", // Usually your repo name.
+  organizationName: "solderq35", // Usually your GitHub org/user name.
+  projectName: "hitruns-wiki", // Usually your repo name.
   i18n: {
     defaultLocale: "en",
     locales: ["en", ...(buildType === "i18n" ? ["zh-CN", "zh-TW"] : [])],
