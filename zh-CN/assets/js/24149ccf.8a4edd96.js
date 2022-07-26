@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5354],{8839:function(e){e.exports=JSON.parse('{"title":"Gameplay Technique Guides","slug":"index","permalink":"/zh-CN/docs/index","navigation":{"next":{"title":"Boosting","permalink":"/zh-CN/docs/boosting"}}}')}}]);

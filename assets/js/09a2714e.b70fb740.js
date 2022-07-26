@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7410],{5084:function(e){e.exports=JSON.parse('{"title":"Livesplit","slug":"livesplit","permalink":"/docs/livesplit","navigation":{"previous":{"title":"Beginner FAQ","permalink":"/docs/beginner"},"next":{"title":"Livesplit Autosplitter (Peacock)","permalink":"/docs/livesplit_peacock"}}}')}}]);

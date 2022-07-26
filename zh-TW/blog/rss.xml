@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>HitRuns Wiki Blog</title>
+        <link>https://hitruns-wiki.vercel.app/zh-TW/blog</link>
+        <description>HitRuns Wiki Blog</description>
+        <lastBuildDate>Sat, 15 Jun 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-TW</language>
+        <item>
+            <title><![CDATA[writing-good-unit-tests]]></title>
+            <link>https://hitruns-wiki.vercel.app/zh-TW/blog/2019/06/15/writing-good-unit-tests</link>
+            <guid>/2019/06/15/writing-good-unit-tests</guid>
+            <pubDate>Sat, 15 Jun 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[welcome]]></title>
+            <link>https://hitruns-wiki.vercel.app/zh-TW/blog/2019/05/30/welcome</link>
+            <guid>/2019/05/30/welcome</guid>
+            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hello-world]]></title>
+            <link>https://hitruns-wiki.vercel.app/zh-TW/blog/2019/05/29/hello-world</link>
+            <guid>/2019/05/29/hello-world</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hola]]></title>
+            <link>https://hitruns-wiki.vercel.app/zh-TW/blog/2019/05/28/hola</link>
+            <guid>/2019/05/28/hola</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
