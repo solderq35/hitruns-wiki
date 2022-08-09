@@ -137,12 +137,18 @@ More advanced versions of gunslide include gunslide with railing. In this case c
 * [Gunslide on railng while facing forwards](https://youtu.be/XPyBK2yCC5o?t=16)
 * [Gunslide on railing while facing backwards](https://youtu.be/7mrfqKj86c0?t=100)
 
-## "Mudshot"
+## Mudshot
 * You can open swinging doors with semi automatic pistols if you use pause buffering ("mudshot", named after discoverer muddye).
-
-* Example. Note that Krugermeier and Hwk 21 Homemade may need more shots to work with this trick.
 * Both pause and map work, although pause seems easier. The timing of the first pause is most important.
-* Inputs (general guideline): Aim at door and hold aim button, pause, hold shoot button (should have both aim and shoot held by now), rapidly tap pause and unpause. You need as tiny a gap between unpause and pause as possible, but you can take a breather between pause and unpause.
+
+* Basic Version: Aim at door and hold aim button, pause, hold shoot button (should have both aim and shoot held by now), rapidly tap pause and unpause. You need as tiny a gap between unpause and pause as possible, but you can take a breather between pause and unpause.
+	* [Basic Example](https://youtu.be/voBsuKu-thI?t=136)
+* More advanced version: Shoot the first shot normally, then pause, hold shoot and aim buttons, tap pause and unpause (faster but maybe riskier).
+	* [Advanced example](https://youtu.be/EfANY3ROWzo?t=145)
+
+*  Other Notes: 
+	* To avoid stutter after performing the mudshot, let go of the directional keys or buttons (WASD on PC). Then press the unpause button or press aim button (right mouse button on PC) to unpause. After unpausing, it is safe to touch the movement keys again.
+	* Krugermeier and Hwk 21 Homemade may need more shots to work with this trick.
 
 ## Miscellaneous Gun Stats (from muddye)
 
