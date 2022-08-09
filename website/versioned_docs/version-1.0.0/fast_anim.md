@@ -23,19 +23,32 @@ Note: Instructions above mainly cover how to do this while throwing something at
 
 ## Fast Interact 
 
-* Disclaimer the below methods are not the *only* way of fast interact, just the easiest methods
-* Note that if you have a briefcase in your hand, you will need to have an additional item (so briefcase in left hand, additional item in right), to be able to make this work easily. Otherwise you may conceal an item in briefcase instead of instant interacting.
+Disclaimer: the below methods are not the *only* way of fast interact, just the easiest methods.
+ This trick will save about half a second per use, enabling you to instantly trigger the prompt instead of waiting to fill up circle.
 
 ### PC Fast Interact Instructions
 
 For PC, this trick can be used for any circle prompt tied to the default interact button (G). This includes, but is not limited to, exits, turning on sinks, turning on radios, and unlocking doors. 
 
-* To do the trick, press and hold inventory (default button I) when in front of an interact prompt. While inventory button is held down, tap on the inventory key (G).
+Note: The PC section here is more detailed, but anything written here should also work on console, just translate the inputs to what they should be for controller.
 
- This trick will save about half a second per use, enabling you to instantly trigger the prompt instead of waiting to fill up circle.
+* Basic Version: Press Inventory > Interact Button (Default key G) when in front of a prompt.
+	* [Sink fast interact example](https://youtu.be/muO9Mm3yUvQ?t=14)
+	* [Fast exit example](https://youtu.be/muO9Mm3yUvQ?t=53)
+	* If you are waiting for the exit prompt to show up after a kill, remember that the fast interact only works when you are in the inventory menu. So the optimal inventory buffering inputs for exit are: 
+		* Tap Inventory once (Enter Inventory) > Can take a breather here > Double tap Inventory as fast as possible (Leave and re-enter Inventory ASAP) > Can take a breathe here > Double Tap Inventory > And So On Until the Exit Appears > Tap Interact (G) to leave
 
-* [Sink fast interact example](https://youtu.be/muO9Mm3yUvQ?t=14)
-* [Fast exit example](https://youtu.be/muO9Mm3yUvQ?t=53)
+* If you have an item in a briefcase while you try to fast interact, then you have a few choices to make the fast interact work correctly (you may only retrieve an item from the briefcase otherwise).
+	* Option 1: Drop the briefcase before interacting. **Honestly, you should always drop the briefcase, as holding a briefcase will always add movement delay after interacting with an object**. It's faster to drop the briefcase, interact with the prompt, then pick your briefcase back up afterewards.
+	* Option 2: Equip an item in your right hand. This cancels out the briefcase retrieve effect.
+	* Option 3: If you have to have the briefcase in your left hand for some reason and nothing else, then move to another item in your inventory during fast interact 
+		* Inputs: Inventory > A or D to select another item > Interact Button (G)
+	
+* For The Vector where you can't access the Inventory menu, you can fast interact with the exit by using pause menu.
+	* Inputs: Pause(Esc) > Interact Button (G) > Pause(Esc)
+	* The second Interact > Pause need to be performed in quick succession, too slow and it won't work.
+		* [Example of Pause Menu Fast Interact](https://youtu.be/IUjtWujwdL0?t=20)
+	* Pause Menu fast interact can also be used to fast interact with frisks.
 
 ### Console Fast Interact
 

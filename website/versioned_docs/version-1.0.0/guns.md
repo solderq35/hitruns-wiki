@@ -55,16 +55,25 @@ Saves about half a second overall
 * Technically this works with all large items that can be unpacked from briefcases, but most common use is with sniper rifle.
 * To perform fast unpack, the optimal inputs are:
   * Look Down > Drop > Unpack > Crouch > Uncrouch 
-    * [Example Video](https://youtu.be/iFOvfjnZ3NY)
+    * [Basic Example Video](https://youtu.be/iFOvfjnZ3NY)
   * Note: Don't uncrouch at the end if you don't have a reason to stand up before shooting. In particular, beginners may want to forgo the uncrouch input, as mistiming this can lead to a very slow unpack animation.
+* If you need to shoot something right after unpacking the optimal inputs will be:
+	* Look Down > Drop > Unpack > Crouch > Aim (Right Mouse Button) + Marksman Mode (Shift button) + Uncrouch (Optional)
+	* [Example of Fast Unpack into Shoot](https://youtu.be/wJOCZtttzDk?t=32)
+  
 ## Snap Shooting
 Generally speaking snap shooting refers to shooting quickly without aiming much before hand, using the white dot in the middle of screen to help aim at most.
-* [Snap Shooting example](https://youtu.be/XPyBK2yCC5o?t=62)
-* Also note that sniper rifles do not have the white dot in the middle of screen by default, but you can install [Crosshair V2](https://www.microsoft.com/en-is/p/crosshair-v2/9n1k9q56hvxr) (which is legal for Hitman 3 speedrun.com leaderboards), or simply put some white tape on your monitor.
 
-Below, left click = mouse 1 AKA shoot, right click = mouse 2 AKA aim.
-* Generally speaking, right click > left click is the most straightforwards input
-* Note that you should never let go of right click before left click, that may result in delay, as shown [here](https://youtu.be/voBsuKu-thI?t=172)
+Right Click can be understood to refer to "Aim" and Left Click to "Shoot" in instructions below.
+
+The optimal snap shooting inputs are: 
+* Right Click (hold) > Left Click > Let go of Left Click > Let go of Right Click
+	* Note that you should never let go of right click before left click, that may result in delay, as shown [here](https://youtu.be/voBsuKu-thI?t=172)
+	* [Snap Shooting example](https://youtu.be/XPyBK2yCC5o?t=62)
+	
+Also note that sniper rifles do not have the white dot in the middle of screen by default, but you can install [Crosshair V2](https://www.microsoft.com/en-is/p/crosshair-v2/9n1k9q56hvxr) (which is legal for Hitman 3 speedrun.com leaderboards), or simply put some white tape on your monitor.
+
+
 
 Some other input options to consider to avoid snap shot stutter include: 
 * Left click > drop gun and pick back up
@@ -72,7 +81,7 @@ Some other input options to consider to avoid snap shot stutter include:
 * Right click > Left Click > Right Click
 Caution: Left click > Drop and Left click > Right Click may be less accurate, better for distraction shots than for trying to shoot an NPC in the head.
 
-Also see Stored Shot below.
+Also see Stored Shot below for another option to snap shoot with no risk of stutter.
 
 ## Stored Shot
 
@@ -127,11 +136,11 @@ To prevent this, crouch and uncrouch before aiming.
 * [Example 3](https://www.bilibili.com/video/BV12v4y1M7hX?t=1m16s)
 
 ## Gunslide
-Hipfire (shoot without aiming) while moving down slope backwards. A bit faster than just running down normally.
-The basic example is to turn the camera such that 47 is running face first at the camera, and crouch run down the stairs. While you are doing that, press and hold the shoot button (Mouse 1 by default on PC. Do not press the aim button Mouse 2). Drop and pick up pistol, press aim button, or holster weapon to stop the glide.
-
-* [Example of basic gunslide](https://youtu.be/voBsuKu-thI?t=28)
-* This also works on [Sapienza cliff](https://youtu.be/l5xo6fOUSq0?t=38). Remember to only click shoot button and not aim button, and to be crouched and with correct camera angle.
+A bit faster than just running down normally.
+* Basic Version:  
+	* Turn the camera such that 47 is running face first at the camera, and crouch run down the stairs / slope. While you are doing that, press and hold the shoot button (Left mouse button). Do not press the aim button (Right mouse button). Drop and pick up pistol, press aim button, or holster weapon to stop the glide.
+	* [Example of basic gunslide](https://youtu.be/voBsuKu-thI?t=28)
+	* This also works on [Sapienza cliff](https://youtu.be/l5xo6fOUSq0?t=38). Remember to only click shoot button and not aim button, and to be crouched and with correct camera angle.
 
 More advanced versions of gunslide include gunslide with railing. In this case crouching is not needed.
 * [Gunslide on railng while facing forwards](https://youtu.be/XPyBK2yCC5o?t=16)
