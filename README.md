@@ -5,6 +5,8 @@
 **https://hitruns-wiki.vercel.app/**
 
 ## About
+Hitman 3 speedrunning wiki. Gameplay tips, Livesplit setup, list of Hitman speedrunning resources, specific strategy tutorials, etc. included.
+
 The site was built with [Docusaurus](https://docusaurus.io/docs), so reference their documentation for the basics of how this site functions.
 
 More specifically, this site was built on a template from [easyops-cn](https://github.com/easyops-cn), so go read [the original repository's README](https://github.com/easyops-cn/docusaurus-search-local/blob/master/README.md) if you want more information on the technical details of the site / want to make refactoring changes.
