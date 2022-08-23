@@ -4,11 +4,12 @@ description: Beginner FAQ
 ---
 
 ## Q: What should I buy, what do the different editions mean?
-A: You can buy any combination of DLC you like, but to compete at the top level with other NG+ runs (more on this later), you will want to buy the Hitman 3 standard edition, and then Hitman 1 GOTY Access Pass and HITMAN 2 Gold Access pass, and possibly the 7 deadly sins DLC too (the Sloth DLC for Goldbrick Proximity Mine, in particular). 
+A: You can buy any combination of DLC you like, but to compete at the top level with other NG+ runs (more on this later), you will want to buy the Hitman 3 standard edition, and then Hitman 1 Standard Access Pass and HITMAN 2 Gold Access pass, and possibly the 7 deadly sins DLC too (the Sloth DLC for Goldbrick Proximity Mine, in particular). 
 
-* More info on what items are in what DLC [here]](https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637).
+* More info on what items are in what DLC [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637).
 
-In other words: *You can skip buying the Deluxe Pack / Edition*, as the unlocks from this DLC are reskins only. Every other DLC has some unique items.
+In other words: *You can skip buying the Deluxe Pack / Edition as well as the Hitman 1 GOTY Access Pass*, as the unlocks from this DLC are reskins only. Every other DLC has some unique items.
+* A key item to note here is the White Ruby sniper rifle, unlocked by completing the "Faux Pas", "Entrepreneuers", or "Clichés" Arcade Elusive targets. This is identical to the Sieger 300 Ghost / Arctic, but unlike these two other rifles, the White Ruby does not require buying the HITMAN 1 GOTY DLC or Deluxe DLC.
 
 Note that if you are an owner of HITMAN (2016) or HITMAN 2 (2018) you may be eligible to redeem the Hitman 1 or 2 Access Passes. More info [here](https://www.ioi.dk/hitman-3-pre-launch-guide/). 
 

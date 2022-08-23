@@ -34,13 +34,13 @@ Sniper Properties Data Table from muddye: https://media.discordapp.net/attachmen
 Sniper rifles can also shoot swinging doors open, so you may not need a lockpick or disposable scrambler if you're already bringing a sniper rifle.
 * [Example of shooting door open with sniper rifle](https://www.youtube.com/watch?v=yoMQOQgOWQQ&list=PLflusD4O8jzNubvmK7dMBgbZ6Vsl-qiwR&index=2) 
 
-Sieger 300 Ghost is usually the best all-around sniper to to having fast unpack, maximum zoom, maximum damage (can blow up car in two shots from any distance, OHKO any NPC from any distance), and also being the most silent (subsonic perk). 
+Sieger 300 Ghost / Arctic / White Ruby is usually the best all-around sniper to to having fast unpack, maximum zoom, maximum damage (can blow up car in two shots from any distance, OHKO any NPC from any distance), and also being the most silent (subsonic perk). 
 
-However, the non-Ghost Sieger 300 variants can also be useful for times when you **do not** want to one hit kill people. 
+However, the non-Ghost / Arctic / White Ruby Sieger 300 variants can also be useful for times when you **do not** want to one hit kill people. 
 * [Example of using Sieger 300 Advanced on Ljudmilla- Bullet does not kill Ljudmilla on impact, but pushes her into water for fall accident.](https://youtu.be/1_jXK9Pbg8E?t=37)
 * [Example of using Sieger 300 to avoid killing scientist near virus when shooting virus](https://youtu.be/CASEkNKCG8I?t=236)
 
-Hackl Levithan Sniper Rifle Covert is also worth considering if you want a piercing sniper rifle (only silenced sniper rifle with piercing and fast unpack animation).
+Hackl Leviathan Sniper Rifle Covert is also worth considering if you want a piercing sniper rifle (only silenced sniper rifle with piercing and fast unpack animation).
 
 ## Dart Guns
 
