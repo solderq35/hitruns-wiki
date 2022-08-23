@@ -76,10 +76,10 @@ Also note that sniper rifles do not have the white dot in the middle of screen b
 
 
 Some other input options to consider to avoid snap shot stutter include: 
-* Left click > drop gun and pick back up
-* Left click > Right Click
-* Right click > Left Click > Right Click
-Caution: Left click > Drop and Left click > Right Click may be less accurate, better for distraction shots than for trying to shoot an NPC in the head.
+* [Stored Shot](guns#stored-shot)
+* Left click > Right click > Let go of Right Click > Inventory > Drop gun > Pick gun back up (optional)
+	* [Example](https://youtu.be/YMJeUqyN88E?t=159)
+	
 
 Also see Stored Shot below for another option to snap shoot with no risk of stutter.
 

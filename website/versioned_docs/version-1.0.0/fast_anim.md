@@ -10,16 +10,19 @@ If you still can't find what you're looking for, feel free to shoot a question i
 
 ## Fast Throw (All Platforms)
 ### Fast throw (at NPC's)
-* Press the crouch button, then press the throw button, then press crouch again to un-crouch all in quick succession. The second crouch button press is unnecessary, but it make the animation smoother and makes you ready for a second fast throw. Fast throw will make your throw at an NPC come out half a second faster (ish) per throw.
-* Additional notes: Fast throw at NPC doesn't really work with large items (e.g. propane or axes), nor if you are facing away from NPC
+* Inputs: Crouch > Throw > Uncrouch
+* Additional notes
+	* Fast throw at NPC doesn't really work with large items (e.g. propane or axes), nor if you are facing away from NPC
+	* If you want to access the inventory right after throwing, you may need to strafe left or right before going to inventory, to avoid animation delay.
 
 * [PC Example](https://youtu.be/tBnykFC3fE4?t=24)
 * [Console Example](https://youtu.be/cyuw5pHubsk?t=78)
 
 ### Fast throw (not at NPC's)
-Note: Instructions above mainly cover how to do this while throwing something at NPC face to KO them, but crouch and uncrouch can also speed up animation of throwing items in general, even when not hitting an NPC.
+* Inputs: Crouch > Throw > Uncrouch
 * [Example of fast throw of violin onto ground](https://youtu.be/m9HkkYNEOBI?t=23)
-* Fast throw (not at NPC) works quite well with large items, such as propane, axe, briefcases
+* Fast throw (not at NPC) works quite well with large items, such as propane, axe, briefcases. This is in contract to fast throw at NPC head, which works better with small items.
+* If you want to access the inventory right after throwing, you may need to strafe left or right before going to inventory, to avoid animation delay.
 
 ## Fast Interact 
 
@@ -32,7 +35,7 @@ For PC, this trick can be used for any circle prompt tied to the default interac
 
 Note: The PC section here is more detailed, but anything written here should also work on console, just translate the inputs to what they should be for controller.
 
-* Basic Version: Press Inventory > Interact Button (Default key G) when in front of a prompt.
+* Basic Version Inputs: Press Inventory > Interact Button (Default key G) when in front of a prompt.
 	* [Sink fast interact example](https://youtu.be/muO9Mm3yUvQ?t=14)
 	* [Fast exit example](https://youtu.be/muO9Mm3yUvQ?t=53)
 	* If you are waiting for the exit prompt to show up after a kill, remember that the fast interact only works when you are in the inventory menu. So the optimal inventory buffering inputs for exit are: 
