@@ -32,5 +32,13 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 * [Tsta 29:36 Trilogy SA/SO strats](https://www.youtube.com/watch?v=vR9otQKNVAw)
 
 ### Seasonal Only
+* [Paris 30s](https://youtu.be/zoZFALSCoLs?t=6)
+	* Might be consistent enough for trilogy
+* [Miami 17s](https://youtu.be/H1gRKLHN6k0)
+* [Miami 20s](https://www.youtube.com/watch?v=zxa7gFswhxA)
 * [Dubai 17s Tutorial](https://www.youtube.com/watch?v=7cmZn47I7sY)
 	* Probably not consistent enough for trilogy, just good for Season 3 runs
+* [Romania 2:1X Tutorial](https://youtu.be/F0mYxJ0CE2s?t=154)
+* Anything else from these runs: 
+	* [Season 1 3:52 SA/SO](https://www.youtube.com/watch?v=zoZFALSCoLs)
+	* [Season 3 6:06 SA/SO](https://www.youtube.com/watch?v=arQyev_l_Vk)
