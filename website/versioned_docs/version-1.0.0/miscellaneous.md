@@ -16,6 +16,8 @@ Cutscene waiting is a great way to speed up a run. While the cutscene plays, NPC
 
 * [Example](https://youtu.be/F5SXFdx04pI?t=18): This player played about 20 seconds of cutscene. As a result Maya Parvarti walked under the hay bale at 1:41. Without waiting cutscene Parvarti walks under hay bale at about 2 minutes.
 
+* Following NPC's aren't affected by cutscene wait: Rico Delgado, Sierra Knox in racecar (from the default Miami start), Ljudmilla Vetrova.
+
 ## Unlocking Doors
 Some of the methods of unlocking doors were covered [here](https://www.speedrun.com/hitman_3/guide/h5jij), but I will go more into depth on the topic here as well.
 

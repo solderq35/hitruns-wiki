@@ -21,6 +21,10 @@
       "type": "doc",
       "id": "beginner"
     },
+	{
+      "type": "doc",
+      "id": "fullgame_tutorials"
+    },
     {
       "type": "category",
       "label": "Livesplit",

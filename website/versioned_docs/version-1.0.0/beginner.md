@@ -42,6 +42,12 @@ Thus, for other challenges, the most efficient way to get XP is to make a save r
 ## Q: What are the optimal in-game settings to run the game?
 A: Go to Options> Gameplay > HUD. Turn on Difficulty HUD (for verification purposes), Silent Assassin HUD (to see what rating you have at all times), Timer HUD (helps for timing certain kills). For Miami, you may also want to turn Simulation Quality in Graphics Settings to Base, to avoid rendering some racetrack flags.
 
+## Q: What are the best keybinds (for PC)?
+A: Keybinds are mostly just personal preference, but here are some things to consider:
+* Remember you can have secondary keybinds for most actions in the game. You can for instance have inventory bound to both a mouse button and a key on your keyboard. 
+* It is highly recommended to rebind Inventory to a mouse button, or at least a key more easily accessible to the left hand on the keyboard than the "I" key. You need to be able to interact with Inventory at a moment's notice for [fast interact](fast_anim#fast-interact).
+* It is highly recommended to rebind the drop/crouch/unpack buttons (perhaps as secondary keybinds), to facillitate [fast unpack](guns#fast-sniper-briefcase-unpack). Suggestions: have these three actions bound to 1/2/3 or Z/X/C so that all three buttons are right next to each other.
+
 ## Q: How do I set up Livesplit for full game runs?
 A: You can use one of the following livesplit methods
 
