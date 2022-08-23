@@ -11,12 +11,19 @@ The site was built with [Docusaurus](https://docusaurus.io/docs), so reference t
 
 More specifically, this site was built on a template from [easyops-cn](https://github.com/easyops-cn), so go read [the original repository's README](https://github.com/easyops-cn/docusaurus-search-local/blob/master/README.md) if you want more information on the technical details of the site / want to make refactoring changes.
 
+The site is deployed on [Vercel](https://vercel.com/docs), although it can also be deployed on any static website host.
+
 ### Site Features:
 HitRuns Wiki has several advantages over the build-in guides on speedrun.com, including:
 * More control over the content (guides are still accessible if speedrun.com is down).
 * More control over the styling (speedrun.com's Markdown version has some strange idiosyncrasies).
 * Website loads faster (not choked full of advertisements as speedrun.com is).
 *  **Search bar to look up key phrases if you forgot which guide covered what.**
+
+## Site Setup
+* `yarn install` to install required node modules.
+* `yarn start` to open the dev environment to preview the website.
+* `yarn build` to build the website locally (needed if you want to test the search function before deployment).
 
 ## Contribution Guidelines
 If you are a Hitman speedrunner seeking to contribute and have some basic coding knowledge, you should:
