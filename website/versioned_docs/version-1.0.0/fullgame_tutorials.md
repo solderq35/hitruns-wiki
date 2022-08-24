@@ -29,7 +29,21 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 * [Bangkok 0:2X](https://youtu.be/DfEQBmea1_0)
 
 ### Beginner-Friendly(ish) Strats
-* [Tsta 29:36 Trilogy SA/SO strats](https://www.youtube.com/watch?v=vR9otQKNVAw)
+* [Tsta's 29:36 Trilogy SA/SO](https://www.youtube.com/watch?v=vR9otQKNVAw)
+	* Some strategies may be riskier for new players, such as Paris, Sapienza, Dartmoor.
+* [Solderq35's 37:42 Trilogy SA/SO](https://youtu.be/jHzyLh_Gy8c)
+	* Turn on Youtube Subtitles for text commentary.
+	* Colorado strategy here is somewhat outdated due to lighting changes, use Tsta's Colorado strategy instead.
+	
+Other Beginner Routes to consider:
+* [1:27 easy Paris SA/SO alternative](https://youtu.be/U4tb4vn5UbY)
+	* Middle ground (in terms of speed and difficulty) compared to the Paris strat shown in the 29:36 and 37:42 trilogy runs. 
+* [1:44 easy Sapienza](https://youtu.be/TUSgSfCZIe0)
+	* Easier virus and Silvio kills
+* [2:58 easy Romania](https://youtu.be/qk6z9Pg_Lxg)
+	* No ending panic shots
+
+
 
 ### Seasonal Only
 * [Paris 30s](https://youtu.be/zoZFALSCoLs?t=6)
@@ -40,5 +54,5 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 	* Probably not consistent enough for trilogy, just good for Season 3 runs
 * [Romania 2:1X Tutorial](https://youtu.be/F0mYxJ0CE2s?t=154)
 * Anything else from these runs: 
-	* [Season 1 3:52 SA/SO](https://www.youtube.com/watch?v=zoZFALSCoLs)
-	* [Season 3 6:06 SA/SO](https://www.youtube.com/watch?v=arQyev_l_Vk)
+	* [Moodehh's Season 1 3:52 SA/SO](https://www.youtube.com/watch?v=zoZFALSCoLs)
+	* [Housen's Season 3 6:06 SA/SO](https://www.youtube.com/watch?v=arQyev_l_Vk)
