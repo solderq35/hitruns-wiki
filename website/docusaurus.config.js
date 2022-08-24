@@ -66,6 +66,10 @@ module.exports = {
               to: "docs/beginner",
             },
 			{
+              label: "Fullgame Tutorials",
+              to: "docs/fullgame_tutorials",
+            },
+			{
               label: "Livesplit",
               to: "docs/livesplit",
             },
