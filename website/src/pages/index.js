@@ -44,17 +44,6 @@ function Home() {
           <p className="hero__subtitle">
             Hitman 3 Speedrunning Wiki
           </p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                "button button--outline button--secondary button--lg",
-                styles.getStarted
-              )}
-              to={"#"}
-            >
-              Try the search bar on the top-right corner.
-            </Link>
-          </div>
         </div>
       </header>
       <main>
