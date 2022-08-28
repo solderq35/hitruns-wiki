@@ -15,6 +15,10 @@ Routing tool for PC users with Nvidia graphics card.
 
 Please use this tool to add up in-game time for full game runs. Click "Save as URL" and copy URL after entering times.
 
+### [H3 Speedrun Tools / Mods](https://rentry.org/h3speedruntools)
+
+More comprehensive list of speedrun mods / tools. Some overlap with existing items here.
+
 ### [HITMAN 3 Unlocks and Mastery Guide (Steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637)
 
 Comprehensive list of unlocks of Hitman 3, and where/ how to unlock them. Alternative guide (includes mastery starting locations, but not deluxe/ 7DS): https://hitman.fandom.com/wiki/List_of_mastery_unlocks_by_mission
