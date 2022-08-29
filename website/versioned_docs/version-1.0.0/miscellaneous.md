@@ -50,9 +50,9 @@ Concussive explosives are much less audible making them only be heard in the roo
 ## First Person Mode Glitch
 * First Person Mode Glitch is sometimes useful for long range pistol snipes. Note that this does not make your gun itself more accurate, just lets you see farther.
 * Inputs: **Press and hold** the Use Camera Button (Right Click on PC) > Zoom in camera (Optional, default PC keybind is X) > Pause > **Briefly Tap** the Use Camera button (Right Click) > Go to Inventory to select gun (optional)
+	* Warning: Make sure to exit the first person mode by equipping the camera again and pressing the Use Camera Button before you reset the level / die / etc. Otherwise game will crash.
 * [PC Example](https://youtu.be/6HX9-UqjhUE?t=29)
 * [Console Instructions](https://youtu.be/_kZPfiJeVIw?t=93)
-	* Warning: Make sure to exit the first person mode by equipping the camera again and pressing the Use Camera Button before you reset the level / die / etc. Otherwise game will crash.
 
 ## Glossary
 
