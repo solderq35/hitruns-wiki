@@ -14,6 +14,8 @@ If you still can't find what you're looking for, feel free to shoot a question i
 	* Toggling crouch is beneficial for [fast throw](fast_anim#fast-throw-all-platforms)
 	* Crouching can give you faster animations for some prompts, as [shown here](https://youtu.be/XPyBK2yCC5o?t=9)
 	* You will switch between items in your hands faster when crouched (most noticeable when swapping from holding a sniper rifle to a pistol).
+	* You can pick items up more quickly if you toggle crouch and uncrouch just before / afterwards.
+	* You can change disguise faster if you toggle crouch and unrouch during the animation.
 
 ## Fast Interact 
 
@@ -59,7 +61,7 @@ For fast disguise change:
 
 For fast body drag / briefcase retrieve: 
 * When by a body drag or unpack briefcase prompt, press inventory (D-pad left or right button), then square OR circle , then circle in quick succession.
-* See the [Guns page](https://hitruns-wiki.vercel.app/docs/guns#console-fast-sniper-briefcase-unpack) for more info on fast sniper briefcase unpack.
+* See the [Fast Briefcase Unpack](fast_anim#console-fast-sniper-briefcase-unpack) section for more info on fast sniper briefcase unpack.
 
 #### Xbox Instructions
 
@@ -71,7 +73,7 @@ For fast disguise change:
 
 For fast body drag / briefcase retrieve:
 * When by a drag body or unpack briefcase prompt, press inventory button (D-pad left or right button), then X OR B, then B in quick succession.
-* See the [Guns page](https://hitruns-wiki.vercel.app/docs/guns#console-fast-sniper-briefcase-unpack) for more info on fast sniper briefcase unpack.
+* See the [Fast Briefcase Unpack](fast_anim#console-fast-sniper-briefcase-unpack) section for more info on fast sniper briefcase unpack.
 
 * [Example of fast pickup](https://youtu.be/KB4gU2d7938?t=89)
 * [Example of fast disguise change](https://youtu.be/KB4gU2d7938?t=50)
@@ -90,7 +92,7 @@ Saves about half a second overall
 	* [Example of Fast Unpack into Shoot](https://youtu.be/wJOCZtttzDk?t=32)
 	
 ### Console Fast Sniper Briefcase Unpack
-* You can more or less follow the same inputs as explained above, however on console it is also necessary to use [fast animation trick](https://hitruns-wiki.vercel.app/docs/fast_anim#console-fast-interact) for the "Unpack" step.
+* You can more or less follow the same inputs as explained above, however on console it is also necessary to use [fast briefcase retrieve trick](fast_anim#console-fast-interact) for the "Unpack" step.
 * [Example 1](https://youtu.be/5pochP7Ynek?t=36)
 * [Example 2](https://youtu.be/ijf7khHNFEE?t=372)
 

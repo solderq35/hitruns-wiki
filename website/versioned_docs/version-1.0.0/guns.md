@@ -51,7 +51,7 @@ Sieker does not fire bullets, but its emetic effect is very useful. Besides the 
 * [Example of using Sieker on gardener so he cannot spot me later](https://youtu.be/ITWmeusSv48?t=33)
 
 ## Fast Sniper Briefcase Unpack
-* See more here: https://hitruns-wiki.vercel.app/docs/fast_anim#fast-sniper-briefcase-unpack
+* See more [here](fast_anim#console-fast-sniper-briefcase-unpack)
   
 ## Snap Shooting
 Generally speaking snap shooting refers to shooting quickly without aiming much before hand, using the white dot in the middle of screen to help aim at most.

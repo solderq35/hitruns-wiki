@@ -62,7 +62,7 @@ A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_3), [Category
 * For new players, SA/SO on the Main Leaderboard is suggested. Start with a level you like playing casually.
 
 ## Q: I am having trouble with X trick/ have a question about the leaderboard rules, can anyone help me?
-A:  For general advice, consider reading the [other guides](https://www.speedrun.com/hitman_3/guides) first.
+A:  For general advice, consider reading the [other guides](https://hitruns-wiki.vercel.app/docs/index) first.
 
 For more specific questions, these are the following Hitman speedrunning discord servers.
 
