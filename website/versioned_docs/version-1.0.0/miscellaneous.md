@@ -19,12 +19,12 @@ Cutscene waiting is a great way to speed up a run. While the cutscene plays, NPC
 * Following NPC's aren't affected by cutscene wait: Rico Delgado, Sierra Knox in racecar (from the default Miami start), Ljudmilla Vetrova.
 
 ## Unlocking Doors
-Some of the methods of unlocking doors were covered [here](https://www.speedrun.com/hitman_3/guide/h5jij), but I will go more into depth on the topic here as well.
+Some of the methods of unlocking doors were covered [here](guns), but I will go more into depth on the topic here as well.
 
 General guidelines:
 *  Lockpick and Crowbar obviously only work on physical lock doors, while scramblers/ key hackers and EMP only work on electric doors.
 * All SMG's, assault rifles, sniper rifles, shotguns, striker/ matador and full auto pistols can shoot open physical lock doors and electric swinging doors alike. You cannot shoot open sliding electric doors with guns.
-* You can open doors with semi-auto pistols, refer [here](https://hitruns-wiki.vercel.app/docs/guns#mudshot) for more info.
+* You can open doors with semi-auto pistols, refer [here](guns#mudshot) for more info.
 * [Example video](https://youtu.be/voBsuKu-thI?t=136)
 * You can additionally speed this up by [not pausing until you take the first shot](https://youtu.be/voBsuKu-thI?t=148), although this is riskier.
 * Explosives can generally open physical lock doors and electric swinging doors, but not electric sliding doors.
@@ -46,6 +46,13 @@ Concussive explosives are much less audible making them only be heard in the roo
 ## RFID Coin Properties
 * RFID coin can trigger proximity related things, such as Truck exit in Mumbai, Into the Woods exit in Berlin, Bridge exit in Dartmoor
 * [Example of using RFID coin to exit early in Mumbai](https://youtu.be/sK0xEhyFI_I?t=12)
+
+## First Person Mode Glitch
+* First Person Mode Glitch is sometimes useful for long range pistol snipes. Note that this does not make your gun itself more accurate, just lets you see farther.
+* Inputs: **Press and hold** the Use Camera Button (Right Click on PC) > Zoom in camera (Optional, default PC keybind is X) > Pause > **Briefly Tap** the Use Camera button (Right Click) > Go to Inventory to select gun (optional)
+* [PC Example](https://youtu.be/6HX9-UqjhUE?t=29)
+* [Console Instructions](https://youtu.be/_kZPfiJeVIw?t=93)
+	* Warning: Make sure to exit the first person mode by equipping the camera again and pressing the Use Camera Button before you reset the level / die / etc. Otherwise game will crash.
 
 ## Glossary
 
