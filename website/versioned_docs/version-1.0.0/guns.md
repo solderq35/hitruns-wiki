@@ -51,15 +51,7 @@ Sieker does not fire bullets, but its emetic effect is very useful. Besides the 
 * [Example of using Sieker on gardener so he cannot spot me later](https://youtu.be/ITWmeusSv48?t=33)
 
 ## Fast Sniper Briefcase Unpack
-Saves about half a second overall
-* Technically this works with all large items that can be unpacked from briefcases, but most common use is with sniper rifle.
-* To perform fast unpack, the optimal inputs are:
-  * Look Down > Drop > Unpack > Crouch > Uncrouch 
-    * [Basic Example Video](https://youtu.be/iFOvfjnZ3NY)
-  * Note: Don't uncrouch at the end if you don't have a reason to stand up before shooting. In particular, beginners may want to forgo the uncrouch input, as mistiming this can lead to a very slow unpack animation.
-* If you need to shoot something right after unpacking the optimal inputs will be:
-	* Look Down > Drop > Unpack > Crouch > Aim (Right Mouse Button) + Marksman Mode (Shift button) + Uncrouch (Optional)
-	* [Example of Fast Unpack into Shoot](https://youtu.be/wJOCZtttzDk?t=32)
+* See more here: https://hitruns-wiki.vercel.app/docs/fast_anim#fast-sniper-briefcase-unpack
   
 ## Snap Shooting
 Generally speaking snap shooting refers to shooting quickly without aiming much before hand, using the white dot in the middle of screen to help aim at most.
@@ -134,17 +126,6 @@ To prevent this, crouch and uncrouch before aiming.
 * [Example 1](https://youtu.be/Kv8gXsGnzy0?t=3)
 * [Example 2](https://youtu.be/mKxcnWJD7oQ?t=4)
 * [Example 3](https://www.bilibili.com/video/BV12v4y1M7hX?t=1m16s)
-
-## Gunslide
-A bit faster than just running down normally.
-* Basic Version:  
-	* Turn the camera such that 47 is running face first at the camera, and crouch run down the stairs / slope. While you are doing that, press and hold the shoot button (Left mouse button). Do not press the aim button (Right mouse button). Drop and pick up pistol, press aim button, or holster weapon to stop the glide.
-	* [Example of basic gunslide](https://youtu.be/voBsuKu-thI?t=28)
-	* This also works on [Sapienza cliff](https://youtu.be/l5xo6fOUSq0?t=38). Remember to only click shoot button and not aim button, and to be crouched and with correct camera angle.
-
-More advanced versions of gunslide include gunslide with railing. In this case crouching is not needed.
-* [Gunslide on railng while facing forwards](https://youtu.be/XPyBK2yCC5o?t=16)
-* [Gunslide on railing while facing backwards](https://youtu.be/7mrfqKj86c0?t=100)
 
 ## Mudshot
 * You can open swinging doors with semi automatic pistols if you use pause buffering ("mudshot", named after discoverer muddye).

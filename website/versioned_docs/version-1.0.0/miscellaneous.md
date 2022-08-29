@@ -33,22 +33,6 @@ Concussive explosives are much less audible making them only be heard in the roo
 * [Example](https://youtu.be/rLJJKdxbMas?t=46)
 * Note that shaman powder is as audible as a regular explosive
 
-## Fast Disguise Change
-There are several disguise change animations, some of which are slower than others. To avoid the slow disguise change animation, it is best to crouch before taking disguise, or else to grab the body before changing disguise.
-* [Example 1](https://youtu.be/hxXunF1WkeM?t=57): Slow disguise change animation (where 47 runs his hands along each arm). This happens sometimes if you are standing when you take disguise. Avoid this at all costs!
-* [Example 2](https://youtu.be/B-T12TJfHBM?t=44): Notice how 47 does a faster animation without running his hands along his arms.
-* [Example 3](https://youtu.be/2HGNgKRJMdc?t=55): Grabbing body before disguise change is also a way to avoid the slow disguise change animation. Note this works even if you are standing up before grabbing body.
-
-## Strafe to avoid Inventory Stutter
-Strafe slightly to one side for roughly 0.00001s-0.3s and press to open the inventory while doing so
-* [Example](https://youtu.be/E27yVaESkTY)
-* Note: Strafing into inventory also helps you get to the inventory right away after throwing an item. Otherwise there is a noticeable delay.
-
-## NPC Clipping
-* Only works for real NPC
-* Will persist until you close the game
-* [Video Guide](https://youtu.be/-iaWEkmj9ko)
-
 ## Map Buffering for Throws
 * Buffering map while throwing will make an object bounce farther across the ground when thrown
 * [Example video](https://youtu.be/j3RKns5wbbc)

@@ -51,11 +51,11 @@ A: Keybinds are mostly just personal preference, but here are some things to con
 ## Q: How do I set up Livesplit for full game runs?
 A: You can use one of the following livesplit methods
 
-* [Peacock Autosplitter](https://www.speedrun.com/hitman_3/guide/vamms) - Most accurate autosplitter and easiest to use, but requires installation of [Peacock](https://thepeacockproject.org/wiki/intel/). Works on both Steam and Epic.
+* [Peacock Autosplitter](https://hitruns-wiki.vercel.app/docs/livesplit_peacock) - Most accurate autosplitter and easiest to use, but requires installation of [Peacock](https://thepeacockproject.org/wiki/intel/). Works on both Steam and Epic.
 
-* [Official Servers Autosplitter](https://www.speedrun.com/hitman_3/guide/kbydm) - As the name implies, this works on official servers (Epic Only). It is generally less accurate than the Peacock Autosplitter.
+* [Official Servers Autosplitter](https://hitruns-wiki.vercel.app/docs/livesplit_auto_official) - As the name implies, this works on official servers (Epic Only). **May be out of date / no longer working**. It is generally less accurate than the Peacock Autosplitter.
 
-* [Manual Splitter](https://www.speedrun.com/hitman_3/guide/46anj) - Very accurate and works on all platforms / server versions. However it is a bit cumbersome to use.
+* [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However it is a bit cumbersome to use.
 
 # Q: I'm new, what categories are there?
 A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_3), [Category Extensions Leaderboard](https://www.speedrun.com/hitman_3_extensions), [Escalations Leaderboard](https://www.speedrun.com/hitman_3_escalations), [Elusive Target Leaderboard](https://www.speedrun.com/hitman_3_et_).

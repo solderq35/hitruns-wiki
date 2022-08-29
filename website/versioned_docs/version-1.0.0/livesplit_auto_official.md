@@ -5,6 +5,8 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 [Video Tutorial](https://youtu.be/81oA4RHAQug)- If you prefer video to text tutorial.
 
+**May be out of date / no longer working on latest game version.**
+
 ## Specifications: 
 
 **For a number of reasons explained below, please install the [Peacock Autosplitter](https://www.speedrun.com/hitman_3/guide/vamms) if you have the option to do so. It is more accurate, although it does require installing [Peacock](https://thepeacockproject.org/wiki/intel/) as well.**
