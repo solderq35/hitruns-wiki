@@ -58,7 +58,7 @@ A: You can use one of the following livesplit methods
 * [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However it is a bit cumbersome to use.
 
 # Q: I'm new, what categories are there?
-A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_3), [Category Extensions Leaderboard](https://www.speedrun.com/hitman_3_extensions), [Escalations Leaderboard](https://www.speedrun.com/hitman_3_escalations), [Elusive Target Leaderboard](https://www.speedrun.com/hitman_3_et_).
+A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_3), [Category Extensions Leaderboard](https://www.speedrun.com/hitman_3_extensions), [Escalations Leaderboard](https://www.speedrun.com/hitman_3_escalations), [Elusive Target Leaderboard](https://www.speedrun.com/hitman_3_et).
 * For new players, SA/SO on the Main Leaderboard is suggested. Start with a level you like playing casually.
 
 ## Q: I am having trouble with X trick/ have a question about the leaderboard rules, can anyone help me?
