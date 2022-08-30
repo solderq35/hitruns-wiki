@@ -28,11 +28,6 @@ module.exports = {
           label: "Guides",
           position: "left",
         },
-        {
-          href: "https://github.com/solderq35/hitruns-wiki",
-          label: "GitHub",
-          position: "right",
-        },
 		{
           href: "/docs/resources",
           label: "Resources",
@@ -48,7 +43,11 @@ module.exports = {
           label: "Leaderboards",
           position: "left",
         },
-		
+		{
+          href: "https://github.com/solderq35/hitruns-wiki#contribution-guidelines",
+          label: "Contribution Guidelines",
+          position: "right",
+        },
       ],
     },
     footer: {
@@ -83,6 +82,10 @@ module.exports = {
               label: "Discord",
               href: "/docs/discord",
             },
+			{
+			  label: "Contribution Guidelines",
+			  href: "https://github.com/solderq35/hitruns-wiki#contribution-guidelines",
+			}
           ],
         },
         {
