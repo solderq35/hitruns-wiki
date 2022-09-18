@@ -27,7 +27,7 @@ Comprehensive list of unlocks of Hitman 3, and where/ how to unlock them. Altern
 
 Interactive maps containing info on every item location, navigation feature, etc. Useful tool for routing.
 
-### [Leaderboard Mirror](https://hitruns.vercel.app/)
+### [HitRuns (Leaderboard Mirror)](https://hitruns.vercel.app/)
 
 Mirror of Hitman 3 speedrun.com leaderboards.
 
