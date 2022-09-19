@@ -1,25 +1,18 @@
-import { tokenize } from "./tokenize";
-import { smartQueries } from "./smartQueries";
+import { tokenize } from './tokenize';
+import { smartQueries } from './smartQueries';
 import {
   MatchMetadata,
   WrappedIndex,
   SearchResult,
   SearchDocument,
   InitialSearchResult,
-} from "../../shared/interfaces";
-import { sortSearchResults } from "./sortSearchResults";
-import { processTreeStatusOfSearchResults } from "./processTreeStatusOfSearchResults";
-import { language } from "./proxiedGenerated";
+} from '../../shared/interfaces';
+import { sortSearchResults } from './sortSearchResults';
+import { processTreeStatusOfSearchResults } from './processTreeStatusOfSearchResults';
+import { language } from './proxiedGenerated';
 
-export function SearchSourceFactory(
-  wrappedIndexes: WrappedIndex[],
-  zhDictionary: string[],
-  resultsLimit: number
-) {
-  return function searchSource(
-    input: string,
-    callback: (results: SearchResult[]) => void
-  ): void {
+export function SearchSourceFactory(wrappedIndexes: WrappedIndex[], zhDictionary: string[], resultsLimit: number) {
+  return function searchSource(input: string, callback: (results: SearchResult[]) => void): void {
     const rawTokens = tokenize(input, language);
     if (rawTokens.length === 0) {
       callback([]);
@@ -43,25 +36,14 @@ export function SearchSourceFactory(
             })
             .slice(0, resultsLimit)
             // Remove duplicated results.
-            .filter(
-              (result) =>
-                !results.some(
-                  (item) => item.document.i.toString() === result.ref
-                )
-            )
+            .filter((result) => !results.some((item) => item.document.i.toString() === result.ref))
             .slice(0, resultsLimit - results.length)
             .map((result) => {
-              const document = documents.find(
-                (doc) => doc.i.toString() === result.ref
-              ) as SearchDocument;
+              const document = documents.find((doc) => doc.i.toString() === result.ref) as SearchDocument;
               return {
                 document,
                 type,
-                page:
-                  type !== 0 &&
-                  wrappedIndexes[0].documents.find(
-                    (doc) => doc.i === document.p
-                  ),
+                page: type !== 0 && wrappedIndexes[0].documents.find((doc) => doc.i === document.p),
                 metadata: result.matchData.metadata as MatchMetadata,
                 tokens,
                 score: result.score,

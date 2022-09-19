@@ -1,8 +1,8 @@
-import { EmptyTemplate } from "./EmptyTemplate";
+import { EmptyTemplate } from './EmptyTemplate';
 
-jest.mock("../../utils/proxiedGenerated");
+jest.mock('../../utils/proxiedGenerated');
 
-describe("EmptyTemplate", () => {
+describe('EmptyTemplate', () => {
   const OLD_ENV = process.env;
 
   beforeEach(() => {
@@ -14,13 +14,13 @@ describe("EmptyTemplate", () => {
     process.env = OLD_ENV; // restore old env
   });
 
-  test("production", () => {
-    process.env.NODE_ENV = "production";
-    expect(EmptyTemplate()).toContain("No results");
+  test('production', () => {
+    process.env.NODE_ENV = 'production';
+    expect(EmptyTemplate()).toContain('No results');
   });
 
-  test("development", () => {
-    process.env.NODE_ENV = "development";
-    expect(EmptyTemplate()).toContain("build");
+  test('development', () => {
+    process.env.NODE_ENV = 'development';
+    expect(EmptyTemplate()).toContain('build');
   });
 });

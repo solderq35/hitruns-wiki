@@ -1,62 +1,58 @@
-import fs from "fs";
-import { parse } from "./parse";
-import { DocInfoWithFilePath } from "../../shared/interfaces";
+import fs from 'fs';
+import { parse } from './parse';
+import { DocInfoWithFilePath } from '../../shared/interfaces';
 
-jest.mock("./parse");
-jest.spyOn(fs, "readFile").mockImplementation(((
-  filePath,
-  options,
-  callback
-) => {
+jest.mock('./parse');
+jest.spyOn(fs, 'readFile').mockImplementation(((filePath, options, callback) => {
   callback(null, filePath as any);
 }) as unknown as any);
 
 // Use `require` to avoid *import hoisting*.
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-const { scanDocuments } = require("./scanDocuments");
+const { scanDocuments } = require('./scanDocuments');
 
 const mockParse = parse as jest.MockedFunction<typeof parse>;
 
-describe("scanDocuments", () => {
-  test("should work", async () => {
+describe('scanDocuments', () => {
+  test('should work', async () => {
     const DocInfoWithFilePathList: DocInfoWithFilePath[] = [
       {
-        filePath: "/tmp/1",
-        url: "/1",
-        type: "docs",
+        filePath: '/tmp/1',
+        url: '/1',
+        type: 'docs',
       },
       {
-        filePath: "/tmp/2",
-        url: "/2",
-        type: "page",
+        filePath: '/tmp/2',
+        url: '/2',
+        type: 'page',
       },
     ];
     mockParse.mockImplementation((html) => {
-      if (html.includes("1")) {
+      if (html.includes('1')) {
         return {
-          pageTitle: "Hello First Docs",
+          pageTitle: 'Hello First Docs',
           sections: [
             {
-              title: "Hello First Docs",
-              hash: "",
-              content: "Leading content.",
+              title: 'Hello First Docs',
+              hash: '',
+              content: 'Leading content.',
             },
             {
-              title: "First heading",
-              hash: "#first-heading",
-              content: "First content.",
+              title: 'First heading',
+              hash: '#first-heading',
+              content: 'First content.',
             },
           ],
-          breadcrumb: ["Docs"],
+          breadcrumb: ['Docs'],
         };
       } else {
         return {
-          pageTitle: "Hello First Page",
+          pageTitle: 'Hello First Page',
           sections: [
             {
-              title: "Hello First Page",
-              hash: "",
-              content: "",
+              title: 'Hello First Page',
+              hash: '',
+              content: '',
             },
           ],
           breadcrumb: [],

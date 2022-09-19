@@ -1,8 +1,8 @@
-import { InitialSearchResult } from "../../shared/interfaces";
-import { sortSearchResults } from "./sortSearchResults";
+import { InitialSearchResult } from '../../shared/interfaces';
+import { sortSearchResults } from './sortSearchResults';
 
-describe("sortSearchResults", () => {
-  test("should work", () => {
+describe('sortSearchResults', () => {
+  test('should work', () => {
     const pageTitles = [
       {
         document: {
@@ -66,8 +66,6 @@ describe("sortSearchResults", () => {
       },
     ] as InitialSearchResult[];
     sortSearchResults(results);
-    expect(results.map((item) => item.document.i)).toEqual([
-      1, 2, 100, 101, 3, 200, 201, 202,
-    ]);
+    expect(results.map((item) => item.document.i)).toEqual([1, 2, 100, 101, 3, 200, 201, 202]);
   });
 });

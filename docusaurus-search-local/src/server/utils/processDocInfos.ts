@@ -1,35 +1,24 @@
-import path from "path";
+import path from 'path';
 import {
   DocInfoWithFilePath,
   DocInfoWithRoute,
   VersionDocInfo,
   ProcessedPluginOptions,
   PostBuildData,
-} from "../../shared/interfaces";
-import { LoadedContent, LoadedVersion } from "@docusaurus/plugin-content-docs";
+} from '../../shared/interfaces';
+import { LoadedContent, LoadedVersion } from '@docusaurus/plugin-content-docs';
 
 export function processDocInfos(
   { routesPaths, outDir, baseUrl, siteConfig, plugins }: PostBuildData,
-  {
-    indexDocs,
-    indexBlog,
-    indexPages,
-    docsRouteBasePath,
-    blogRouteBasePath,
-    ignoreFiles,
-  }: ProcessedPluginOptions
+  { indexDocs, indexBlog, indexPages, docsRouteBasePath, blogRouteBasePath, ignoreFiles }: ProcessedPluginOptions
 ): VersionDocInfo[] {
   const emptySet = new Set();
   let versionData: any = [{ versionOutDir: outDir, docs: emptySet }];
   if (plugins) {
-    const docsPluginData = plugins.find(
-      (element) => element.name === "docusaurus-plugin-content-docs"
-    );
+    const docsPluginData = plugins.find((element) => element.name === 'docusaurus-plugin-content-docs');
     if (docsPluginData) {
       versionData = [];
-      const loadedVersions: LoadedVersion[] = (
-        docsPluginData.content as LoadedContent
-      ).loadedVersions;
+      const loadedVersions: LoadedVersion[] = (docsPluginData.content as LoadedContent).loadedVersions;
       for (const loadedVersion of loadedVersions) {
         const docs = new Set();
         for (const doc of loadedVersion.docs) {
@@ -39,10 +28,7 @@ export function processDocInfos(
         let versionOutDir = outDir;
         // The last versions search-index should always be placed in the root since it is the one used from non-docs pages
         if (!loadedVersion.isLast) {
-          versionOutDir = path.join(
-            outDir,
-            ...route.split("/").filter((i: string) => i)
-          );
+          versionOutDir = path.join(outDir, ...route.split('/').filter((i: string) => i));
         }
         versionData.push({ versionOutDir, docs });
       }
@@ -60,14 +46,13 @@ export function processDocInfos(
             `The route must start with the baseUrl "${baseUrl}", but was "${url}". This is a bug, please report it.`
           );
         }
-        const route = url.substr(baseUrl.length).replace(/\/$/, "");
+        const route = url.substr(baseUrl.length).replace(/\/$/, '');
 
         // Do not index homepage, error page and search page.
         if (
-          ((!docsRouteBasePath || docsRouteBasePath[0] !== "") &&
-            route === "") ||
-          route === "404.html" ||
-          route === "search"
+          ((!docsRouteBasePath || docsRouteBasePath[0] !== '') && route === '') ||
+          route === '404.html' ||
+          route === 'search'
         ) {
           return;
         }
@@ -75,7 +60,7 @@ export function processDocInfos(
         // ignore files
         if (
           ignoreFiles?.some((reg: RegExp | string) => {
-            if (typeof reg === "string") {
+            if (typeof reg === 'string') {
               return route === reg;
             }
             return route.match(reg);
@@ -84,37 +69,25 @@ export function processDocInfos(
           return;
         }
 
-        if (
-          indexBlog &&
-          blogRouteBasePath.some((basePath) =>
-            isSameOrSubRoute(route, basePath)
-          )
-        ) {
+        if (indexBlog && blogRouteBasePath.some((basePath) => isSameOrSubRoute(route, basePath))) {
           if (
             blogRouteBasePath.some(
-              (basePath) =>
-                isSameRoute(route, basePath) ||
-                isSameOrSubRoute(route, path.posix.join(basePath, "tags"))
+              (basePath) => isSameRoute(route, basePath) || isSameOrSubRoute(route, path.posix.join(basePath, 'tags'))
             )
           ) {
             // Do not index list of blog posts and tags filter pages
             return;
           }
-          return { route, url, type: "blog" };
+          return { route, url, type: 'blog' };
         }
-        if (
-          indexDocs &&
-          docsRouteBasePath.some((basePath) =>
-            isSameOrSubRoute(route, basePath)
-          )
-        ) {
+        if (indexDocs && docsRouteBasePath.some((basePath) => isSameOrSubRoute(route, basePath))) {
           if (docs.size === 0 || docs.has(url)) {
-            return { route, url, type: "docs" };
+            return { route, url, type: 'docs' };
           }
           return;
         }
         if (indexPages) {
-          return { route, url, type: "page" };
+          return { route, url, type: 'page' };
         }
         return;
       })
@@ -122,9 +95,7 @@ export function processDocInfos(
       .map<DocInfoWithFilePath>(({ route, url, type }) => ({
         filePath: path.join(
           outDir,
-          siteConfig.trailingSlash === false && route != ""
-            ? `${route}.html`
-            : `${route}/index.html`
+          siteConfig.trailingSlash === false && route != '' ? `${route}.html` : `${route}/index.html`
         ),
         url,
         type,
@@ -142,10 +113,7 @@ function isSameRoute(routeA: string, routeB: string): boolean {
 }
 
 function isSameOrSubRoute(childRoute: string, parentRoute: string): boolean {
-  return (
-    parentRoute === "" ||
-    addTrailingSlash(childRoute).startsWith(addTrailingSlash(parentRoute))
-  );
+  return parentRoute === '' || addTrailingSlash(childRoute).startsWith(addTrailingSlash(parentRoute));
 }
 
 // The input route must not end with a slash.

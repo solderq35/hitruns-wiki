@@ -7,8 +7,8 @@ description: Electrocution tips and spreadsheet
 If you still can't find what you're looking for, feel free to shoot a question in the #hitman-3 channel of the Discord: https://discord.com/invite/E45wUBnxBT
 **
 
-
 ## Table of Electric Device Properties
+
 ![Electrotable](https://i.ibb.co/CVr8b8Z/electrotable.png)
 
 Note that micro taser can electrocute civilian NPC's without a puddle, if placed in mailbox.

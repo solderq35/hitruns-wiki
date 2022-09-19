@@ -1,8 +1,8 @@
-declare module "@easyops-cn/autocomplete.js" {
+declare module '@easyops-cn/autocomplete.js' {
   export const noConflict: () => void;
 }
 
-declare module "*/generated.js" {
+declare module '*/generated.js' {
   export const language: string[];
   export const removeDefaultStopWordFilter: string[];
   export const removeDefaultStemmer: string[];
@@ -23,4 +23,4 @@ declare module "*/generated.js" {
   export const __setRemoveDefaultStemmer: (value: boolean) => void;
 }
 
-declare module "@docusaurus/Head";
+declare module '@docusaurus/Head';

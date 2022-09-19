@@ -1,5 +1,5 @@
-import { DocusaurusConfig, LoadedPlugin } from "@docusaurus/types";
-import lunr from "lunr";
+import { DocusaurusConfig, LoadedPlugin } from '@docusaurus/types';
+import lunr from 'lunr';
 
 export type SmartTerm = SmartTermItem[];
 
@@ -133,7 +133,7 @@ export interface VersionDocInfo {
   paths: DocInfoWithFilePath[];
 }
 
-export type DocInfoType = "docs" | "blog" | "page";
+export type DocInfoType = 'docs' | 'blog' | 'page';
 
 export interface PluginOptions {
   indexDocs?: boolean;
@@ -175,15 +175,7 @@ export interface PluginOptions {
 }
 
 export type ProcessedPluginOptions = Required<
-  Omit<
-    PluginOptions,
-    | "language"
-    | "docsRouteBasePath"
-    | "blogRouteBasePath"
-    | "docsDir"
-    | "blogDir"
-    | "ignoreFiles"
-  >
+  Omit<PluginOptions, 'language' | 'docsRouteBasePath' | 'blogRouteBasePath' | 'docsDir' | 'blogDir' | 'ignoreFiles'>
 > & {
   docsRouteBasePath: string[];
   blogRouteBasePath: string[];

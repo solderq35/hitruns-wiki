@@ -1,20 +1,20 @@
-import _lunr from "lunr";
-import { lunrLanguageZh as _lunrLanguageZh } from "./lunrLanguageZh";
+import _lunr from 'lunr';
+import { lunrLanguageZh as _lunrLanguageZh } from './lunrLanguageZh';
 
-describe("lunrLanguageZh", () => {
+describe('lunrLanguageZh', () => {
   let lunr: typeof _lunr;
   let lunrLanguageZh: typeof _lunrLanguageZh;
 
   beforeEach(() => {
     jest.resetModules();
-    lunr = require("lunr");
+    lunr = require('lunr');
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    require("lunr-languages/lunr.stemmer.support")(lunr);
+    require('lunr-languages/lunr.stemmer.support')(lunr);
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    lunrLanguageZh = require("./lunrLanguageZh").lunrLanguageZh;
+    lunrLanguageZh = require('./lunrLanguageZh').lunrLanguageZh;
   });
 
-  test("should work with tokenizer", () => {
+  test('should work with tokenizer', () => {
     const tokenizer = jest.fn();
     lunrLanguageZh(lunr, tokenizer);
     lunr(function () {
@@ -23,7 +23,7 @@ describe("lunrLanguageZh", () => {
     });
   });
 
-  test("should work with no tokenizer", () => {
+  test('should work with no tokenizer', () => {
     lunrLanguageZh(lunr);
     lunr(function () {
       const originalTokenizer = this.tokenizer;

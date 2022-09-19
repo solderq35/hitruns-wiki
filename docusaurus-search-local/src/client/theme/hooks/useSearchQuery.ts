@@ -5,11 +5,11 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import { useHistory, useLocation } from "@docusaurus/router";
-import ExecutionEnvironment from "@docusaurus/ExecutionEnvironment";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { useHistory, useLocation } from '@docusaurus/router';
+import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
-const SEARCH_PARAM_QUERY = "q";
+const SEARCH_PARAM_QUERY = 'q';
 
 function useSearchQuery(): any {
   const history = useHistory();
@@ -19,10 +19,7 @@ function useSearchQuery(): any {
   } = useDocusaurusContext();
 
   return {
-    searchValue:
-      (ExecutionEnvironment.canUseDOM &&
-        new URLSearchParams(location.search).get(SEARCH_PARAM_QUERY)) ||
-      "",
+    searchValue: (ExecutionEnvironment.canUseDOM && new URLSearchParams(location.search).get(SEARCH_PARAM_QUERY)) || '',
     updateSearchPath: (searchValue: string) => {
       const searchParams = new URLSearchParams(location.search);
 

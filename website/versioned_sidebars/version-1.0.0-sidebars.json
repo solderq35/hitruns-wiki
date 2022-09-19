@@ -7,21 +7,13 @@
         "type": "generated-index",
         "slug": "index"
       },
-      "items": [
-        "boosting",
-        "electrocution",
-        "explosives",
-        "fast_anim",
-        "guns",
-        "lures",
-        "miscellaneous"
-      ]
+      "items": ["boosting", "electrocution", "explosives", "fast_anim", "guns", "lures", "miscellaneous"]
     },
     {
       "type": "doc",
       "id": "beginner"
     },
-	{
+    {
       "type": "doc",
       "id": "fullgame_tutorials"
     },
@@ -32,17 +24,13 @@
         "type": "generated-index",
         "slug": "livesplit"
       },
-      "items": [
-        "livesplit_peacock",
-        "livesplit_manual",
-        "livesplit_auto_official"
-      ]
+      "items": ["livesplit_peacock", "livesplit_manual", "livesplit_auto_official"]
     },
     {
       "type": "doc",
       "id": "discord"
     },
-	{
+    {
       "type": "doc",
       "id": "resources"
     }

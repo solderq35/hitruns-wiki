@@ -1,8 +1,8 @@
-import { InitialSearchResult } from "../../shared/interfaces";
-import { processTreeStatusOfSearchResults } from "./processTreeStatusOfSearchResults";
+import { InitialSearchResult } from '../../shared/interfaces';
+import { processTreeStatusOfSearchResults } from './processTreeStatusOfSearchResults';
 
-describe("processTreeStatusOfSearchResults", () => {
-  test("should work", () => {
+describe('processTreeStatusOfSearchResults', () => {
+  test('should work', () => {
     const pageTitles = [
       {
         document: {

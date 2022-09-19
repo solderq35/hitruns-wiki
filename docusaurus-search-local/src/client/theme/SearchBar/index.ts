@@ -1,4 +1,4 @@
-import "../../utils/proxiedGenerated";
-import SearchBar from "./SearchBar";
+import '../../utils/proxiedGenerated';
+import SearchBar from './SearchBar';
 
 export default SearchBar;

@@ -1,5 +1,5 @@
-import { SmartTerm } from "../../shared/interfaces";
-import { cutZhWords } from "./cutZhWords";
+import { SmartTerm } from '../../shared/interfaces';
+import { cutZhWords } from './cutZhWords';
 
 /**
  * Get all possible terms for a list of tokens consists of words mixed in Chinese and non-Chinese,
@@ -10,10 +10,7 @@ import { cutZhWords } from "./cutZhWords";
  *
  * @returns A smart term list.
  */
-export function smartTerms(
-  tokens: string[],
-  zhDictionary: string[]
-): SmartTerm[] {
+export function smartTerms(tokens: string[], zhDictionary: string[]): SmartTerm[] {
   const terms: SmartTerm[] = [];
 
   function cutMixedWords(subTokens: string[], carry: SmartTerm): void {

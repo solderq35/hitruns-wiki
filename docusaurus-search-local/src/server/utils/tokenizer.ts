@@ -1,24 +1,18 @@
-import lunr from "lunr";
-import jieba from "@node-rs/jieba";
-import { MatchMetadata } from "../../shared/interfaces";
-import { cutWordByUnderscore } from "./cutWordByUnderscore";
+import lunr from 'lunr';
+import jieba from '@node-rs/jieba';
+import { MatchMetadata } from '../../shared/interfaces';
+import { cutWordByUnderscore } from './cutWordByUnderscore';
 
 // https://zhuanlan.zhihu.com/p/33335629
 const RegExpConsecutiveWord = /\w+|\p{Unified_Ideograph}+/u;
 
-export function tokenizer(
-  input: string | string[] | null | undefined,
-  metadata: MatchMetadata
-): lunr.Token[] {
+export function tokenizer(input: string | string[] | null | undefined, metadata: MatchMetadata): lunr.Token[] {
   if (input == null) {
     return [];
   }
   if (Array.isArray(input)) {
     return input.map(function (t) {
-      return new lunr.Token(
-        lunr.utils.asString(t).toLowerCase(),
-        (lunr.utils as any).clone(metadata)
-      );
+      return new lunr.Token(lunr.utils.asString(t).toLowerCase(), (lunr.utils as any).clone(metadata));
     });
   }
 
@@ -47,7 +41,7 @@ export function tokenizer(
       if (subWords.length > 1) {
         let i = 0;
         for (const subWord of subWords) {
-          if (subWord[0] !== "_") {
+          if (subWord[0] !== '_') {
             tokens.push(
               new lunr.Token(subWord, {
                 ...(lunr.utils as any).clone(metadata),

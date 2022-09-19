@@ -1,10 +1,6 @@
-import lunr from "lunr";
-import {
-  SearchDocument,
-  SearchDocumentType,
-  WrappedIndex,
-} from "../../../shared/interfaces";
-import { indexHash } from "../../utils/proxiedGenerated";
+import lunr from 'lunr';
+import { SearchDocument, SearchDocumentType, WrappedIndex } from '../../../shared/interfaces';
+import { indexHash } from '../../utils/proxiedGenerated';
 
 interface SerializedIndex {
   documents: SearchDocument[];
@@ -17,18 +13,14 @@ export async function fetchIndexes(baseUrl: string): Promise<{
   wrappedIndexes: WrappedIndex[];
   zhDictionary: string[];
 }> {
-  if (process.env.NODE_ENV === "production") {
-    const json = (await (
-      await fetch(`${baseUrl}search-index.json?_=${indexHash}`)
-    ).json()) as SerializedIndex[];
+  if (process.env.NODE_ENV === 'production') {
+    const json = (await (await fetch(`${baseUrl}search-index.json?_=${indexHash}`)).json()) as SerializedIndex[];
 
-    const wrappedIndexes: WrappedIndex[] = json.map(
-      ({ documents, index }, type) => ({
-        type: type as SearchDocumentType,
-        documents,
-        index: lunr.Index.load(index),
-      })
-    );
+    const wrappedIndexes: WrappedIndex[] = json.map(({ documents, index }, type) => ({
+      type: type as SearchDocumentType,
+      documents,
+      index: lunr.Index.load(index),
+    }));
 
     const zhDictionary = json.reduce((acc, item) => {
       for (const tuple of item.index.invertedIndex) {

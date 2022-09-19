@@ -1,9 +1,9 @@
-import fs from "fs";
-import path from "path";
-import util from "util";
-import { DocInfoWithFilePath, SearchDocument } from "../../shared/interfaces";
-import { parse } from "./parse";
-import { debugVerbose } from "./debug";
+import fs from 'fs';
+import path from 'path';
+import util from 'util';
+import { DocInfoWithFilePath, SearchDocument } from '../../shared/interfaces';
+import { parse } from './parse';
+import { debugVerbose } from './debug';
 
 const readFileAsync = util.promisify(fs.readFile);
 
@@ -12,9 +12,7 @@ const getNextDocId = () => {
   return (nextDocId += 1);
 };
 
-export async function scanDocuments(
-  DocInfoWithFilePathList: DocInfoWithFilePath[]
-): Promise<SearchDocument[][]> {
+export async function scanDocuments(DocInfoWithFilePathList: DocInfoWithFilePath[]): Promise<SearchDocument[][]> {
   const titleDocuments: SearchDocument[] = [];
   const headingDocuments: SearchDocument[] = [];
   const contentDocuments: SearchDocument[] = [];
@@ -22,14 +20,9 @@ export async function scanDocuments(
 
   await Promise.all(
     DocInfoWithFilePathList.map(async ({ filePath, url, type }) => {
-      debugVerbose(
-        `parsing %s file %o of %o`,
-        type,
-        path.relative(process.cwd(), filePath),
-        url
-      );
+      debugVerbose(`parsing %s file %o of %o`, type, path.relative(process.cwd(), filePath), url);
 
-      const html = await readFileAsync(filePath, { encoding: "utf8" });
+      const html = await readFileAsync(filePath, { encoding: 'utf8' });
       const { pageTitle, sections, breadcrumb } = parse(html, type, url);
 
       const titleId = getNextDocId();

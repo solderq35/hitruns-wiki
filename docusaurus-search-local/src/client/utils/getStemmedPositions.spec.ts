@@ -1,7 +1,7 @@
-import { getStemmedPositions } from "./getStemmedPositions";
+import { getStemmedPositions } from './getStemmedPositions';
 
-describe("getStemmedPositions", () => {
-  test("flatten and sort positions", () => {
+describe('getStemmedPositions', () => {
+  test('flatten and sort positions', () => {
     expect(
       getStemmedPositions(
         {
@@ -28,7 +28,7 @@ describe("getStemmedPositions", () => {
           },
           unknown: {},
         },
-        "body"
+        'body'
       )
     ).toEqual([
       [9, 5],

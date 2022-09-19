@@ -1,16 +1,16 @@
-import { SuggestionTemplate } from "./SuggestionTemplate";
+import { SuggestionTemplate } from './SuggestionTemplate';
 
-jest.mock("./icons");
-jest.mock("../../utils/proxiedGenerated");
+jest.mock('./icons');
+jest.mock('../../utils/proxiedGenerated');
 
-describe("SuggestionTemplate", () => {
-  test("page title", () => {
-    const div = document.createElement("div");
+describe('SuggestionTemplate', () => {
+  test('page title', () => {
+    const div = document.createElement('div');
     div.innerHTML = SuggestionTemplate({
       document: {
         i: 10,
-        t: "Hello world",
-        u: "/docs/a",
+        t: 'Hello world',
+        u: '/docs/a',
       },
       type: 0,
       page: false,
@@ -57,19 +57,19 @@ describe("SuggestionTemplate", () => {
     `);
   });
 
-  test("heading", () => {
-    const div = document.createElement("div");
+  test('heading', () => {
+    const div = document.createElement('div');
     div.innerHTML = SuggestionTemplate({
       document: {
         i: 20,
-        t: "Hello fruits.",
-        u: "/docs/b",
+        t: 'Hello fruits.',
+        u: '/docs/b',
       },
       type: 1,
       page: {
         i: 1,
-        t: "Hello world",
-        u: "/docs/a",
+        t: 'Hello world',
+        u: '/docs/a',
       },
       metadata: {
         hello: {
@@ -126,19 +126,19 @@ describe("SuggestionTemplate", () => {
     `);
   });
 
-  test("content", () => {
-    const div = document.createElement("div");
+  test('content', () => {
+    const div = document.createElement('div');
     div.innerHTML = SuggestionTemplate({
       document: {
         i: 20,
-        t: "Goodbye fruits.",
-        u: "/docs/c",
+        t: 'Goodbye fruits.',
+        u: '/docs/c',
       },
       type: 2,
       page: {
         i: 1,
-        t: "Hello world",
-        u: "/docs/a",
+        t: 'Hello world',
+        u: '/docs/a',
       },
       metadata: {
         Goodbye: {

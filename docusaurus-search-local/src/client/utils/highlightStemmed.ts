@@ -1,12 +1,8 @@
-import {
-  HighlightChunk,
-  MetadataPosition,
-  ChunkIndexRef,
-} from "../../shared/interfaces";
-import { escapeHtml } from "./escapeHtml";
-import { highlight } from "./highlight";
-import { looseTokenize } from "./looseTokenize";
-import { searchResultContextMaxLength } from "./proxiedGenerated";
+import { HighlightChunk, MetadataPosition, ChunkIndexRef } from '../../shared/interfaces';
+import { escapeHtml } from './escapeHtml';
+import { highlight } from './highlight';
+import { looseTokenize } from './looseTokenize';
+import { searchResultContextMaxLength } from './proxiedGenerated';
 
 export function highlightStemmed(
   content: string,
@@ -17,14 +13,7 @@ export function highlightStemmed(
   const chunkIndexRef: ChunkIndexRef = {
     chunkIndex: -1,
   };
-  const chunks = splitIntoChunks(
-    content,
-    positions,
-    tokens,
-    0,
-    0,
-    chunkIndexRef
-  );
+  const chunks = splitIntoChunks(content, positions, tokens, 0, 0, chunkIndexRef);
 
   const leadingChunks = chunks.slice(0, chunkIndexRef.chunkIndex);
   const firstChunk = chunks[chunkIndexRef.chunkIndex];
@@ -38,10 +27,7 @@ export function highlightStemmed(
   let rightOverflowed = false;
 
   while (currentLength < maxLength) {
-    if (
-      (leftPadding <= rightPadding || trailingChunks.length === 0) &&
-      leadingChunks.length > 0
-    ) {
+    if ((leftPadding <= rightPadding || trailingChunks.length === 0) && leadingChunks.length > 0) {
       const chunk = leadingChunks.pop() as HighlightChunk;
       if (currentLength + chunk.textLength <= maxLength) {
         html.unshift(chunk.html);
@@ -67,14 +53,14 @@ export function highlightStemmed(
   }
 
   if (leftOverflowed || leadingChunks.length > 0) {
-    html.unshift("…");
+    html.unshift('…');
   }
 
   if (rightOverflowed || trailingChunks.length > 0) {
-    html.push("…");
+    html.push('…');
   }
 
-  return html.join("");
+  return html.join('');
 }
 
 export function splitIntoChunks(
@@ -90,9 +76,7 @@ export function splitIntoChunks(
   if (start < cursor) {
     positionIndex += 1;
     if (positionIndex < positions.length) {
-      chunks.push(
-        ...splitIntoChunks(content, positions, tokens, positionIndex, cursor)
-      );
+      chunks.push(...splitIntoChunks(content, positions, tokens, positionIndex, cursor));
     }
   } else {
     if (start > cursor) {
@@ -113,15 +97,7 @@ export function splitIntoChunks(
     const nextCursor = start + length;
     positionIndex += 1;
     if (positionIndex < positions.length) {
-      chunks.push(
-        ...splitIntoChunks(
-          content,
-          positions,
-          tokens,
-          positionIndex,
-          nextCursor
-        )
-      );
+      chunks.push(...splitIntoChunks(content, positions, tokens, positionIndex, nextCursor));
     } else {
       if (nextCursor < content.length) {
         chunks.push(

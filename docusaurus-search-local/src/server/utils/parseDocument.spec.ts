@@ -1,8 +1,8 @@
-import cheerio from "cheerio";
-import { ParsedDocument } from "../../shared/interfaces";
-import { parseDocument } from "./parseDocument";
+import cheerio from 'cheerio';
+import { ParsedDocument } from '../../shared/interfaces';
+import { parseDocument } from './parseDocument';
 
-describe("parseDocument", () => {
+describe('parseDocument', () => {
   test.each<[string, ParsedDocument]>([
     [
       `<body>
@@ -49,25 +49,25 @@ describe("parseDocument", () => {
         </article>
       </body>`,
       {
-        pageTitle: "Hello World",
+        pageTitle: 'Hello World',
         sections: [
           {
-            title: "Hello World",
-            hash: "",
-            content: "",
+            title: 'Hello World',
+            hash: '',
+            content: '',
           },
           {
-            title: "Hello fruits.",
-            hash: "#hello-fruits",
-            content: "Apple Orange Pear",
+            title: 'Hello fruits.',
+            hash: '#hello-fruits',
+            content: 'Apple Orange Pear',
           },
           {
-            title: "Goodbye fruits.",
-            hash: "#goodbye-fruits",
-            content: "",
+            title: 'Goodbye fruits.',
+            hash: '#goodbye-fruits',
+            content: '',
           },
         ],
-        breadcrumb: ["Docs", "Guide", "Advanced"],
+        breadcrumb: ['Docs', 'Guide', 'Advanced'],
       },
     ],
     [
@@ -95,22 +95,22 @@ describe("parseDocument", () => {
         </article>
       </body>`,
       {
-        pageTitle: "Hello World",
+        pageTitle: 'Hello World',
         sections: [
           {
-            title: "Hello World",
-            hash: "",
-            content: "Peace.",
+            title: 'Hello World',
+            hash: '',
+            content: 'Peace.',
           },
           {
-            title: "Hello fruits.",
-            hash: "#hello-fruits",
-            content: "Apple Orange Pear",
+            title: 'Hello fruits.',
+            hash: '#hello-fruits',
+            content: 'Apple Orange Pear',
           },
           {
-            title: "Goodbye fruits.",
-            hash: "#goodbye-fruits",
-            content: "",
+            title: 'Goodbye fruits.',
+            hash: '#goodbye-fruits',
+            content: '',
           },
         ],
         breadcrumb: [],
@@ -139,28 +139,28 @@ describe("parseDocument", () => {
         </article>
       </body>`,
       {
-        pageTitle: "Hello World",
+        pageTitle: 'Hello World',
         sections: [
           {
-            title: "Hello World",
-            hash: "",
-            content: "Peace.",
+            title: 'Hello World',
+            hash: '',
+            content: 'Peace.',
           },
           {
-            title: "Hello fruits.",
-            hash: "#hello-fruits",
-            content: "Apple Orange Pear",
+            title: 'Hello fruits.',
+            hash: '#hello-fruits',
+            content: 'Apple Orange Pear',
           },
           {
-            title: "Goodbye fruits.",
-            hash: "#goodbye-fruits",
-            content: "",
+            title: 'Goodbye fruits.',
+            hash: '#goodbye-fruits',
+            content: '',
           },
         ],
         breadcrumb: [],
       },
     ],
-  ])("parseDocument(...) should work", (html, doc) => {
+  ])('parseDocument(...) should work', (html, doc) => {
     expect(parseDocument(cheerio.load(html))).toEqual(doc);
   });
 });

@@ -1,43 +1,33 @@
-import lunr from "lunr";
-import {
-  ProcessedPluginOptions,
-  SearchDocument,
-  WrappedIndex,
-} from "../../shared/interfaces";
+import lunr from 'lunr';
+import { ProcessedPluginOptions, SearchDocument, WrappedIndex } from '../../shared/interfaces';
 
 export function buildIndex(
   allDocuments: SearchDocument[][],
-  {
-    language,
-    removeDefaultStopWordFilter,
-    removeDefaultStemmer,
-  }: ProcessedPluginOptions
-): Omit<WrappedIndex, "type">[] {
-  if (language.length > 1 || language.some((item) => item !== "en")) {
+  { language, removeDefaultStopWordFilter, removeDefaultStemmer }: ProcessedPluginOptions
+): Omit<WrappedIndex, 'type'>[] {
+  if (language.length > 1 || language.some((item) => item !== 'en')) {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    require("lunr-languages/lunr.stemmer.support")(lunr);
+    require('lunr-languages/lunr.stemmer.support')(lunr);
   }
-  if (language.includes("ja") || language.includes("jp")) {
+  if (language.includes('ja') || language.includes('jp')) {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    require("lunr-languages/tinyseg")(lunr);
+    require('lunr-languages/tinyseg')(lunr);
   }
-  for (const lang of language.filter(
-    (item) => item !== "en" && item !== "zh"
-  )) {
+  for (const lang of language.filter((item) => item !== 'en' && item !== 'zh')) {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
     require(`lunr-languages/lunr.${lang}`)(lunr);
   }
-  if (language.includes("zh")) {
+  if (language.includes('zh')) {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    require("../../shared/lunrLanguageZh").lunrLanguageZh(
+    require('../../shared/lunrLanguageZh').lunrLanguageZh(
       lunr,
       // eslint-disable-next-line @typescript-eslint/no-var-requires
-      require("./tokenizer").tokenizer
+      require('./tokenizer').tokenizer
     );
   }
   if (language.length > 1) {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    require("lunr-languages/lunr.multi")(lunr);
+    require('lunr-languages/lunr.multi')(lunr);
   }
 
   return allDocuments.map((documents) => ({
@@ -45,7 +35,7 @@ export function buildIndex(
     index: lunr(function () {
       if (language.length > 1) {
         this.use((lunr as any).multiLanguage(...language));
-      } else if (language[0] !== "en") {
+      } else if (language[0] !== 'en') {
         this.use((lunr as any)[language[0]]);
       }
 
@@ -60,13 +50,13 @@ export function buildIndex(
       }
 
       // Override tokenizer when language `zh` is enabled.
-      if (language.includes("zh")) {
+      if (language.includes('zh')) {
         this.tokenizer = (lunr as any).zh.tokenizer;
       }
 
-      this.ref("i");
-      this.field("t");
-      this.metadataWhitelist = ["position"];
+      this.ref('i');
+      this.field('t');
+      this.metadataWhitelist = ['position'];
 
       documents.forEach((doc) => {
         this.add({

@@ -1,4 +1,4 @@
-import { SmartTerm, WrappedTerm } from "../../shared/interfaces";
+import { SmartTerm, WrappedTerm } from '../../shared/interfaces';
 
 /**
  * Get all possible terms for a string of consecutive Chinese words,
@@ -33,11 +33,7 @@ export function cutZhWords(token: string, zhDictionary: string[]): SmartTerm[] {
         }
         matched = true;
       } else {
-        for (
-          let lastIndex = words.length - 1;
-          lastIndex > matchedLastIndex;
-          lastIndex -= 1
-        ) {
+        for (let lastIndex = words.length - 1; lastIndex > matchedLastIndex; lastIndex -= 1) {
           const subWords = words.substr(0, lastIndex);
           if (subToken.substr(0, lastIndex) === subWords) {
             matchedLastIndex = lastIndex;

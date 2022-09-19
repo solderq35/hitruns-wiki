@@ -5,7 +5,6 @@ on:
 name: release-please
 jobs:
   release-please:
-
     runs-on: ubuntu-latest
 
     strategy:
@@ -19,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN_EVE }}
           release-type: node
-          package-name: "@easyops-cn/docusaurus-search-local"
+          package-name: '@easyops-cn/docusaurus-search-local'
           path: docusaurus-search-local
           bump-minor-pre-major: true
 

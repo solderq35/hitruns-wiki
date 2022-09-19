@@ -1,8 +1,8 @@
-import { ParsedDocument } from "../../shared/interfaces";
-import { parse } from "./parse";
+import { ParsedDocument } from '../../shared/interfaces';
+import { parse } from './parse';
 
-describe("parse", () => {
-  test.each<[string, "docs" | "blog" | "page", ParsedDocument]>([
+describe('parse', () => {
+  test.each<[string, 'docs' | 'blog' | 'page', ParsedDocument]>([
     [
       `<body>
         <article>
@@ -18,14 +18,14 @@ describe("parse", () => {
           </main>
         </article>
       </body>`,
-      "page",
+      'page',
       {
-        pageTitle: "Hello World",
+        pageTitle: 'Hello World',
         sections: [
           {
-            title: "Hello World",
-            hash: "",
-            content: "Peace. Code.",
+            title: 'Hello World',
+            hash: '',
+            content: 'Peace. Code.',
           },
         ],
         breadcrumb: [],
@@ -43,20 +43,20 @@ describe("parse", () => {
           </main>
         </article>
       </body>`,
-      "docs",
+      'docs',
       {
-        pageTitle: "Hello World",
+        pageTitle: 'Hello World',
         sections: [
           {
-            title: "Hello World",
-            hash: "",
-            content: "Peace.",
+            title: 'Hello World',
+            hash: '',
+            content: 'Peace.',
           },
         ],
         breadcrumb: [],
       },
     ],
-  ])("parse(...) should work", (html, type, doc) => {
-    expect(parse(html, type, "")).toEqual(doc);
+  ])('parse(...) should work', (html, type, doc) => {
+    expect(parse(html, type, '')).toEqual(doc);
   });
 });

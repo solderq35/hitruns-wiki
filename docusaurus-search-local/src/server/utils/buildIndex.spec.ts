@@ -1,27 +1,24 @@
-import { buildIndex as _buildIndex } from "./buildIndex";
-import {
-  ProcessedPluginOptions,
-  SearchDocument,
-} from "../../shared/interfaces";
+import { buildIndex as _buildIndex } from './buildIndex';
+import { ProcessedPluginOptions, SearchDocument } from '../../shared/interfaces';
 
-describe("buildIndex", () => {
+describe('buildIndex', () => {
   const allDocuments: Partial<SearchDocument>[][] = [
     [
       {
         i: 1,
-        t: "Hello World if any",
+        t: 'Hello World if any',
       },
       {
         i: 2,
-        t: "你好世界",
+        t: '你好世界',
       },
       {
         i: 3,
-        t: "Hola Mundo",
+        t: 'Hola Mundo',
       },
       {
         i: 4,
-        t: "私は電車が好きです。",
+        t: '私は電車が好きです。',
       },
     ],
   ];
@@ -29,7 +26,7 @@ describe("buildIndex", () => {
 
   beforeEach(() => {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    buildIndex = require("./buildIndex").buildIndex;
+    buildIndex = require('./buildIndex').buildIndex;
   });
 
   afterEach(() => {
@@ -40,17 +37,17 @@ describe("buildIndex", () => {
     const wrappedIndexes = buildIndex(
       allDocuments as SearchDocument[][],
       {
-        language: ["en"],
+        language: ['en'],
         removeDefaultStopWordFilter: false,
         removeDefaultStemmer: false,
       } as ProcessedPluginOptions
     );
 
-    expect(wrappedIndexes[0].index.search("世界")).toEqual([]);
-    expect(wrappedIndexes[0].index.search("if")).toEqual([]);
-    expect(wrappedIndexes[0].index.search("hello")).toEqual([
+    expect(wrappedIndexes[0].index.search('世界')).toEqual([]);
+    expect(wrappedIndexes[0].index.search('if')).toEqual([]);
+    expect(wrappedIndexes[0].index.search('hello')).toEqual([
       expect.objectContaining({
-        ref: "1",
+        ref: '1',
         matchData: {
           metadata: {
             hello: {
@@ -68,17 +65,17 @@ describe("buildIndex", () => {
     const wrappedIndexes = buildIndex(
       allDocuments as SearchDocument[][],
       {
-        language: ["zh"],
+        language: ['zh'],
         removeDefaultStopWordFilter: false,
         removeDefaultStemmer: false,
       } as ProcessedPluginOptions
     );
 
-    expect(wrappedIndexes[0].index.search("hello")).toEqual([]);
-    expect(wrappedIndexes[0].index.search("if")).toEqual([]);
-    expect(wrappedIndexes[0].index.search("世界")).toEqual([
+    expect(wrappedIndexes[0].index.search('hello')).toEqual([]);
+    expect(wrappedIndexes[0].index.search('if')).toEqual([]);
+    expect(wrappedIndexes[0].index.search('世界')).toEqual([
       expect.objectContaining({
-        ref: "2",
+        ref: '2',
       }),
     ]);
   });
@@ -87,16 +84,16 @@ describe("buildIndex", () => {
     const wrappedIndexes = buildIndex(
       allDocuments as SearchDocument[][],
       {
-        language: ["es"],
+        language: ['es'],
         removeDefaultStopWordFilter: false,
         removeDefaultStemmer: false,
       } as ProcessedPluginOptions
     );
 
-    expect(wrappedIndexes[0].index.search("世界")).toEqual([]);
-    expect(wrappedIndexes[0].index.search("hola")).toEqual([
+    expect(wrappedIndexes[0].index.search('世界')).toEqual([]);
+    expect(wrappedIndexes[0].index.search('hola')).toEqual([
       expect.objectContaining({
-        ref: "3",
+        ref: '3',
       }),
     ]);
   });
@@ -105,30 +102,30 @@ describe("buildIndex", () => {
     const wrappedIndexes = buildIndex(
       allDocuments as SearchDocument[][],
       {
-        language: ["ja"],
+        language: ['ja'],
         removeDefaultStopWordFilter: false,
         removeDefaultStemmer: false,
       } as ProcessedPluginOptions
     );
 
-    expect(wrappedIndexes[0].index.search("hello")).toEqual([
+    expect(wrappedIndexes[0].index.search('hello')).toEqual([
       expect.objectContaining({
-        ref: "1",
+        ref: '1',
       }),
     ]);
-    expect(wrappedIndexes[0].index.search("世界")).toEqual([
+    expect(wrappedIndexes[0].index.search('世界')).toEqual([
       expect.objectContaining({
-        ref: "2",
+        ref: '2',
       }),
     ]);
-    expect(wrappedIndexes[0].index.search("hola")).toEqual([
+    expect(wrappedIndexes[0].index.search('hola')).toEqual([
       expect.objectContaining({
-        ref: "3",
+        ref: '3',
       }),
     ]);
-    expect(wrappedIndexes[0].index.search("好き")).toEqual([
+    expect(wrappedIndexes[0].index.search('好き')).toEqual([
       expect.objectContaining({
-        ref: "4",
+        ref: '4',
       }),
     ]);
   });
@@ -137,25 +134,25 @@ describe("buildIndex", () => {
     const wrappedIndexes = buildIndex(
       allDocuments as SearchDocument[][],
       {
-        language: ["en", "zh"],
+        language: ['en', 'zh'],
         removeDefaultStopWordFilter: true,
         removeDefaultStemmer: false,
       } as ProcessedPluginOptions
     );
 
-    expect(wrappedIndexes[0].index.search("hello")).toEqual([
+    expect(wrappedIndexes[0].index.search('hello')).toEqual([
       expect.objectContaining({
-        ref: "1",
+        ref: '1',
       }),
     ]);
-    expect(wrappedIndexes[0].index.search("if")).toEqual([
+    expect(wrappedIndexes[0].index.search('if')).toEqual([
       expect.objectContaining({
-        ref: "1",
+        ref: '1',
       }),
     ]);
-    expect(wrappedIndexes[0].index.search("世界")).toEqual([
+    expect(wrappedIndexes[0].index.search('世界')).toEqual([
       expect.objectContaining({
-        ref: "2",
+        ref: '2',
       }),
     ]);
   });

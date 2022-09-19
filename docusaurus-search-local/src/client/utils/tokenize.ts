@@ -1,4 +1,4 @@
-import lunr from "lunr";
+import lunr from 'lunr';
 
 /**
  * Split a sentence to tokens, considering a sequence of consecutive Chinese words as a single token.
@@ -10,16 +10,14 @@ import lunr from "lunr";
  */
 export function tokenize(text: string, language: string[]): string[] {
   // Some languages have their own tokenizer.
-  if (language.length === 1 && ["ja", "jp", "th"].includes(language[0])) {
-    return ((lunr as any)[language[0]] as typeof lunr)
-      .tokenizer(text)
-      .map((token) => token.toString());
+  if (language.length === 1 && ['ja', 'jp', 'th'].includes(language[0])) {
+    return ((lunr as any)[language[0]] as typeof lunr).tokenizer(text).map((token) => token.toString());
   }
 
   let regExpMatchWords = /[^-\s]+/g;
 
   // Especially optimization for `zh`.
-  if (language.includes("zh")) {
+  if (language.includes('zh')) {
     // Currently only works fine with letters in Latin alphabet and Chinese.
     // https://zhuanlan.zhihu.com/p/33335629
     regExpMatchWords = /\w+|\p{Unified_Ideograph}+/gu;

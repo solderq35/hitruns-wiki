@@ -1,9 +1,6 @@
-import { MatchMetadata, MetadataPosition } from "../../shared/interfaces";
+import { MatchMetadata, MetadataPosition } from '../../shared/interfaces';
 
-export function getStemmedPositions(
-  metadata: MatchMetadata,
-  field: string
-): MetadataPosition[] {
+export function getStemmedPositions(metadata: MatchMetadata, field: string): MetadataPosition[] {
   const positions: MetadataPosition[] = [];
   for (const match of Object.values(metadata)) {
     if (match[field]) {

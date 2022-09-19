@@ -4,28 +4,25 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [0.29.0](https://github.com/easyops-cn/docusaurus-search-local/compare/v0.28.0...v0.29.0) (2022-07-07)
 
-
 ### Features
 
-* support disabling search bar shortcut ([e0ea5ae](https://github.com/easyops-cn/docusaurus-search-local/commit/e0ea5aeab027724083b0f51290d6ea7e4bc89fa6))
-* support hiding search bar shortcut hint ([9344bd2](https://github.com/easyops-cn/docusaurus-search-local/commit/9344bd20e16c3dd60b3d59fc918dca10e8cfd48f))
+- support disabling search bar shortcut ([e0ea5ae](https://github.com/easyops-cn/docusaurus-search-local/commit/e0ea5aeab027724083b0f51290d6ea7e4bc89fa6))
+- support hiding search bar shortcut hint ([9344bd2](https://github.com/easyops-cn/docusaurus-search-local/commit/9344bd20e16c3dd60b3d59fc918dca10e8cfd48f))
 
 ## [0.28.0](https://github.com/easyops-cn/docusaurus-search-local/compare/v0.27.2...v0.28.0) (2022-06-28)
 
-
 ### Features
 
-* add locales/vi.json ([#217](https://github.com/easyops-cn/docusaurus-search-local/issues/217)) ([26f9a2a](https://github.com/easyops-cn/docusaurus-search-local/commit/26f9a2aa885cd315254f973f348445a873d98ede))
+- add locales/vi.json ([#217](https://github.com/easyops-cn/docusaurus-search-local/issues/217)) ([26f9a2a](https://github.com/easyops-cn/docusaurus-search-local/commit/26f9a2aa885cd315254f973f348445a873d98ede))
 
 ## [0.27.2](https://github.com/easyops-cn/docusaurus-search-local/compare/v0.27.1...v0.27.2) (2022-06-21)
 
-
 ### Bug Fixes
 
-* search page for non latest doc versions ([15f6161](https://github.com/easyops-cn/docusaurus-search-local/commit/15f61612f8d59dde0ba401e15d76d080865d8e8b))
-* use the active plugin id when getting the current docs version ([824e134](https://github.com/easyops-cn/docusaurus-search-local/commit/824e1347f3f571b45e1e39f708ffd75c01f13339))
-* fix active plugin may be undefined ([0bfbbb2](https://github.com/easyops-cn/docusaurus-search-local/commit/0bfbbb29cee66fcbb3be589da226caef6210fa5a))
-* make `@docusaurus/theme-common` as peer ([68dc812](https://github.com/easyops-cn/docusaurus-search-local/commit/68dc812c84451c68dc9f9448c4a2b39a3f8f3bcc))
+- search page for non latest doc versions ([15f6161](https://github.com/easyops-cn/docusaurus-search-local/commit/15f61612f8d59dde0ba401e15d76d080865d8e8b))
+- use the active plugin id when getting the current docs version ([824e134](https://github.com/easyops-cn/docusaurus-search-local/commit/824e1347f3f571b45e1e39f708ffd75c01f13339))
+- fix active plugin may be undefined ([0bfbbb2](https://github.com/easyops-cn/docusaurus-search-local/commit/0bfbbb29cee66fcbb3be589da226caef6210fa5a))
+- make `@docusaurus/theme-common` as peer ([68dc812](https://github.com/easyops-cn/docusaurus-search-local/commit/68dc812c84451c68dc9f9448c4a2b39a3f8f3bcc))
 
 ## [0.27.1](https://github.com/easyops-cn/docusaurus-search-local/compare/v0.27.0...v0.27.1) (2022-06-13)
 

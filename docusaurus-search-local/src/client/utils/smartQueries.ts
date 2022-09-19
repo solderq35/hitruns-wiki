@@ -1,7 +1,7 @@
-import lunr from "lunr";
-import { SmartQuery, SmartTerm } from "../../shared/interfaces";
-import { smartTerms } from "./smartTerms";
-import { language, removeDefaultStopWordFilter } from "./proxiedGenerated";
+import lunr from 'lunr';
+import { SmartQuery, SmartTerm } from '../../shared/interfaces';
+import { smartTerms } from './smartTerms';
+import { language, removeDefaultStopWordFilter } from './proxiedGenerated';
 
 /**
  * Get all possible queries for a list of tokens consists of words mixed English and Chinese,
@@ -12,10 +12,7 @@ import { language, removeDefaultStopWordFilter } from "./proxiedGenerated";
  *
  * @returns A smart query list.
  */
-export function smartQueries(
-  tokens: string[],
-  zhDictionary: string[]
-): SmartQuery[] {
+export function smartQueries(tokens: string[], zhDictionary: string[]): SmartQuery[] {
   const terms = smartTerms(tokens, zhDictionary);
 
   if (terms.length === 0) {
@@ -42,7 +39,7 @@ export function smartQueries(
   // since they are removed in the index.
   const stopWordPipelines: lunr.PipelineFunction[] = [];
   for (const lang of language) {
-    if (lang === "en") {
+    if (lang === 'en') {
       if (!removeDefaultStopWordFilter) {
         stopWordPipelines.unshift(lunr.stopWordFilter);
       }
@@ -59,10 +56,7 @@ export function smartQueries(
   if (stopWordPipelines.length > 0) {
     const pipe = (term: SmartTerm) =>
       stopWordPipelines.reduce(
-        (term, p) =>
-          term.filter((item) =>
-            (p as unknown as (str: string) => string | undefined)(item.value)
-          ),
+        (term, p) => term.filter((item) => (p as unknown as (str: string) => string | undefined)(item.value)),
         term
       );
     refinedTerms = [];
@@ -110,10 +104,7 @@ function getQueriesMaybeTyping(terms: SmartTerm[]): SmartQuery[] {
   );
 }
 
-function termsToQueries(
-  terms: SmartTerm[],
-  maybeTyping?: boolean
-): SmartQuery[] {
+function termsToQueries(terms: SmartTerm[], maybeTyping?: boolean): SmartQuery[] {
   return terms.map((term) => ({
     tokens: term.map((item) => item.value),
     term: term.map((item) => ({
@@ -121,9 +112,7 @@ function termsToQueries(
       presence: lunr.Query.presence.REQUIRED,
       // The last token of a term maybe incomplete while user is typing.
       // So append more queries with trailing wildcard added.
-      wildcard: (
-        maybeTyping ? item.trailing || item.maybeTyping : item.trailing
-      )
+      wildcard: (maybeTyping ? item.trailing || item.maybeTyping : item.trailing)
         ? lunr.Query.wildcard.TRAILING
         : lunr.Query.wildcard.NONE,
     })),
