@@ -25,8 +25,6 @@ General guidelines:
 *  Lockpick and Crowbar obviously only work on physical lock doors, while scramblers/ key hackers and EMP only work on electric doors.
 * All SMG's, assault rifles, sniper rifles, shotguns, striker/ matador and full auto pistols can shoot open physical lock doors and electric swinging doors alike. You cannot shoot open sliding electric doors with guns.
 * You can open doors with semi-auto pistols, refer [here](guns#mudshot) for more info.
-* [Example video](https://youtu.be/voBsuKu-thI?t=136)
-* You can additionally speed this up by [not pausing until you take the first shot](https://youtu.be/voBsuKu-thI?t=148), although this is riskier.
 * Explosives can generally open physical lock doors and electric swinging doors, but not electric sliding doors.
 
 Concussive explosives are much less audible making them only be heard in the room that they have exploded in. These are a great alternative.
