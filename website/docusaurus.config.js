@@ -3,7 +3,9 @@ const buildType = process.env.BUILD_TYPE;
 module.exports = {
   title: 'HitRuns Wiki',
   tagline: 'Hitman 3 Speedrunning Wiki',
-  image: 'img/favicon.ico',
+  customFields: {
+	  image: 'img/favicon.ico',
+  },
   url: 'https://hitruns-wiki.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
