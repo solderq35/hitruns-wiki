@@ -105,6 +105,7 @@ module.exports = {
           ],
         },
       ],
+	  image: 'img/favicon.ico',
       copyright: `Copyright © ${new Date().getFullYear()} Solderq35. All rights reserved.`,
     },
   },
