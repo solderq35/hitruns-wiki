@@ -1,7 +1,6 @@
 ---
 title: Hitman Speedrun Discords
 description: Hitman Speedrun Discords
-image: 'img/favicon.ico',
 ---
 
 ## Which Hitman Speedrun Discords Should I Join?
