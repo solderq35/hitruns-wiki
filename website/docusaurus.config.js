@@ -14,7 +14,6 @@ module.exports = {
     locales: ['en', ...(buildType === 'i18n' ? ['zh-CN', 'zh-TW'] : [])],
   },
   themeConfig: {
-	image: 'img/favicon.ico',
     navbar: {
       title: 'HitRuns Wiki',
       logo: {
