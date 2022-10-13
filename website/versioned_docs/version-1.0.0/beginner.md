@@ -66,11 +66,30 @@ A: You can use one of the following livesplit methods
 
 - [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However it is a bit cumbersome to use.
 
-# Q: I'm new, what categories are there?
+## Q: I'm new, what categories are there?
 
 A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_3), [Category Extensions Leaderboard](https://www.speedrun.com/hitman_3_extensions), [Escalations Leaderboard](https://www.speedrun.com/hitman_3_escalations), [Elusive Target Leaderboard](https://www.speedrun.com/hitman_3_et).
 
 - For new players, SA/SO on the Main Leaderboard is suggested. Start with a level you like playing casually.
+
+## Q: How significant is the difference between Pro and Master Difficulty?
+
+A: It really depends on the map and category you are running. On many maps and categories, Pro vs Master makes absolutely no difference. It is common for new players to mistakenly think Master adds more features than it actually does. More details are given below:
+
+### Global Changes (Affects All Maps)
+- NPC's will see farther
+	- This makes randomized headturns more significant, as the NPC will be more likely to see you if they swing their head in your direction
+	- This also makes [NPC panics](guns#triple-shot-panic) spread more quickly, which can sometimes be a good thing depending on the context
+- NPC's will hear footsteps if you run, which includes crouch running
+	- Note: NPC hearing range for footsteps is **random**, and using footstep sounds to intentionally distract an NPC as a stealth tactic is not reliable at all
+	- It is quite disappointing how one of the only unique gameplay changes from Master is randomized and difficult to use to the player's advantage
+- NPC's will take less damage from bullets, as [shown here](guns#miscellaneous-gun-stats-from-muddye)
+
+### Map-Specific Changes
+- Extra NPC Enforcers and Cameras may be added to some maps on Master difficulty
+- For Season 1 and 2 maps (Paris to Sgail, Not including the DLC maps of New York / Haven / Ambrose), items on the map may be in different locations between Pro and Master difficulty
+	- Note that any changed Master difficulty item placements are not tracked by [HITMAPS](https://www.hitmaps.com/)
+
 
 ## Q: I am having trouble with X trick/ have a question about the leaderboard rules, can anyone help me?
 
