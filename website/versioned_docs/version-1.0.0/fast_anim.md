@@ -147,6 +147,7 @@ Strafe slightly to one side for roughly 0.00001s-0.3s and press to open the inve
 - Only works for real NPC
 - Will persist until you close the game
 - [Video Guide](https://youtu.be/-iaWEkmj9ko)
+	- The window for getting this is pretty tight, you need to restart the frame you start to clip into the NPC. Press pause before you can even see 47 phasing inside the npc, so that you can pause the exact frame it happens.
 
 ## Gunslide
 
@@ -159,5 +160,5 @@ A bit faster than just running down normally.
 
 More advanced versions of gunslide include gunslide with railing. In this case crouching is not needed.
 
-- [Gunslide on railng while facing forwards](https://youtu.be/XPyBK2yCC5o?t=16)
+- [Gunslide on railing while facing forwards](https://youtu.be/XPyBK2yCC5o?t=16)
 - [Gunslide on railing while facing backwards](https://youtu.be/7mrfqKj86c0?t=100)

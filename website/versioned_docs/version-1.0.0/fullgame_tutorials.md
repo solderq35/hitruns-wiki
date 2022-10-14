@@ -19,6 +19,10 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
   - Bangkok is slightly outdated, see [Bangkok 0:2X](https://youtu.be/DfEQBmea1_0)
   - Santa Fortuna may be outdated, see [Santa Fortuna 1:2x](https://youtu.be/sUHJbv5ebNA?t=931)
   - Sgail may be outdated, see [Sgail 0:54-1:00](https://youtu.be/yMkjtXXBf9Q)
+  - New setup is needed for New York Frisk Skip. Alternatives:
+		- [Fast Frisk Skip](https://www.youtube.com/watch?v=JdEG3Llu2tc) via [NPC Clipping](fast_anim#npc-clipping)
+		- [Slower Frisk Skip](https://youtu.be/t92vLEucwJ4) via [NPC Clipping](fast_anim#npc-clipping)
+		- [Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) if you don't feel like using NPC clipping
 
 ### Commentated Walkthroughs
 

@@ -20,31 +20,30 @@ Also note that this list only considers changes that **negatively** affected spe
 
 - **March 11, 2021 (Game Version 3.11)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-february-patch-3-11/)
-	- Key Patched Speedrun Tricks: 
+	- Patched Speedrun Tricks: 
 		- [Druzhina Arctic wallbangs](https://www.youtube.com/watch?v=bo_vPd7cN80) 
 		- [Running Along the Side of the Train in Romania](https://youtu.be/hGr-ekdRMxA?t=26)
 		- [Berlin Manhole Exit](https://youtu.be/yA83Ip4-jHg?t=213)
 		- [Chongqing Vault Skip by Hush's Office](https://youtu.be/T-swLeD-vtY?t=60)
 - **May 7, 2021 (Game Version 3.30)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-may-patch-3-30/)
-	- Key Patched Speedrun Tricks: 
+	- Patched Speedrun Tricks: 
 		- [Emetic Patch, NPC now go to different places now to throw up](https://www.youtube.com/watch?v=zk4kBSXJf8c)
 		- [No longer legal to carry sniper rifles as a guard in Mendoza, also free sniper accidents bug removed](https://www.youtube.com/watch?v=Y0NZZN0VkFQ)
 - **January 20, 2022 (Game Version 3.100)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-patch-notes/)
-	- Key Patched Speedrun Tricdks: 
+	- Patched Speedrun Tricks: 
 		- [Sniper Wallbang onto Chandelier for 37s Dartmoor SA patched](https://www.youtube.com/watch?v=77QUS3sY0EQ)
 		- [Sliding Doors no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes.
 - **May 24, 2022 (Game Version 3.110)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-may-patch-notes/)
-	- Key Patched Speedrun Tricks:
-		- [Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s)
-		- Enforcer NPC's added on Season 3 maps on Master difficulty, Affected Dubai Guard Start SA Master Speedruns
+	- Patched Speedrun Tricks:
+		- Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns. [Advice on how to handle new camera for Dubai Master on current patch](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s).
 - **October 6, 2022 (Game Version 3.130)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-october-patch-notes/)
-	- Key Patched Speedrun Tricks:
+	- Patched Speedrun Tricks:
 		- [Molotov Cocktail is no longer an accident kill](https://youtu.be/eXTd8ZC3ftA)
-		- [New York Frisk Skip](https://youtu.be/y2GuYwNMy5k?t=18). (Check the new, current-patch frisk skips via [bullet distractions](https://youtu.be/A5TPuBZCLAE) and [NPC clipping](https://youtu.be/t92vLEucwJ4))
+		- [New York Frisk Skip](https://youtu.be/y2GuYwNMy5k?t=18). (Check the new, current-patch frisk skips [here](fullgame_tutorials#meta-strategies-overview)
 		- [RFID Coin Exits](https://youtu.be/fyPVfSPQSb4?t=96)
 		- Ken Morgan no longer throws up in bread basket in Bangkok
 		
