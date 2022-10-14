@@ -34,12 +34,12 @@ Also note that this list only considers changes that **negatively** affected spe
 	-[Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-patch-notes/)
 	- Key Patched Speedrun Tricdks: 
 		- [Sniper Wallbang onto Chandelier for 37s Dartmoor SA patched](https://www.youtube.com/watch?v=77QUS3sY0EQ)
-		- [Sliding no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes.
+		- [Sliding Doors no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes.
 - **May 24, 2022 (Game Version 3.110)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-may-patch-notes/)
 	- Key Patched Speedrun Tricks:
 		- [Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s)
-		- Enforcer added on Season 3 maps on Master difficulty, Affected Dubai Guard Start SA Master Speedruns
+		- Enforcer NPC's added on Season 3 maps on Master difficulty, Affected Dubai Guard Start SA Master Speedruns
 - **October 6, 2022 (Game Version 3.130)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-october-patch-notes/)
 	- Key Patched Speedrun Tricks:
