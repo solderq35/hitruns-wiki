@@ -31,7 +31,7 @@ Also note that this list only considers changes that **negatively** affected spe
 		- [Emetic Patch, NPC now go to different places now to throw up](https://www.youtube.com/watch?v=zk4kBSXJf8c)
 		- [No longer legal to carry sniper rifles as a guard in Mendoza, also free sniper accidents bug removed](https://www.youtube.com/watch?v=Y0NZZN0VkFQ)
 - **January 20, 2022 (Game Version 3.100)**
-	-[Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-patch-notes/)
+	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-patch-notes/)
 	- Key Patched Speedrun Tricdks: 
 		- [Sniper Wallbang onto Chandelier for 37s Dartmoor SA patched](https://www.youtube.com/watch?v=77QUS3sY0EQ)
 		- [Sliding Doors no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes.
