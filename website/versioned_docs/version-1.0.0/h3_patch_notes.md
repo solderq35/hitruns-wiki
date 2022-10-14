@@ -34,16 +34,16 @@ Also note that this list only considers changes that **negatively** affected spe
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-patch-notes/)
 	- Patched Speedrun Tricks: 
 		- [Sniper Wallbang onto Chandelier for 37s Dartmoor SA patched](https://www.youtube.com/watch?v=77QUS3sY0EQ)
-		- [Sliding Doors no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes.
+		- [Sliding Doors no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes
 - **May 24, 2022 (Game Version 3.110)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-may-patch-notes/)
 	- Patched Speedrun Tricks:
-		- Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns. [Advice on how to handle new camera for Dubai Master on current patch](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s).
+		- Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns. [Advice on how to handle new camera for Dubai Master on current patch](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s)
 - **October 6, 2022 (Game Version 3.130)**
 	- [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-october-patch-notes/)
 	- Patched Speedrun Tricks:
 		- [Molotov Cocktail is no longer an accident kill](https://youtu.be/eXTd8ZC3ftA)
-		- [New York Frisk Skip](https://youtu.be/y2GuYwNMy5k?t=18). (Check the new, current-patch frisk skips [here](fullgame_tutorials#meta-strategies-overview)
+		- [New York Frisk Skip](https://youtu.be/y2GuYwNMy5k?t=18). (Check the new, current-patch frisk skips [here](fullgame_tutorials#meta-strategies-overview))
 		- [RFID Coin Exits](https://youtu.be/fyPVfSPQSb4?t=96)
 		
 
