@@ -5,6 +5,7 @@ description: List of patches relevant to Hitman 3 speedruns, archive spreadsheet
 
 ## Archive Spreadsheet
 **[Archive Spreadsheet of No Longer Possible Runs](https://docs.google.com/spreadsheets/d/1HMmk0EIT1rtz4-no6h-ODByo_Sh6ndSp9wYwqGGwxkY/edit#gid=1673329186)**
+- Includes Individual Level (No Longer Possible) runs, unlike the main leaderboard which only tracks Full Game (No Longer Possible) runs
 - Shortened Links to Archive Spreadsheet if Easier to Remember:
 	- [cutt.ly/h3_patched_runs](https://cutt.ly/h3_patched_runs)
 	- [hitruns.vercel.app/h3_patched_runs.html](https://hitruns.vercel.app/h3_patched_runs.html)
