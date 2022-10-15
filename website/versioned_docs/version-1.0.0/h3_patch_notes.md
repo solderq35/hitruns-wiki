@@ -45,6 +45,7 @@ Also note that this list only considers changes that **negatively** affected spe
 		- [Molotov Cocktail is no longer an accident kill](https://youtu.be/eXTd8ZC3ftA)
 		- [New York Frisk Skip](https://youtu.be/y2GuYwNMy5k?t=18). (Check the new, current-patch frisk skips [here](fullgame_tutorials#meta-strategies-overview))
 		- [RFID Coin Exits](https://youtu.be/fyPVfSPQSb4?t=96)
+		- [Dartmoor Ledge Drop](https://youtu.be/4Zc9d7w5yMY?t=37)
 		
 
 
