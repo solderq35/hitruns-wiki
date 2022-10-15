@@ -100,6 +100,10 @@ module.exports = {
               href: 'https://www.speedrun.com/hitman_3/',
             },
             {
+              label: 'Hitman 3 Patch Notes',
+              href: '/docs/h3_patch_notes',
+            },
+            {
               label: 'Resources',
               href: '/docs/resources',
             },
