@@ -11,29 +11,23 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 ### Meta Strategies Overview
 
-- [Moo's 21:46 Trilogy run (Good Overview)](https://www.youtube.com/watch?v=a7rvM9sJXes). Any outdated fullgame strategies listed below.
-  - Paris is slightly outdated, see [35s version](https://youtu.be/10LNYNs5TkE).
-    - Note: Bomb launch setup may need adjustment as of July 24, 2022 patch. You may now need to drop the breaching charge a bit later and the CX explosive a bit earlier than what is shown in the above video.
-  - Sapienza is slightly outdated, see [new 59s version with Molotov](https://youtu.be/L48_cPcfAyo).
-  - Marrakesh is slightly outdated, see [Marrakesh 0:3X](https://youtu.be/wqpDMdvhoAU)
-  - Bangkok is slightly outdated, see [Bangkok 0:2X](https://youtu.be/DfEQBmea1_0)
-  - Santa Fortuna may be outdated, see [Santa Fortuna 1:2x](https://youtu.be/sUHJbv5ebNA?t=931)
-  - Sgail may be outdated, see [Sgail 0:54-1:00](https://youtu.be/yMkjtXXBf9Q)
-  - New setup is needed for New York Frisk Skip. Alternatives:
-		- [Fast Frisk Skip](https://www.youtube.com/watch?v=JdEG3Llu2tc) via [NPC Clipping](fast_anim#npc-clipping)
-		- [Slower Frisk Skip](https://youtu.be/t92vLEucwJ4) via [NPC Clipping](fast_anim#npc-clipping)
-		- [Frisk Skip via muffin throw](https://youtu.be/EBqR-2QEAYU?t=851) (works better with NPC clipping)
-		- [Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) if you don't feel like using NPC clipping
+- [Vezareth's 21:32 Trilogy run (Good Overview of Current Strats)](https://youtu.be/yVCP9MJWaUs).
+- [Vezareth's Playlist of Full Game Strats](https://youtube.com/playlist?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
+  - Optimal execution for consistent full game strats
+- New York Frisk Skip Options:
+	- [Fast Frisk Skip](https://www.youtube.com/watch?v=JdEG3Llu2tc) via [NPC Clipping](fast_anim#npc-clipping)
+	- [Slower Frisk Skip](https://youtu.be/t92vLEucwJ4) via [NPC Clipping](fast_anim#npc-clipping)
+	- [Frisk Skip via muffin throw](https://youtu.be/EBqR-2QEAYU?t=851) via [NPC Clipping](fast_anim#npc-clipping)
+	- [Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) if you don't feel like using NPC clipping
 
 ### Commentated Walkthroughs
 
-- [Paris Bomb Launch 0:4X](https://youtu.be/4zrEvV_nwGI)
-  - Note: Bomb launch setup may need adjustment as of July 24, 2022 patch. You may now need to drop the breaching charge a bit later and the CX explosive a bit earlier than what is shown in the above video.
-  - This strategy is slightly outdated, there is now a [35s version](https://youtu.be/10LNYNs5TkE), but the explanation above is still helpful.
+- [Paris Bomb Launch 29-31s](https://youtu.be/8k-WKp0SyC8)
 - [Sapienza 1:2X (Including Cliff Boost)](https://youtu.be/BqgSfJlBoGU)
-  - This strategy can now be considered outdated with [new 59s version with Molotov](https://youtu.be/L48_cPcfAyo), but the explanation above is still helpful in any Sapienza run.
 - [Marrakesh 0:3X](https://youtu.be/wqpDMdvhoAU)
 - [Bangkok 0:2X](https://youtu.be/DfEQBmea1_0)
+- [Hokkaido 0:30 SASO Bomb Launch](https://youtu.be/yb4uS1CNAms)
+- [Romania 2:10ish](https://youtu.be/F0mYxJ0CE2s?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
 
 ### Beginner-Friendly(ish) Strats
 
