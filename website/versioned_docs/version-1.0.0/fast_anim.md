@@ -16,7 +16,7 @@ If you still can't find what you're looking for, feel free to shoot a question i
   - Crouching can give you faster animations for some prompts, as [shown here](https://youtu.be/XPyBK2yCC5o?t=9)
   - You will switch between items in your hands faster when crouched (most noticeable when swapping from holding a sniper rifle to a pistol).
   - You can pick items up more quickly if you toggle crouch and uncrouch just before / afterwards.
-  - You can change disguise faster if you toggle crouch and unrouch during the animation.
+  - You can change disguise faster if you toggle crouch and uncrouch during the animation.
 
 ## Fast Interact
 

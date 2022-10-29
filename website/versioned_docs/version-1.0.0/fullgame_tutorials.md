@@ -19,6 +19,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 	- [Slower Frisk Skip](https://youtu.be/t92vLEucwJ4) via [NPC Clipping](fast_anim#npc-clipping)
 	- [Frisk Skip via muffin throw](https://youtu.be/EBqR-2QEAYU?t=851) via [NPC Clipping](fast_anim#npc-clipping)
 	- [Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) if you don't feel like using NPC clipping
+	- [Frisk Skip via concussion duck](https://youtu.be/wTbZ6rJJo3o) if you don't feel like using NPC clipping
 
 ### Commentated Walkthroughs
 
@@ -93,7 +94,6 @@ List of maps that can benefit from a disguise for speed and consistency on SA ca
 - New York (Whether this is faster somewhat depends on Athena cycle RNG)
 - Dartmoor
 - Berlin
-- Mendoza
 - Romania (You'll lose a few seconds getting a disguise but it's arguably worth it for consistency)
 
 ### Meta Strategies Overview
