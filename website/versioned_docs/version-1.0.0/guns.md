@@ -70,22 +70,19 @@ The optimal snap shooting inputs are:
 - Right Click (hold) > Left Click > Let go of Left Click > Let go of Right Click
   - Note that you should never let go of right click before left click, that may result in delay, as shown [here](https://youtu.be/voBsuKu-thI?t=172)
   - [Snap Shooting example](https://youtu.be/XPyBK2yCC5o?t=62)
+- Alternatively, use Right + Left Click while holding down Instinct before, during, and after the shot. Keeping Instinct on the whole time basically ensures it's impossible to get a slow animation when shooting.
+- If you must have instinct off when aiming (for instance sometimes it's easier to see certain textures with Instinct off), you can consider Stored Shot.
+  - Stored Shot Instructions: While using Instinct, press the "fire gun" button (left click on PC). When you come out of Instinct and aim (right click on PC), you will perform a snap shot with zero stutters.
+  - [Example](https://youtu.be/xUrp7yAIqD0?t=204). Note going into Instinct just before shooting.
+
+- [Example](https://youtu.be/xUrp7yAIqD0?t=204). Note going into Instinct just before shooting.
+- Another option: Left click > Right click > Let go of Right Click > Inventory > Drop gun > Pick gun back up (optional)
+  - [Example](https://youtu.be/YMJeUqyN88E?t=159)
 
 Also note that sniper rifles do not have the white dot in the middle of screen by default, but you can install [Crosshair V2](https://www.microsoft.com/en-is/p/crosshair-v2/9n1k9q56hvxr) (which is legal for Hitman 3 speedrun.com leaderboards), or simply put some white tape on your monitor.
 
-Some other input options to consider to avoid snap shot stutter include:
-
-- [Stored Shot](guns#stored-shot)
-- Left click > Right click > Let go of Right Click > Inventory > Drop gun > Pick gun back up (optional)
-  - [Example](https://youtu.be/YMJeUqyN88E?t=159)
 
 Also see Stored Shot below for another option to snap shoot with no risk of stutter.
-
-## Stored Shot
-
-While using Instinct, press the "fire gun" button (left click on PC). When you come out of Instinct and aim (right click on PC), you will perform a snap shot with zero stutters.
-
-- [Example](https://youtu.be/xUrp7yAIqD0?t=204). Note going into Instinct just before shooting.
 
 ## Bullet Distractions (1 bullet)
 
