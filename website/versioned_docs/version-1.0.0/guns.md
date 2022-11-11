@@ -74,8 +74,6 @@ The optimal snap shooting inputs are:
 - If you must have instinct off when aiming (for instance sometimes it's easier to see certain textures with Instinct off), you can consider Stored Shot.
   - Stored Shot Instructions: While using Instinct, press the "fire gun" button (left click on PC). When you come out of Instinct and aim (right click on PC), you will perform a snap shot with zero stutters.
   - [Example](https://youtu.be/xUrp7yAIqD0?t=204). Note going into Instinct just before shooting.
-
-- [Example](https://youtu.be/xUrp7yAIqD0?t=204). Note going into Instinct just before shooting.
 - Another option: Left click > Right click > Let go of Right Click > Inventory > Drop gun > Pick gun back up (optional)
   - [Example](https://youtu.be/YMJeUqyN88E?t=159)
 
