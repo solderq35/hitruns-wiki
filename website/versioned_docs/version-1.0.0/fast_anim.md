@@ -58,20 +58,31 @@ For fast pickup, fast exit, fast interact with sinks/ radios/ unlocking doors et
 
 - When by a drag body or unpack briefcase prompt, press inventory button (D-pad left or right button), then square OR circle, then triangle in quick succession.
 
+For fast briefcase retrieval:
+
+- When by an unpack briefcase prompt, press inventory (D-pad left or right button), then square OR circle, then square in quick succession.
+
+- See the [Fast Briefcase Unpack](fast_anim#console-fast-sniper-briefcase-unpack) section for more info on fast sniper briefcase unpack.
+
 For fast disguise change:
 
 - When by a pickup/ interact prompt, press inventory (D-pad left or right button), then square OR circle, then X in quick succession.
 
-For fast body drag / briefcase retrieve:
+For fast body drag:
 
-- When by a body drag or unpack briefcase prompt, press inventory (D-pad left or right button), then square OR circle , then circle in quick succession.
-- See the [Fast Briefcase Unpack](fast_anim#console-fast-sniper-briefcase-unpack) section for more info on fast sniper briefcase unpack.
+- When by a body drag, press inventory (D-pad left or right button), then square OR circle , then circle in quick succession.
 
 #### Xbox Instructions
 
 For fast pickup, fast exit, fast interact with sinks/ radios/ unlocking doors etc:
 
-- When by a pickup/ interact prompt, press inventory button (D-pad left or right button), then X OR B, then Y in quick succession
+- When by a pickup/ interact prompt, press inventory button (D-pad left or right button), then X OR B, then Y in quick succession.
+
+For fast briefcase retrieval:
+
+- When by an unpack briefcase prompt, press inventory (D-pad left or right button), then X OR B, then X in quick succession.
+
+- See the [Fast Briefcase Unpack](fast_anim#console-fast-sniper-briefcase-unpack) section for more info on fast sniper briefcase unpack.
 
 For fast disguise change:
 
@@ -99,7 +110,7 @@ Saves about half a second overall
     - **Keybinds for reference**: Unpack (1), Crouch (2), Drop (3)
 - If you need to shoot something right after unpacking the optimal inputs will be:
   - Look Down > Drop > Unpack > Crouch > Aim (Right Mouse Button) + Marksman Mode (Shift button) + Uncrouch (Optional)
-  - **Pressing Shift(Marksman) and Aim as you unpack is important so that you can seamlessly transition from unpacking to aiming, and enter the Marksman slow-mo aiming as soon as possible.**
+    - **Pressing Shift(Marksman) and Aim as you unpack is important so that you can seamlessly transition from unpacking to aiming, and enter the Marksman slow-mo aiming as soon as possible.**
   - [Example of Fast Unpack into Shoot](https://youtu.be/h_LRqv0hrFQ)
     - Both variants of staying crouched or uncrouching while scoped in are shown in the above video. **Inputs are shown via Nohboard.**
     - **Keybinds for reference**: Unpack (1), Crouch (2/C), Drop (3/Alt), Marksman (Shift), Aim (Right Mouse Button).
@@ -109,7 +120,8 @@ Saves about half a second overall
 
 ### Console Fast Sniper Briefcase Unpack
 
-- You can more or less follow the same inputs as explained above, however on console it is also necessary to use [fast briefcase retrieve trick](fast_anim#console-fast-interact) for the "Unpack" step.
+- You can more or less follow the same inputs as explained above, however on console it is also necessary to press D-Pad Left or Right Button > Square > Square (PlayStation) or D-Pad Left or Right Button > X > X (Xbox).
+  - See [Console Fast Interact](fast_anim#console-fast-interact) section for more info.
 - [Example 1 (Unpack into Shoot)](https://youtu.be/pv3ZCuyVhbY?t=7)
 - [Example 2 (Unpack, keep moving)](https://youtu.be/pv3ZCuyVhbY?t=43)
 - [Example 3 (Unpack into Shoot)](https://youtu.be/5pochP7Ynek?t=36)
