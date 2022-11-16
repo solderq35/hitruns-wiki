@@ -110,8 +110,10 @@ Saves about half a second overall
 ### Console Fast Sniper Briefcase Unpack
 
 - You can more or less follow the same inputs as explained above, however on console it is also necessary to use [fast briefcase retrieve trick](fast_anim#console-fast-interact) for the "Unpack" step.
-- [Example 1](https://youtu.be/5pochP7Ynek?t=36)
-- [Example 2](https://youtu.be/ijf7khHNFEE?t=372)
+- [Example 1 (Unpack into Shoot)](https://youtu.be/pv3ZCuyVhbY?t=7)
+- [Example 2 (Unpack, keep moving)](https://youtu.be/pv3ZCuyVhbY?t=43)
+- [Example 3 (Unpack into Shoot)](https://youtu.be/5pochP7Ynek?t=36)
+- [Example 4 (Unpack into Shoot, Uncrouch)](https://youtu.be/ijf7khHNFEE?t=372)
 
 ## Fast Throw (All Platforms)
 
