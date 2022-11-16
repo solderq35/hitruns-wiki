@@ -103,7 +103,6 @@ Saves about half a second overall
     - Both variants of staying crouched or uncrouching while scoped in are shown in the above video. **Inputs are shown via Nohboard.**
     - **Keybinds for reference**: Unpack (1), Crouch (2), Drop (3/C), Marksman (Shift), Aim (Right Mouse Button)
     - Uncrouching at the end should be done if you either need to keep running after unpacking (standing back up avoids an awkward shuffle animation), or you need to be standing up to shoot a particular spot. Otherwise, it's best to stay crouched for the shot as it simplifies inputs and you can take advantage of Marksman slow-mo mode more while you unpack (see the bullet point below).
-  - Bonus tip: Make sure to spam the drop button after shooting, to avoid slow aim animation. Spam the drop button because sometimes the game may be slow to notice your inputs. Pick sniper back up again if you still need it later.
   - [Another Example of Fast Unpack Shoot with Uncrouch](https://youtu.be/IHufpS-Veaw?t=7)
     - This may more clearly demonstrate the use case of uncrouching, this distraction shot won't hit right right spot from a crouch.
 
