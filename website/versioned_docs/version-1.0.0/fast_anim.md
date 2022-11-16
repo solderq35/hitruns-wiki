@@ -102,9 +102,9 @@ Saves about half a second overall
   - [Example of Fast Unpack into Shoot](https://youtu.be/h_LRqv0hrFQ)
     - Both variants of staying crouched or uncrouching while scoped in are shown in the above video. **Inputs are shown via Nohboard.**
     - **Keybinds for reference**: Unpack (1), Crouch (2/C), Drop (3/Alt), Marksman (Shift), Aim (Right Mouse Button).
-    - Uncrouching at the end should be done if you either need to keep running after unpacking (standing back up avoids an awkward shuffle animation), or you need to be standing up to shoot a particular spot. Otherwise, it's best to stay crouched for the shot as it simplifies inputs and you can take advantage of Marksman slow-mo mode more while you unpack (see the bullet point below).
+    - Uncrouching at the end should be done if you either need to keep running after unpacking (standing back up avoids an awkward shuffle animation), or you need to be standing up to shoot a particular spot. Otherwise, it's best to stay crouched for the shot as it simplifies inputs, and because standing up while aiming can throw your aim or timing off.
   - [Another Example of Fast Unpack Shoot with Uncrouch](https://youtu.be/IHufpS-Veaw?t=7)
-    - This may more clearly demonstrate the use case of uncrouching, this distraction shot won't hit right right spot from a crouch.
+    - This may more clearly demonstrate the use case of uncrouching, this distraction shot won't hit right spot from a crouch.
 
 ### Console Fast Sniper Briefcase Unpack
 
