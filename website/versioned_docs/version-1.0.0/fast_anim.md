@@ -120,7 +120,7 @@ Saves about half a second overall
 
 ### Console Fast Sniper Briefcase Unpack
 
-- You can more or less follow the same inputs as explained above, however on console it is also necessary to press D-Pad Left or Right Button > Square > Square (PlayStation) or D-Pad Left or Right Button > X > X (Xbox).
+- You can more or less follow the same inputs as explained above, however on console it is also necessary to press `D-Pad Left or Right Button > Square > Square (PlayStation)` or `D-Pad Left or Right Button > X > X (Xbox)`.
   - See [Console Fast Interact](fast_anim#console-fast-interact) section for more info.
 - [Example 1 (Unpack into Shoot)](https://youtu.be/pv3ZCuyVhbY?t=7)
 - [Example 2 (Unpack, keep moving)](https://youtu.be/pv3ZCuyVhbY?t=43)
