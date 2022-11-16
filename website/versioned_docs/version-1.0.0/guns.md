@@ -79,7 +79,6 @@ The optimal snap shooting inputs are:
 
 Also note that sniper rifles do not have the white dot in the middle of screen by default, but you can install [Crosshair V2](https://www.microsoft.com/en-is/p/crosshair-v2/9n1k9q56hvxr) (which is legal for Hitman 3 speedrun.com leaderboards), or simply put some white tape on your monitor.
 
-
 Also see Stored Shot below for another option to snap shoot with no risk of stutter.
 
 ## Bullet Distractions (1 bullet)

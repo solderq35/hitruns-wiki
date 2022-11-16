@@ -15,11 +15,11 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 - [Vezareth's Playlist of Full Game Strats](https://youtube.com/playlist?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
   - Optimal execution for consistent full game strats
 - New York Frisk Skip Options:
-	- [Fast Frisk Skip](https://www.youtube.com/watch?v=JdEG3Llu2tc) via [NPC Clipping](fast_anim#npc-clipping)
-	- [Slower Frisk Skip](https://youtu.be/t92vLEucwJ4) via [NPC Clipping](fast_anim#npc-clipping)
-	- [Frisk Skip via muffin throw](https://youtu.be/EBqR-2QEAYU?t=851) via [NPC Clipping](fast_anim#npc-clipping)
-	- [Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) if you don't feel like using NPC clipping
-	- [Frisk Skip via concussion duck](https://youtu.be/wTbZ6rJJo3o) if you don't feel like using NPC clipping
+  - [Fast Frisk Skip](https://www.youtube.com/watch?v=JdEG3Llu2tc) via [NPC Clipping](fast_anim#npc-clipping)
+  - [Slower Frisk Skip](https://youtu.be/t92vLEucwJ4) via [NPC Clipping](fast_anim#npc-clipping)
+  - [Frisk Skip via muffin throw](https://youtu.be/EBqR-2QEAYU?t=851) via [NPC Clipping](fast_anim#npc-clipping)
+  - [Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) if you don't feel like using NPC clipping
+  - [Frisk Skip via concussion duck](https://youtu.be/wTbZ6rJJo3o) if you don't feel like using NPC clipping
 
 ### Commentated Walkthroughs
 

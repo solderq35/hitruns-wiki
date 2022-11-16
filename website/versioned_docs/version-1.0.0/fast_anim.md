@@ -94,11 +94,17 @@ Saves about half a second overall
 - Technically this works with all large items that can be unpacked from briefcases, but most common use is with sniper rifle.
 - To perform fast unpack, the optimal inputs are:
   - Look Down > Drop > Unpack > Crouch > Wait 0.5 seconds > Uncrouch
-    - [Basic Example Video](https://youtu.be/iFOvfjnZ3NY)
-  - Note: Don't uncrouch at the end if you don't have a reason to stand up before shooting. In particular, beginners may want to forgo the uncrouch input, as mistiming this can lead to a very slow unpack animation.
+  - [Basic Example Video (Unpack and Keep Running)](https://youtu.be/Bg8e-i3lYVk)
+    - The above video includes unpacking both from an Agency Pickup briefcase on the ground as well as a briefcase in your hand. **Inputs are shown via Nohboard.**
+    - **Keybinds for reference**: Unpack (1), Crouch (2), Drop (3)
 - If you need to shoot something right after unpacking the optimal inputs will be:
   - Look Down > Drop > Unpack > Crouch > Aim (Right Mouse Button) + Marksman Mode (Shift button) + Uncrouch (Optional)
-  - [Example of Fast Unpack into Shoot](https://youtu.be/wJOCZtttzDk?t=32)
+  - [Example of Fast Unpack into Shoot](https://youtu.be/h_LRqv0hrFQ)
+    - Both variants of staying crouched or uncrouching while scoped in are shown in the above video. **Inputs are shown via Nohboard.**
+    - **Keybinds for reference**: Unpack (1), Crouch (2), Drop (3/C), Marksman (Shift), Aim (Right Mouse Button)
+    - Uncrouching at the end should be done if you either need to keep running after unpacking (standing back up avoids an awkward shuffle animation), or you need to be standing up to shoot a particular spot. Otherwise, it's best to stay crouched for the shot as it simplifies inputs and you can take advantage of Marksman slow-mo mode more while you unpack (see the bullet point below).
+  - [Another Example of Fast Unpack Shoot with Uncrouch](https://youtu.be/IHufpS-Veaw?t=7)
+    - This may more clearly demonstrate the use case of uncrouching, this distraction shot won't hit right right spot from a crouch.
 
 ### Console Fast Sniper Briefcase Unpack
 
@@ -147,7 +153,7 @@ Strafe slightly to one side for roughly 0.00001s-0.3s and press to open the inve
 - Only works for real NPC
 - Will persist until you close the game
 - [Video Guide](https://youtu.be/-iaWEkmj9ko)
-	- The window for getting this is pretty tight, you need to restart the frame you start to clip into the NPC. Press pause before you can even see 47 phasing inside the npc, so that you can pause the exact frame it happens.
+  - The window for getting this is pretty tight, you need to restart the frame you start to clip into the NPC. Press pause before you can even see 47 phasing inside the npc, so that you can pause the exact frame it happens.
 
 ## Gunslide
 

@@ -33,3 +33,20 @@ yarn-error.log*
 .env.production.local
 
 .vercel
+
+# Ignore List for Hitruns-Wiki
+/website/.docusaurus
+/website/.yarn
+/website/build
+/.github
+/.husky
+/.yarn
+/__mocks__
+.eslintrc
+.pnp.cjs
+.prettierrc
+.yarnrc.yml
+jest.config.js
+.pnp.loader.mjs
+babel.config.js
+/docusaurus-search-local
