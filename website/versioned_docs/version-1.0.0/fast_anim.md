@@ -99,6 +99,7 @@ Saves about half a second overall
     - **Keybinds for reference**: Unpack (1), Crouch (2), Drop (3)
 - If you need to shoot something right after unpacking the optimal inputs will be:
   - Look Down > Drop > Unpack > Crouch > Aim (Right Mouse Button) + Marksman Mode (Shift button) + Uncrouch (Optional)
+  - **Pressing Shift(Marksman) and Aim as you unpack is important so that you can seamlessly transition from unpacking to aiming, and enter the Marksman slow-mo aiming as soon as possible.**
   - [Example of Fast Unpack into Shoot](https://youtu.be/h_LRqv0hrFQ)
     - Both variants of staying crouched or uncrouching while scoped in are shown in the above video. **Inputs are shown via Nohboard.**
     - **Keybinds for reference**: Unpack (1), Crouch (2/C), Drop (3/Alt), Marksman (Shift), Aim (Right Mouse Button).
