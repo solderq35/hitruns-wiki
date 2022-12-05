@@ -20,7 +20,7 @@ Disclaimer: Only patches that affected runs that were submitted to speedrun.com 
 
 Also note that this list only considers changes that **negatively** affected speedrunning techniques, because that's what causes a run to be invalidated.
 
-- **March 11, 2021 (Game Version 3.11)**
+- **February 23, 2021 (Game Version 3.11)**
   - [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-february-patch-3-11/)
   - Patched Speedrun Tricks:
     - [Druzhina Arctic wallbangs](https://www.youtube.com/watch?v=bo_vPd7cN80)
