@@ -47,11 +47,6 @@ Concussive explosives are much less audible making them only be heard in the roo
 - Getting spotted holding an illegal item by a target's VIP bodyguard may result in the guard entering a state of blindness ([Example](https://youtu.be/Sxo4AeX8W5Y?t=38))
 - If you are in guard disguise guns are legal, so you will need to aim gun to get the same response ([Example](https://youtu.be/l5xo6fOUSq0?t=15))
 
-## RFID Coin Properties
-
-- RFID coin can trigger proximity related things, such as Truck exit in Mumbai, Into the Woods exit in Berlin, Bridge exit in Dartmoor
-- [Example of using RFID coin to exit early in Mumbai](https://youtu.be/sK0xEhyFI_I?t=12)
-
 ## First Person Mode Glitch
 
 - First Person Mode Glitch is sometimes useful for long range pistol snipes. Note that this does not make your gun itself more accurate, just lets you see farther.
