@@ -7,11 +7,11 @@ description: Hitman Speedrun Discords
 
 These are the following Hitman speedrunning discord servers:
 
-**[Hitman Runs Server](https://discord.com/invite/E45wUBnxBT)** (the "official" Hitman speedrun.com server)
+**[Hitman Runs Server](https://discord.gg/TKH8yGkDns)** (the "official" Hitman speedrun.com server)
 
 - Best place to ask a general question regarding speedrun strats or run rules, and get information about announcements and polls for Hitman 3 speedrun.com leaderboards
 
-**[Zebulaus](https://discord.gg/xZ5xWMM8dJ)**
+**[Zebulaus](https://discord.gg/HRhnrSgE9s)**
 
 - Good for more specific questions about a certain main mission speedrun strategy.
 
@@ -21,6 +21,6 @@ These are the following Hitman speedrunning discord servers:
 
 ## Okay, But Why are There Three Discords?
 
-Well, Lego Stuffers and Frote's are both not officially affiliated with speedrun.com.
+Well, Zebulaus and Frote's are both not officially affiliated with speedrun.com.
 
 The "official" Hitman Runs server is the best place to get information on future announcements or polls regarding the Hitman 3 speedrun leaderboards, even if people don't chat here all that much.
