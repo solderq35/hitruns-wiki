@@ -11,9 +11,9 @@ These are the following Hitman speedrunning discord servers:
 
 - Best place to ask a general question regarding speedrun strats or run rules, and get information about announcements and polls for Hitman 3 speedrun.com leaderboards
 
-**[Lego Stuffers Server](https://discord.gg/WvGmnFcpVM)** (server name is an inside joke)
+**[Zebulaus](https://discord.gg/xZ5xWMM8dJ)**
 
-- Good for more specific questions about a certain main mission speedrun strategy, but not as well moderated
+- Good for more specific questions about a certain main mission speedrun strategy.
 
 **[Frote's Server](https://discord.com/invite/kVMBEZA)** (server ran by **[Fortheseven](https://www.speedrun.com/user/Fortheseven)** aka Frote)
 
