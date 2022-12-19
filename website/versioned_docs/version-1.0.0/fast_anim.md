@@ -175,6 +175,7 @@ Strafe slightly to one side for roughly 0.00001s-0.3s and press to open the inve
 A bit faster than just running down normally.
 
 - Basic Version:
+  - [Helpful Tutorial from Vezlaye](https://youtu.be/NWdHkng-OYU?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
   - Turn the camera such that 47 is running face first at the camera, and crouch run down the stairs / slope. While you are doing that, press and hold the shoot button (Left mouse button). Do not press the aim button (Right mouse button). Drop and pick up pistol, press aim button, or holster weapon to stop the glide.
   - [Example of basic gunslide](https://youtu.be/voBsuKu-thI?t=28)
   - This also works on [Sapienza cliff](https://youtu.be/l5xo6fOUSq0?t=38). Remember to only click shoot button and not aim button, and to be crouched and with correct camera angle.
