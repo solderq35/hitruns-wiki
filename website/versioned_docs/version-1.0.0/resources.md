@@ -7,9 +7,9 @@ description: List of Hitman 3 speedrunning resources
 
 Instructions on how to install Peacock linked. Perks: obtain all unlocks immediately, get rating screen without being connected to IOI servers.
 
-### [Ansel Freecam](https://rentry.org/hitman3ansel)
+### [Freecam](https://rentry.org/hitman3ansel)
 
-Routing tool for PC users with Nvidia graphics card.
+Tool that lets you move the camera anywhere you want on the map, good for investigating tricky sniper shots etc. PC only. Note: Not to be used in a finished speedrun, only for routing/practice.
 
 ### [Full Game Time Calculator](https://solderq35.github.io/fg-time-calc/)
 
