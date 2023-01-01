@@ -56,9 +56,11 @@ Concussive explosives are much less audible making them only be heard in the roo
 - [Console Instructions](https://youtu.be/_kZPfiJeVIw?t=93)
 
 ## Dawood Body Found / FPS Instructions
+
 - [Video Explanation from Fusha](https://youtu.be/ZhNN2AVc2hk?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
 
 ## Sapienza Invisiball
+
 - [Video Explanation from Zebulaus](https://youtu.be/FeuU7Xmt3z8?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
 
 ## Glossary
@@ -66,14 +68,17 @@ Concussive explosives are much less audible making them only be heard in the roo
 ### Full Lockdown
 
 Targets in direct danger are taken to a safe space by their VIP guards and heavily protected. Will be indicated by "Target Lockdown" showing up above minimap, and sometimes accompanied by fire alarms.
+
 - [Example in The Author](https://youtu.be/OVpFIYqUaEI?t=12): Note the first target (Brother Akram) is escorted by guards and "Target Lockdown" shows up above minimap.
 
 ### Soft Lockdown
 
 Targets that witness panic will retreat to a 'safe space', often closer and less secure than a full lockdown. Their VIP guards can enter 'searching', abandoning the target. Targets that witness their VIP guard panic will enter Full Lockdown state (Needs more testing). Soft lockdown can be more useful than Full Lockdown sometimes as the guards are less likely to follow the target in a soft lockdown, and also because there will be less chaos in the level overall.
+
 - [Example in Bangkok](https://youtu.be/fnyUisYu_zA?t=24): Panicking some NPC outside Jordan's booth triggers a soft lockdown later.
 
 ### Bad Shelter
 
 When a Target or VIP guard (sometimes telepathically) considers lockdown location compromised, and redirects to a secondary lockdown point.
+
 - [Example in Sapienza](https://youtu.be/bCdb6o46DxE): After initially panicking Francesca, panic the guards in a room ahead of her path so that by the time she gets there, that area isn't safe and she will go to another location for lockdown instead.
