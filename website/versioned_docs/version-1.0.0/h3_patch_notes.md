@@ -27,7 +27,7 @@ Also note that this list only considers changes that **negatively** affected spe
     - [Running Along the Side of the Train in Romania](https://youtu.be/hGr-ekdRMxA?t=26)
     - [Berlin Manhole Exit](https://youtu.be/yA83Ip4-jHg?t=213)
     - [Chongqing Vault Skip by Hush's Office](https://youtu.be/T-swLeD-vtY?t=60)
-- **May 7, 2021 (Game Version 3.30)**
+- **May 10, 2021 (Game Version 3.30)**
   - [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-may-patch-3-30/)
   - Patched Speedrun Tricks:
     - [Emetic Patch, NPC now go to different places now to throw up](https://www.youtube.com/watch?v=zk4kBSXJf8c)
