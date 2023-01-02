@@ -26,7 +26,7 @@ Also note that this list only considers changes that **negatively** affected spe
     - [Druzhina Arctic wallbangs](https://www.youtube.com/watch?v=bo_vPd7cN80)
     - [Running Along the Side of the Train in Romania](https://youtu.be/hGr-ekdRMxA?t=26)
     - [Berlin Manhole Exit](https://youtu.be/yA83Ip4-jHg?t=213)
-    - [Chongqing Vault Skip by Hush's Office](https://youtu.be/T-swLeD-vtY?t=60)
+    - [Chongqing Vault Skip by Hush's Office](https://youtu.be/T-swLeD-vtY?t=60) (Affected Chonqing SA Fiberwire Runs)
 - **May 10, 2021 (Game Version 3.30)**
   - [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-may-patch-3-30/)
   - Patched Speedrun Tricks:
@@ -41,6 +41,7 @@ Also note that this list only considers changes that **negatively** affected spe
   - [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-year-2-may-patch-notes/)
   - Patched Speedrun Tricks:
     - Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns. [Advice on how to handle new camera for Dubai Master on current patch](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s)
+    - [Invisible barrier added for Mendoza sliding roof](https://youtu.be/v2LsiANC3NY) (Affected Mendoza SA/SO No Loadout runs)
 - **October 6, 2022 (Game Version 3.130)**
   - [Official IOI Patch Notes](https://www.ioi.dk/hitman-3-october-patch-notes/)
   - Patched Speedrun Tricks:
