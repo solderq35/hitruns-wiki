@@ -15,21 +15,101 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 - [Vezlaye's Playlist of Full Game Strats](https://youtube.com/playlist?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
   - Optimal execution for consistent full game strats
 - [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/watch?v=-iaWEkmj9ko&list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
+- [GenP's Tutorial of General Hitman Speedrun Tricks](https://www.youtube.com/watch?v=z71oLdcsipE)
+
+  - Some explanations slightly flawed but good overview.
 
 - New York Frisk Skip Options:
-  - [Fast Frisk Skip](https://youtu.be/JdEG3Llu2tc) via [NPC Clipping](fast_anim#npc-clipping)
-  - [Fast Frisk Skip via concussion duck](https://youtu.be/wTbZ6rJJo3o) (no NPC clipping)
-  - [Slower Frisk Skip via bullet distractions](https://youtu.be/A5TPuBZCLAE) (no NPC clipping)
-  - [Slower Frisk Skip without bullet distractions or duck](https://youtu.be/VNvP75Upe8A) (no NPC Clipping)
+  - [Fast Frisk Skip](https://www.youtube.com/watch?v=AtxksTzYzPQ)
+  - [Slower Frisk Skip](https://youtu.be/VNvP75Upe8A)
+  - [Slower Frisk Skip via bullet distractions (for Default Loadout)](https://youtu.be/A5TPuBZCLAE)
 
-### Commentated Walkthroughs
+### Additional Fullgame Resources Listed by Map
 
-- [Paris Bomb Launch 29-31s](https://youtu.be/8k-WKp0SyC8)
-- [Sapienza 1:2X (Including Cliff Boost)](https://youtu.be/BqgSfJlBoGU)
-- [Marrakesh 0:3X](https://youtu.be/wqpDMdvhoAU)
-- [Bangkok 0:2X](https://youtu.be/DfEQBmea1_0)
-- [Hokkaido 0:30 SASO Bomb Launch](https://youtu.be/yb4uS1CNAms)
-- [Romania 2:10ish](https://youtu.be/F0mYxJ0CE2s?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
+- Not all maps have additional resources or tutorials (yet). If none are listed for a particular map, just watch the fullgame run listed [above](#meta-strategies-overview) for a starting point. Also note that some strats listed below may be too risky for a trilogy run and may be better suited for a seasonal run.
+
+#### Paris
+
+- [Paris Bomb Launch 29-31s by Zebulaus](https://youtu.be/8k-WKp0SyC8) (**Voiceover Commentary**)
+
+#### Sapienza
+
+- [Sapienza 1:2X (Including Cliff Boost) by Moo](https://youtu.be/BqgSfJlBoGU) (**Voiceover Commentary**)
+
+#### Marrakesh
+
+- [Marrakesh 0:3X by Moo](https://youtu.be/wqpDMdvhoAU) (**Voiceover Commentary**)
+- [Marrakesh 0:26 to 0:29 by Moo](https://youtu.be/WaI7Qn8TfpA) (**Voiceover Commentary**)
+
+#### Bangkok
+
+- [Bangkok 0:2X by Moo](https://youtu.be/DfEQBmea1_0) (**Voiceover Commentary**)
+
+#### Colorado
+
+- [Colorado 1:03 by Fusha](https://youtu.be/LO2VuOVlNQY) (**Voiceover Commentary**)
+
+#### Hokkaido
+
+- [Hokkaido 0:30 SASO Bomb Launch by Zebulaus](https://youtu.be/yb4uS1CNAms) (**Voiceover Commentary**)
+- [Hokkaido Bomb Launch Tutorial 2 by Zebulaus](https://youtu.be/yb4uS1CNAms)
+
+#### Hawke's Bay
+
+#### Miami
+
+- [Papier's Miami Video + Text Commentary](https://www.youtube.com/watch?v=rWAce1vnXzg)
+
+  - You can skip cutscene as soon as the light of Sierra's car go on
+    then you walk towards the right corner of the gate (shoot a sieker dart onto the journalist cause she can spot you killing Robert) and shoot through the garage wall when Sierra drives past. You wanna shoot slightly before sierra is in your scope cause she's moving quick. The fake NPC's outside the gate are RNG so ideally you'd have nobody in your way but sometimes you have to adapt where you shoot depending on these NPC's.
+    In case you miss sierra you get a second chance once she's around the corner.
+
+  - For Robert I walk to the corner of the blue sign on the ground and aim towards him. You see a black window to his right which is what you want to shoot. You wanna be on the 2nd scope lvl (so 1 more than nothing) and once you see Robert being outside the black part of your sniper scope, you can shoot the wiindow twice.
+    Then walk forward along the sign until you see the window next to robert which you wanna shoot after he's walked past. Shoot the bottom right of the window.
+    Then you walk further right until you see the gap in the window (you can also step back a bit) and shoot Robert as soon as his head appears.
+
+- [Fusha's Album of Visual Lineups for Miami](https://imgur.com/a/BP4ko2E)
+- [Miami 15s by Scruffy](https://youtu.be/C0hHg3_SQ6Q)
+- [Miami 20s by Shtok](https://www.youtube.com/watch?v=zxa7gFswhxA)
+
+#### Santa Fortuna
+
+#### Mumbai
+
+- [Moo's Mumbai Explanation for Vanya](https://www.youtube.com/watch?v=eu5LfU_JwKo)
+- [Fusha's Mumbai strat Explanation](https://youtu.be/ZhNN2AVc2hk)
+
+#### Whittleton Creek
+
+#### Isle of Sgail
+
+#### New York
+
+#### Haven
+
+- [22s Haven Tutorial by Fusha](https://www.youtube.com/watch?v=UqwsskmxCl4) (**Voiceover Commentary**)
+
+#### Dubai
+
+- [Dubai 17s Tutorial by Moo](https://www.youtube.com/watch?v=7cmZn47I7sY)
+  - Probably not consistent enough for trilogy, just good for Season 3 runs
+  - See also: [Dubai 16s](https://youtu.be/MB029LdQci8?t=7) (mostly the same but shoot Marcus slightly sooner)
+- See the other seasonal (Season 1 / 2 / 3) SASO Pro records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+
+#### Dartmoor
+
+#### Berlin
+
+#### Chongqing
+
+- [Chongqing Visual Lineups / Tutorial by Koats](https://youtu.be/_TQnwtdWfSM)
+
+#### Mendoza
+
+#### Romania
+
+- [Romania 2:10ish by Papier](https://youtu.be/F0mYxJ0CE2s?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD) (**Voiceover Commentary**)
+- [Romania Starting Tips by Fusha](https://www.youtube.com/watch?v=ucMrTTHLNSg)
 
 ### Beginner-Friendly(ish) Strats
 
@@ -47,21 +127,6 @@ Other Beginner Routes to consider:
   - Easier virus and Silvio kills
 - [2:43 easy Romania](https://youtu.be/4fatU6HntPA)
 
-### Seasonal Only
-
-- [Paris 30s](https://youtu.be/zoZFALSCoLs?t=6)
-  - Might be consistent enough for trilogy
-- [Miami 15s](https://youtu.be/C0hHg3_SQ6Q)
-- [Miami 20s](https://www.youtube.com/watch?v=zxa7gFswhxA)
-- [Dubai 17s Tutorial](https://www.youtube.com/watch?v=7cmZn47I7sY)
-  - Probably not consistent enough for trilogy, just good for Season 3 runs
-  - See also: [Dubai 16s](https://youtu.be/MB029LdQci8?t=7) (mostly the same but shoot Marcus slightly sooner)
-- [Romania 2:1X Tutorial](https://youtu.be/F0mYxJ0CE2s?t=154)
-- Anything else from these runs:
-  - [Vezlaye's Season 1 3:47 SA/SO](https://www.youtube.com/watch?v=Qp5jjyeiK3o)
-  - [Housen's Season 3 5:47 SA/SO](https://www.youtube.com/watch?v=D3fyQY13W6s)
-- See the other seasonal (Season 1 / 2 / 3) SASO Pro records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
-
 ## SASO Master
 
 Short summary of pro / master differences:
@@ -74,11 +139,29 @@ Short summary of pro / master differences:
 
 ### Meta Strategies Overview
 
-- [Segmented Commentated Run from Aspecticor (23 minutes estimate)](https://www.youtube.com/watch?v=yA6mjuBUNfY)
+- [21:49 Run by Hashashin47](https://www.youtube.com/watch?v=E0andMCDD8g)
+- [Segmented Commentated Run by Aspecticor (23 minutes estimate)](https://www.youtube.com/watch?v=yA6mjuBUNfY)
   - Commentary is somewhat surface level, refer to Pro SASO tutorials above for more insight.
-- [Segmented "Ideal" Strats from Moodehh (20:45)](https://www.youtube.com/watch?v=naftsNAnoxw)
+- [Segmented "Ideal" Strats by Moodehh (20:45)](https://www.youtube.com/watch?v=naftsNAnoxw)
   - No commentary. Difficult strats executed to a high level but it shows what is possible on Master SASO full game.
 - See the other seasonal (Season 1 / 2 / 3) SASO Master records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+
+### Additional Fullgame Resources Listed by Map
+
+- Will only list a few videos here for maps where Master really changes. Otherwise, just watch the fullgame run listed [above](#meta-strategies-overview) for a starting point, or refer to the [SASO pro section](#saso-pro).
+
+#### Marrakesh
+
+- [Master Marrakesh Tips by Fusha](https://media.discordapp.net/attachments/1059614210134388836/1059622392852389938/image.png?width=841&height=670)
+  - [Supplementary Clip to above explanation](https://clips.twitch.tv/GlutenFreeModernFiddleheadsChefFrank-RMBkEDdr6j-ak0BJ)
+
+#### Colorado
+
+- [Master Colorado 1:03 to 1:06 by Fusha](https://www.twitch.tv/videos/1676040322)
+
+#### Romania
+
+- [2:36 to 2:40 Romania by Fusha](https://youtu.be/poOBcy4TLJg)
 
 ## SA Pro / Master
 

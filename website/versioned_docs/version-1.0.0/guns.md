@@ -138,6 +138,8 @@ To prevent this, crouch and uncrouch before aiming.
 - You can open swinging doors with semi automatic pistols if you use pause buffering ("mudshot", named after discoverer muddye).
 - Both pause and map work, although pause seems easier. The timing of the first pause is most important.
 
+Video Tutorial Overview from Fusha: https://youtu.be/tAm527gQTdI
+
 - Basic Version: Aim at door and hold aim button, pause, hold shoot button (should have both aim and shoot held by now), rapidly tap pause and unpause. You need as tiny a gap between unpause and pause as possible, but you can take a breather between pause and unpause.
   - [Basic Example](https://youtu.be/voBsuKu-thI?t=136)
 - More advanced version: Shoot the first shot normally, then pause, hold shoot and aim buttons, tap pause and unpause (faster but maybe riskier).
