@@ -3,14 +3,14 @@ title: Hitman 3 Patch Notes
 description: List of patches relevant to Hitman 3 speedruns, archive spreadsheet of no longer possible runs
 ---
 
-## Archive Spreadsheet
+## No Longer Possible Runs
 
-**[Archive Spreadsheet of No Longer Possible Runs](https://docs.google.com/spreadsheets/d/1HMmk0EIT1rtz4-no6h-ODByo_Sh6ndSp9wYwqGGwxkY/edit#gid=1673329186)**
+- No Longer Possible Runs are primarily tracked on [speedrun.com](https://www.speedrun.com/hitman_3) in their own category:
+  ![Example of NLP](https://media.discordapp.net/attachments/725721210121617419/1060469822711930920/image.png)
 
-- Includes Individual Level (No Longer Possible) runs, unlike the main leaderboard which only tracks Full Game (No Longer Possible) runs
-- Shortened Links to Archive Spreadsheet if Easier to Remember:
-  - [cutt.ly/h3_patched_runs](https://cutt.ly/h3_patched_runs)
-  - [hitruns.vercel.app/h3_patched_runs.html](https://hitruns.vercel.app/h3_patched_runs.html)
+  - Please hover your mouse over the sticky note icon by each run (as shown in screenshot above) to see more information on why a particular run is No Longer Possible.
+
+- In addition to being tracked on speedrun.com, we are also tracking No Longer Possible run on [this google spreadsheet](https://docs.google.com/spreadsheets/d/1HMmk0EIT1rtz4-no6h-ODByo_Sh6ndSp9wYwqGGwxkY/edit#gid=1673329186), but we will prioritize listing the runs on speedrun.com itself going forwards.
 
 ## List of Patches
 

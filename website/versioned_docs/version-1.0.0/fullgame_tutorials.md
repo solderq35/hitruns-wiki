@@ -102,7 +102,10 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 #### Chongqing
 
+- [New Boostless Chongqing (~54s) strat tutorial by Moo](https://www.youtube.com/watch?v=Fj5zkz7iDxs) (**Voiceover Commentary**)
+  - Easier Hush kill without any panics needed
 - [Chongqing Visual Lineups / Tutorial by Koats](https://youtu.be/_TQnwtdWfSM)
+  - (Old Strat version with Hush panics)
 
 #### Mendoza
 
