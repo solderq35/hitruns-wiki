@@ -10,7 +10,8 @@ description: List of patches relevant to Hitman 3 speedruns, archive spreadsheet
 
   - Please hover your mouse over the sticky note icon by each run (as shown in screenshot above) to see more information on why a particular run is No Longer Possible.
 
-- In addition to being tracked on speedrun.com, we are also tracking No Longer Possible run on [this google spreadsheet](https://docs.google.com/spreadsheets/d/1HMmk0EIT1rtz4-no6h-ODByo_Sh6ndSp9wYwqGGwxkY/edit#gid=1673329186), but we will prioritize listing the runs on speedrun.com itself going forwards.
+- In addition to being tracked on speedrun.com, we are also tracking No Longer Possible run on this google spreadsheet: https://hitruns.vercel.app/h3_patched_runs
+  - However, we will prioritize listing the runs on speedrun.com itself going forwards, so look there first.
 
 ## List of Patches
 
