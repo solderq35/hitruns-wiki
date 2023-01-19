@@ -31,7 +31,7 @@ DAK X2 Covert and ICA 19 F/A stealth are silenced handheld guns that can shoot o
 
 ## Sniper Rifles
 
-Sniper Properties Data Table from muddye: https://media.discordapp.net/attachments/802883476948254750/915155863579271188/unknown.png
+Sniper Properties Data Table from muddye: ![SniperTable](https://media.discordapp.net/attachments/1018323831468851202/1065435451713925130/image.png)
 Sniper rifles can also shoot swinging doors open, so you may not need a lockpick or disposable scrambler if you're already bringing a sniper rifle.
 
 - [Example of shooting door open with sniper rifle](https://www.youtube.com/watch?v=yoMQOQgOWQQ&list=PLflusD4O8jzNubvmK7dMBgbZ6Vsl-qiwR&index=2)
