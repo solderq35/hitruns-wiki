@@ -37,6 +37,10 @@
     {
       "type": "doc",
       "id": "resources"
+    },
+    {
+      "type": "doc",
+      "id": "downpatching"
     }
   ]
 }
