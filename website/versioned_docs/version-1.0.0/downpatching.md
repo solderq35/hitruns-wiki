@@ -88,9 +88,9 @@ description: Information on downpatching Hitman 3
   - Note that since Steam Hitman 3 was released January 2022, you can't downpatch to 2021 on Steam.
 - In Terminal / Command Line, navigate to the directory from where you installed Steam DepotDownloader with `cd <INSTALL_LOCATION>`
 - Run the following instructions:
-- `ddotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR>`
+- `ddotnet DepotDownloader.dll -app 1847520 -depot <DEPOT_ID> -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR>`
   - EXAMPLE INPUT: `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest 1587269672222714171 -user steamusernamehere -pass passwordhere -dir 'C:\Program Files (x86)\Steam\steamapps\common\HITMAN 3'`
-- `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR> -validate`
+- `dotnet DepotDownloader.dll -app 1847520 -depot <DEPOT_ID> -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR> -validate`
   - Running "validate" afterwards ensures that no files were corrupted while being downloaded
 - Alternatively, if you want to keep your downpatch files separate / maintain a backup, you can leave out the `dir <INSTALLDIR>` argument and copy over the files manually.
 - Unlike with Epic, you can launch the downpatched game as normal through the official Steam client as you normally would.
