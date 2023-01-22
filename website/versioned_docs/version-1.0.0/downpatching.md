@@ -124,11 +124,8 @@ description: Information on downpatching Hitman 3
   - You will not lose progress, mastery, or challenge completion by downpatching, in general.
     - Exception: Some items / missions will unplayable, or simply not there on older patches. In this case, your new patch unlocks won't carry over. See guidelines above.
 
-## General Patch Notes Info
-
-https://hitruns-wiki.vercel.app/docs/h3_patch_notes#list-of-patches
-
 ## Manifest Download Table / Specific Patch Findings
+- Refer [here](h3_patch_notes#list-of-patches) for more general information on some patches that specifically affected Hitman 3 speedruns.
 
 | Manifest Name / Download                                                                                                                                 | Release Date         | Game Version                                 | Official Patch Notes                                                                                     | Patch Note Commentary                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
