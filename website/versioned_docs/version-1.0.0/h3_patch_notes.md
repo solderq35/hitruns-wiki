@@ -17,7 +17,7 @@ description: List of patches relevant to Hitman 3 speedruns, archive spreadsheet
 
 Every patch that significantly affected Hitman 3 speedruns is listed below. An example video is given for each change, but refer to the spreadsheet above to see every run affected by the patch in question.
 
-Disclaimer: Only patches that affected runs that were submitted to speedrun.com are included here (at least for now). You can also check [this page](downpatching) for a more comprehensive look at every patch, but it includes some trivial patches.
+Disclaimer: Only patches that affected runs that were submitted to speedrun.com are included here (at least for now). You can also check [this page](downpatching#manifest-download-table--specific-patch-findings) for a more comprehensive look at every patch, but it includes some trivial patches.
 
 Also note that this list only considers changes that **negatively** affected speedrunning techniques, because that's what causes a run to be invalidated.
 
