@@ -13,7 +13,7 @@ In other words: _You can skip buying the Deluxe Pack / Edition as well as the Hi
 
 - A key item to note here is the White Ruby sniper rifle, unlocked by completing the "Faux Pas", "Entrepreneuers", or "Clichés" Arcade Elusive targets. This is identical to the Sieger 300 Ghost / Arctic, but unlike these two other rifles, the White Ruby does not require buying the HITMAN 1 GOTY DLC or Deluxe DLC.
 
-Note that if you are an owner of HITMAN (2016) or HITMAN 2 (2018) you may be eligible to redeem the Hitman 1 or 2 Access Passes. More info [here](https://web.archive.org/web/20230122221642/https://www.ioi.dk/hitman-3-pre-launch-guide/).
+Note that if you are an owner of HITMAN (2016) or HITMAN 2 (2018) you may be eligible to redeem the Hitman 1 or 2 Access Passes. More info [here](https://oldwebsite.ioi.dk/hitman-3-pre-launch-guide/).
 
 If you are still confused on what DLC is what, [please consult this handy spreadsheet](https://media.discordapp.net/attachments/833505136290299935/945096773251252325/unknown.png?width=809&height=586).
 
