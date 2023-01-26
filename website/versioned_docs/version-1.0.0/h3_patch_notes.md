@@ -53,7 +53,7 @@ Also note that this list only considers changes that **negatively** affected spe
     - [RFID Coin Exits](https://youtu.be/fyPVfSPQSb4?t=96)
     - [Dartmoor Ledge Drop](https://youtu.be/4Zc9d7w5yMY?t=37). (You can still do this ledge drop if you take cover first, [see this video](https://youtu.be/RIlDbIci-bs?t=46))
 
-- - **January 26, 2023 (Game Version 3.140)**
+- **January 26, 2023 (Game Version 3.140)**
   - [Official IOI Patch Notes](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes)
   - Patched Speedrun Tricks:
     - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36)
