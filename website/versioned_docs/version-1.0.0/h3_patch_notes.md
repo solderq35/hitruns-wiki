@@ -44,6 +44,7 @@ Also note that this list only considers changes that **negatively** affected spe
     - Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns. [Advice on how to handle new camera for Dubai Master on current patch](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s)
     - [Invisible barrier added for Mendoza sliding roof](https://youtu.be/v2LsiANC3NY) (Affected Mendoza SA/SO No Loadout runs)
 - **October 6, 2022 (Game Version 3.130)**
+
   - [Official IOI Patch Notes](https://web.archive.org/web/20230122221642/https://www.ioi.dk/hitman-3-october-patch-notes/)
   - Patched Speedrun Tricks:
     - [Molotov Cocktail is no longer an accident kill](https://youtu.be/eXTd8ZC3ftA)
@@ -51,3 +52,11 @@ Also note that this list only considers changes that **negatively** affected spe
     - [New York Frisk Skip](https://youtu.be/y2GuYwNMy5k?t=18). (Check the new, current-patch frisk skips [here](fullgame_tutorials#meta-strategies-overview))
     - [RFID Coin Exits](https://youtu.be/fyPVfSPQSb4?t=96)
     - [Dartmoor Ledge Drop](https://youtu.be/4Zc9d7w5yMY?t=37). (You can still do this ledge drop if you take cover first, [see this video](https://youtu.be/RIlDbIci-bs?t=46))
+
+- - **January 26, 2023 (Game Version 3.140)**
+  - [Official IOI Patch Notes](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes)
+  - Patched Speedrun Tricks:
+    - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36)
+      - Will return in a later patch, allegedly
+    - [Dartmoor Ledge Drop](https://media.discordapp.net/attachments/523948180287651860/1068219406842347621/image.png)
+    - Other stuff that will be updated later
