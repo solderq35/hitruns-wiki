@@ -21,7 +21,11 @@ description: Information on downpatching Hitman 3
 
 - https://www.youtube.com/watch?v=4Uzx9CJf-uk
   - Credits: [Tinosaurus](https://github.com/Tinosaurus)
-- Currently we only have a video walkthrough for Epic, as the process is a lot more complicated for Epic. We may make a Steam video tutorial sometime in the future.
+
+## Video Walkthrough (Steam)
+
+- https://youtu.be/5mg3dFQyFkI
+  - Credits: [Solder](https://github.com/solderq35)
 
 ## General Command Line Stuff / Prereqs
 
