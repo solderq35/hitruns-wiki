@@ -89,7 +89,7 @@ description: Information on downpatching Hitman 3
 - In Terminal / Command Line, navigate to the directory from where you installed Steam DepotDownloader with `cd <INSTALL_LOCATION>`, e.g. `cd C:\Users\usernamehere\Downloads\depotdownloader-2.47`
 - Run the following instructions:
 - `dotnet DepotDownloader.dll -app 1847520 -depot <DEPOT_ID> -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR>`
-  - EXAMPLE INPUT: `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest 1587269672222714171 -user steamusernamehere -pass passwordhere -dir C:\Program Files (x86)\Steam\steamapps\common\HITMAN 3`
+  - EXAMPLE INPUT: `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest 1587269672222714171 -user steamusernamehere -pass passwordhere -dir "C:\Program Files (x86)\Steam\steamapps\common\HITMAN 3"`
 - `dotnet DepotDownloader.dll -app 1847520 -depot <DEPOT_ID> -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR> -validate`
   - Running "validate" afterwards ensures that no files were corrupted while being downloaded
 - Alternatively, if you want to keep your downpatch files separate / maintain a backup, you can leave out the `dir <INSTALLDIR>` argument and copy over the files manually.
