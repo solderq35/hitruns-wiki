@@ -105,7 +105,7 @@ description: Information on downpatching Hitman 3
   - Note that the free Steam Demo of Hitman 3 lets you download all the patch files, although you may not be able to do much with them, as explained below.
 - The manifest files provided / linked require you to own the game on Steam / Epic to play the game with. Piracy is not condoned.
 - In general, any edition of Hitman 3 actually has you install all the game files, buying DLC just unlocks access. No matter what DLC you own, downpatching will similarly give you all game files. But you might not be able to play all of it if you don't own access to them.
-- The downpatched files from Steam and Epic are mostly but not completely compatible with each other. Any files ending with `.exe` are cross-platform. However, the `Launcher.exe` and `Hitman3.exe` will only work on the platform they are designed for.
+- The downpatched files from Steam and Epic are mostly but not completely compatible with each other. Any files ending with `.rpkg` are cross-platform. However, the `Launcher.exe` and `Hitman3.exe` will only work on the platform they are designed for.
   - Due to an inability to get earlier versions of the `.exe` files from Steam Depot Downloader, Steam Hitman 3 is probably locked onto versions of January 2022 or later.
 
 ## Miscellaneous Useful Info
