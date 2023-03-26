@@ -2,10 +2,19 @@
 title: Resources
 description: List of Hitman 3 speedrunning resources
 ---
+:::note
+**Important:** Rentry.org may have ocassional outages, in which case please reference my archive here: https://github.com/solderq35/hitman-tech-tips  
+
+(Should probably commit to changing all references to rentry.org to the github backups at some point, have had some outages).
+:::
 
 ### [The Peacock Project](https://thepeacockproject.org/wiki/intel)
 
 Instructions on how to install Peacock linked. Perks: obtain all unlocks immediately, get rating screen without being connected to IOI servers.
+
+### [Flashing Lights Bug Fix](https://github.com/solderq35/hitman-tech-tips/blob/main/other-tech-support-stuff/h3_flashing_lights.md)
+
+Instructions on how to fix flashing lights issue on Hitman 3 due to Nvidia drivers.
 
 ### [Freecam](https://rentry.org/hitman3ansel)
 
