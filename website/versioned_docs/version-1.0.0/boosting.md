@@ -7,6 +7,17 @@ description: Guide on boosting
 If you still can't find what you're looking for, feel free to shoot a question in the #hitman-3 channel of the Discord: https://discord.com/invite/E45wUBnxBT
 **
 
+:::info
+
+Certain boosting items are no longer possible as of January 26, 2023 patch (see [here for list of viable items](boosting#list-of-viable-boosting-breakable-object-as-of-january-26-2023)). Note that according to IOI, [boosts will return in a future patch](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes).
+
+General Guidelines:
+
+- Any boost previously possible with muffin throws is possible on current patch with kiwi.
+- Any boost with a very high barrier to overcome, or any boost involving breaching charge (hyperboost) is probably no longer possible.
+
+:::
+
 ## Boosting Overview
 
 - Once a Breakable item falls so far onto a surface it will break into pieces that we call 'Particles'.
@@ -17,12 +28,13 @@ If you still can't find what you're looking for, feel free to shoot a question i
 - For the most amount of height you can walk over the explosion of the breakable object as its breaking.
 - If you pass over the (Breakable Object) as its breaking AND get good RNG on the breakable pattern you can get a 'Double boost' off that item and gain extra height again.
 
-### List of Viable Boosting (Breakable Object) Items ordered by Particle Count
+### List of Viable Boosting (Breakable Object) as of January 26, 2023
 
-- Violin (Most amount, generates the most height and the easiest to stand on)
-- Crystal Ball / Stone bust (High amount, never really useful though)
-- Muffin / Brick (Moderate amount, best for staircases with normal railings)
-- Apple (Least amount, not good for anything but can work)
+- [Red Tie Kiwi](https://youtu.be/Ea3vtYhKWOo) (only unlockable item listed here)
+- [Apple](https://youtu.be/g9VWeXQGABE?t=58)
+- Soap
+- Apricot
+- [Flower Pot](https://youtu.be/04kyQ6mahsY?t=1)
 
 ### General Breakable Object Boosting Tips
 
@@ -69,8 +81,11 @@ If you still can't find what you're looking for, feel free to shoot a question i
 ### Gun Boost
 
 - [Sapienza Shooting Violin Boost](https://youtu.be/4FTHkqCRAWU?t=9): Drop breakable object, shoot object to boost upwards.
+  - **No longer possible since January 26, 2023 patch**
 
 ## Breakable Object Boost Examples (with Breaching Charge)
+
+- **No longer possible since January 26, 2023 patch**
 
 Same as regular breakable object boosts, but breaching charge can propel you farther.
 

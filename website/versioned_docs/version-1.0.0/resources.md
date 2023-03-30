@@ -2,8 +2,9 @@
 title: Resources
 description: List of Hitman 3 speedrunning resources
 ---
+
 :::note
-**Important:** Rentry.org may have ocassional outages, in which case please reference my archive here: https://github.com/solderq35/hitman-tech-tips  
+**Important:** Rentry.org may have ocassional outages, in which case please reference my archive here: https://github.com/solderq35/hitman-tech-tips
 
 (Should probably commit to changing all references to rentry.org to the github backups at some point, have had some outages).
 :::
