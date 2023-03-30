@@ -9,7 +9,7 @@ If you still can't find what you're looking for, feel free to shoot a question i
 
 :::info
 
-Certain boosting items are no longer possible as of January 26, 2023 patch (see [here for list of viable items](boosting#list-of-viable-boosting-breakable-object-as-of-january-26-2023)). Note that according to IOI, [boosts will return in a future patch](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes).
+Certain boosting items are no longer possible as of January 26, 2023 patch (see [here for list of viable items](boosting#list-of-viable-breakable-objects-for-boosting-as-of-january-26-2023)). Note that according to IOI, [boosts will return in a future patch](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes).
 
 General Guidelines:
 
