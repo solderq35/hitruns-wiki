@@ -28,7 +28,7 @@ General Guidelines:
 - For the most amount of height you can walk over the explosion of the breakable object as its breaking.
 - If you pass over the (Breakable Object) as its breaking AND get good RNG on the breakable pattern you can get a 'Double boost' off that item and gain extra height again.
 
-### List of Viable Boosting (Breakable Object) as of January 26, 2023
+### List of Viable Breakable Objects for Boosting as of January 26, 2023
 
 - [Red Tie Kiwi](https://youtu.be/Ea3vtYhKWOo) (only unlockable item listed here)
 - [Apple](https://youtu.be/g9VWeXQGABE?t=58)
