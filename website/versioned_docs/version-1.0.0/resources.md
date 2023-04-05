@@ -3,12 +3,6 @@ title: Resources
 description: List of Hitman 3 speedrunning resources
 ---
 
-:::note
-**Important:** Rentry.org may have ocassional outages, in which case please reference my archive here: https://github.com/solderq35/hitman-tech-tips
-
-(Should probably commit to changing all references to rentry.org to the github backups at some point, have had some outages).
-:::
-
 ### [The Peacock Project](https://thepeacockproject.org/wiki/intel)
 
 Instructions on how to install Peacock linked. Perks: obtain all unlocks immediately, get rating screen without being connected to IOI servers.
@@ -17,7 +11,7 @@ Instructions on how to install Peacock linked. Perks: obtain all unlocks immedia
 
 Instructions on how to fix flashing lights issue on Hitman 3 due to Nvidia drivers.
 
-### [Freecam](https://rentry.org/hitman3ansel)
+### [Freecam](https://github.com/solderq35/hitman-tech-tips/blob/main/misc/hitman3ansel.md)
 
 Tool that lets you move the camera anywhere you want on the map, good for investigating tricky sniper shots etc. PC only. Note: Not to be used in a finished speedrun, only for routing/practice.
 
@@ -25,7 +19,7 @@ Tool that lets you move the camera anywhere you want on the map, good for invest
 
 Please use this tool to add up in-game time for full game runs. Click "Save as URL" and copy URL after entering times.
 
-### [H3 Speedrun Tools/Mods](https://rentry.org/h3speedruntools)
+### [H3 Speedrun Tools/Mods](https://github.com/solderq35/hitman-tech-tips/blob/main/modding/h3speedruntools.md)
 
 Comprehensive list of speedrunning practice tools you can use while in-game. Some overlap with existing items here.
 
@@ -41,7 +35,7 @@ Interactive maps containing info on every item location, navigation feature, etc
 
 Mirror of Hitman 3 speedrun.com leaderboards.
 
-### [Legendary](https://rentry.org/H3Legendary)
+### [Legendary](https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3legendary.md)
 
 Legendary is a less performance intensive alternative to Epic Games Launcher.
 
