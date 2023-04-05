@@ -7,7 +7,7 @@ description: List of Hitman 3 speedrunning resources
 
 Instructions on how to install Peacock linked. Perks: obtain all unlocks immediately, get rating screen without being connected to IOI servers.
 
-### [Flashing Lights Bug Fix](https://github.com/solderq35/hitman-tech-tips/blob/main/other-tech-support-stuff/h3_flashing_lights.md)
+### [Flashing Lights Bug Fix](https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3_flashing_lights.md)
 
 Instructions on how to fix flashing lights issue on Hitman 3 due to Nvidia drivers.
 
