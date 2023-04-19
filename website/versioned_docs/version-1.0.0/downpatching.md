@@ -50,7 +50,7 @@ description: Information on downpatching Hitman 3
 
 - Legendary is essentially a modded game launcher for Epic that will allow you to downpatch
 - Install Legendary from here: https://github.com/derrod/legendary/releases/latest (just download `legendary.exe` if on Windows)
-- See this document on more information on how to install Hitman 3 with Legendary specifically: https://rentry.org/H3Legendary
+- See this document on more information on how to install Hitman 3 with Legendary specifically: https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3legendary.md
 - General Legendary documentation: https://github.com/derrod/legendary/blob/master/README.md
 - Before proceeding further, open the official Epic Games Launcher, click profile picture in upper right, then go to Settings > Manage Games > Uncheck "Allow Auto Updates". Otherwise, the game will update itself to the latest version automatically again if you ever open the Epic Games launcher later for any reason.
   - [Screenshot for Reference](https://media.discordapp.net/attachments/1018323831468851202/1066669559291052112/image.png?width=1255&height=670)

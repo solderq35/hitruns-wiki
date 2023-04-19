@@ -57,7 +57,7 @@ Also note that this list only considers changes that **negatively** affected spe
   - [Official IOI Patch Notes](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes)
   - Patched Speedrun Tricks:
     - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36)
-      - [Full List of Runs Affected by Boost](https://github.com/solderq35/hitman-tech-tips/blob/main/srdc-rules-announcements/h3_boost_patch.md) (Main Boards)
+      - [Full List of Runs Affected by Boost](https://github.com/solderq35/hitman-tech-tips/blob/main/srdc/h3_boost_patch.md) (Main Boards)
       - [Red Tie Kiwi](https://youtu.be/Ea3vtYhKWOo) (notable for being the only unlockable item listed here), [Apple](https://youtu.be/g9VWeXQGABE?t=58), Soap, Apricot, [Flower Pot](https://youtu.be/04kyQ6mahsY?t=1) still work for boosting.
       - Will return in a later patch, allegedly
     - [Dartmoor Ledge Drop (Again)](https://media.discordapp.net/attachments/523948180287651860/1068219406842347621/image.png)
