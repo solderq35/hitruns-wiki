@@ -28,7 +28,7 @@
         "type": "generated-index",
         "slug": "livesplit"
       },
-      "items": ["livesplit_peacock", "livesplit_manual"]
+      "items": ["livesplit_peacock", "livesplit_manual", "livesplit_auto_official"]
     },
     {
       "type": "doc",

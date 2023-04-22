@@ -1,11 +1,9 @@
 ---
-title: Livesplit Autosplitter (Official Servers)
-description: Autosplitter (Official Servers Only). Beware of inaccuracies.
+title: Livesplit Autosplitter (Official Servers, Epic)
+description: Autosplitter (Official Servers Only, Epic). Beware of inaccuracies.
 ---
 
 [Video Tutorial](https://youtu.be/81oA4RHAQug)- If you prefer video to text tutorial.
-
-**May be out of date / no longer working on latest game version.**
 
 ## Specifications:
 
@@ -29,7 +27,9 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 Download Livesplit [here](https://livesplit.org/downloads/)
 
-Download the hitman3.asl code from here: https://github.com/sandro-h/hitman3_asl
+- **Download the hitman3.asl code from here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/hitman3_epic_jan_2023.asl
+  - Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
+  - Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [MOBILITY](https://www.speedrun.com/user/MOB1LITY) (most recent contributor for current patch)
 
 Unzip the folder of the Livesplit Download, and then click on the Livesplit Application to start. Unzip the hitman3.asl file from its folder as well.
 
