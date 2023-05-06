@@ -3,7 +3,18 @@ title: Livesplit Autosplitter (Official Servers)
 description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 ---
 
-[Video Tutorial](https://youtu.be/81oA4RHAQug)- If you prefer video to text tutorial.
+## Video Demos (Installation / Usage)
+
+- [Video Tutorial (Main Game Mode)](https://youtu.be/81oA4RHAQug)
+
+  - Walks through all steps of installing / using the splitter for Main Game Mode
+  - Mostly applicable to Freelancer autosplitter as well, see [here](livesplit_auto_official#main-game-mode-vs-freelancer) for differences
+  - Credits: [Solder](https://github.com/solderq35)
+
+- [Demo Video (Freelancer Game Mode)](https://youtu.be/S1nyeAB1da4)
+  - No installation steps shown but [see below](https://hitruns-wiki.vercel.app/docs/livesplit_auto_official#freelancer)
+  - Demo of how the splitter works, removing loads from the timing
+    Credits: [Mitchell Merry](https://github.com/mitchell-merry)
 
 ## Specifications:
 
