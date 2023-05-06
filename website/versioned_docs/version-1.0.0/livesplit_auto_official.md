@@ -12,7 +12,7 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
   - Credits: [Solder](https://github.com/solderq35)
 
 - [Demo Video (Freelancer Game Mode)](https://youtu.be/S1nyeAB1da4)
-  - No installation steps shown but [see below](https://hitruns-wiki.vercel.app/docs/livesplit_auto_official#freelancer)
+  - No installation steps shown but [see below](livesplit_auto_official#freelancer)
   - Demo of how the splitter works, removing loads from the timing
     Credits: [Mitchell Merry](https://github.com/mitchell-merry)
 
