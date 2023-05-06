@@ -58,7 +58,7 @@ Download Livesplit [here](https://livesplit.org/downloads/)
 ### Freelancer
 
 - **Download the hitman3.asl code for Freelancer game mode here:** https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
-  - NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
+  - NOTE: The file above only works on Steam version although it can also be configured for Epic Games with right memory addresses
   - Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
 
 #### Credits
