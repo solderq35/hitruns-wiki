@@ -25,7 +25,23 @@ HitRuns Wiki has several advantages over the build-in guides on speedrun.com, in
 
 ## Site Setup
 
-- NOTE: Need node 16.15.1 or older. See https://github.com/coreybutler/nvm-windows or https://github.com/nvm-sh/nvm
+### Dependencies
+
+You will need either node version `16.15.1` or older, OR yarn version of `3.2.2` or newer. I recommend updating yarn so you can use newer node versions.
+
+How to update yarn:
+
+- `npm install --global yarn`
+- `yarn set version 3.22`
+
+How to change Node version:
+
+- See https://github.com/coreybutler/nvm-windows or https://github.com/nvm-sh/nvm
+- `nvm install 16.15.1` (or whichever version you want)
+- `nvm use 16.15.1`
+
+### Installation
+
 - `yarn install` to install required node modules.
 - `yarn start` to open the dev environment to preview the website.
 - `yarn build` to build the website locally (needed if you want to test the search function before deployment).

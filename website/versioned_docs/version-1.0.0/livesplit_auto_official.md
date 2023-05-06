@@ -1,6 +1,6 @@
 ---
-title: Livesplit Autosplitter (Official Servers, Epic)
-description: Autosplitter (Official Servers Only, Epic). Beware of inaccuracies.
+title: Livesplit Autosplitter (Official Servers)
+description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 ---
 
 [Video Tutorial](https://youtu.be/81oA4RHAQug)- If you prefer video to text tutorial.
@@ -17,19 +17,46 @@ description: Autosplitter (Official Servers Only, Epic). Beware of inaccuracies.
 
 - Will not work correctly from the Outside Start of Romania (Untouchable).
 
-- Only works on Epic Games version of Hitman 3
-
 - Works on official servers. Technically it works on Peacock, but it may be buggier, plus Peacock has its own autosplitter.
 
-- This autosplitter is not 100% accurate, this tool is just to get a decent estimate of your final in game time. Runs will be retimed by moderators as necessary.\*\*
+- This autosplitter is not 100% accurate, this tool is just to get a decent estimate of your final in game time. Runs will be retimed by moderators as necessary.
 
-## Installation
+### Main Game Mode vs Freelancer
+
+- The Freelancer splitter is RTA loadless, not in-game-time. The Freelancer splitter does not count time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
+- The Main Game Mode splitter tracks in-game time, meaning the timer does not run during Inventory or Pause Screen.
+- The Freelancer splitter is Steam only at the moment while the Main Game Mode splitter is Epic only at the moment.
+  - That is simply due to the devs for each splitter only owning the game on one platform; in theory, either splitter can be configured to work on both platforms, provided people are available to keep updating the memory addresses on both platforms after each game patch.
+  - See [Contribution Guidelines](livesplit_auto_official#contribution-instructions)
+
+## Autosplitter Files Download
 
 Download Livesplit [here](https://livesplit.org/downloads/)
 
-- **Download the hitman3.asl code from here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/hitman3_epic_jan_2023.asl
-  - Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
-  - Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [MOBILITY](https://www.speedrun.com/user/MOB1LITY) (most recent contributor for current patch)
+### Main Game Mode
+
+- **Download the hitman3.asl code for main game mode here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/hitman3_epic_jan_2023.asl
+  - NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
+  - Remember, this tracks in-game time, and the timer does not run during Inventory or Pause Screen (unlike the Freelancer splitter below)
+
+#### Credits
+
+- Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
+- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [MOBILITY](https://www.speedrun.com/user/MOB1LITY) (most recent contributor for current patch)
+
+### Freelancer
+
+- **Download the hitman3.asl code for Freelancer game mode here:** https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
+  - NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
+  - Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
+
+#### Credits
+
+- [mitchell-merry](https://github.com/mitchell-merry/autosplitters/tree/main/Hitman%203)
+
+## Installation
+
+**Steps below will work for both Main Game Mode and Freelancer autosplitter. **
 
 Unzip the folder of the Livesplit Download, and then click on the Livesplit Application to start. Unzip the hitman3.asl file from its folder as well.
 
@@ -60,3 +87,10 @@ You can press numpad 1 again to move the split to the next level (Sapienza). (th
 Press numpad 3 (default value) to reset timer. Remember to press numpad 1 again and wait for timer to turn green to start again if you want to go again.
 
 Final disclaimer: Timer may not be 100% accurate, use rating screen + on screen in game timer to retime as necessary later
+
+## Contribution Instructions
+
+See below instructions for how to find the corresponding memory addresses for Steam / Epic, and also how to update the memory addresses after each game update.
+
+- Freelancer: https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md
+- Main Game Mode (read code comments): https://github.com/sandro-h/hitman3_asl/blob/main/hitman3.asl
