@@ -36,7 +36,7 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 - The Freelancer splitter is RTA loadless, not in-game-time. The Freelancer splitter does not count time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
 - The Main Game Mode splitter tracks in-game time, meaning the timer does not run during Inventory or Pause Screen.
-- The Freelancer splitter is Steam only at the moment while the Main Game Mode splitter is Epic only at the moment.
+- The Freelancer splitter is on both Steam and Epic while the Main Game Mode splitter is Epic only at the moment.
   - That is simply due to the devs for each splitter only owning the game on one platform; in theory, either splitter can be configured to work on both platforms, provided people are available to keep updating the memory addresses on both platforms after each game patch.
   - See [Contribution Guidelines](livesplit_auto_official#contribution-instructions)
 
@@ -46,24 +46,26 @@ Download Livesplit [here](https://livesplit.org/downloads/)
 
 ### Main Game Mode
 
-- **Download the hitman3.asl code for main game mode here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/hitman3_epic_jan_2023.asl
+- **Download the hitman3.asl code for main game mode here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/main-game-mode/hitman3_igt_epic.asl
   - NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
   - Remember, this tracks in-game time, and the timer does not run during Inventory or Pause Screen (unlike the Freelancer splitter below)
 
 #### Credits
 
 - Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
-- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [MOBILITY](https://www.speedrun.com/user/MOB1LITY) (most recent contributor for current patch)
+- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [B3akers](https://github.com/B3akers), [MOBILITY](https://www.speedrun.com/user/MOB1LITY) (most recent contributor for current patch)
 
 ### Freelancer
 
-- **Download the hitman3.asl code for Freelancer game mode here:** https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
-  - NOTE: The file above only works on Steam version although it can also be configured for Epic Games with right memory addresses
+- **Download the hitman3.asl code for Freelancer game mode here:**
+  - Steam: https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
+  - Epic: https://github.com/solderq35/hitman-tech-tips/blob/main/asl/freelancer/hitman3_load_remover_epic.asl
   - Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
 
 #### Credits
 
-- [mitchell-merry](https://github.com/mitchell-merry/autosplitters/tree/main/Hitman%203)
+- [mitchell-merry](https://github.com/mitchell-merry/autosplitters/tree/main/Hitman%203) (Steam)
+- [Finalist](https://www.speedrun.com/user/Finalist) (Epic)
 
 ## Installation
 
