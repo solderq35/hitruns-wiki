@@ -57,14 +57,12 @@ Download Livesplit [here](https://livesplit.org/downloads/)
 
 ### Freelancer
 
-- **Download the hitman3.asl code for Freelancer game mode here:**
-  - Steam: https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
-  - Epic: https://github.com/solderq35/hitman-tech-tips/blob/main/asl/freelancer/hitman3_load_remover_epic.asl
+- **Download the hitman3.asl code for Freelancer game mode here:** https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
   - Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
 
 #### Credits
 
-- [mitchell-merry](https://github.com/mitchell-merry/autosplitters/tree/main/Hitman%203) (Steam)
+- [mitchell-merry](https://github.com/mitchell-merry) (Steam)
 - [Finalist](https://www.speedrun.com/user/Finalist) (Epic)
 
 ## Installation
