@@ -54,6 +54,7 @@ Also note that this list only considers changes that **negatively** affected spe
     - [Dartmoor Ledge Drop](https://youtu.be/4Zc9d7w5yMY?t=37). (You can still do this ledge drop if you take cover first, [see this video](https://youtu.be/RIlDbIci-bs?t=46))
 
 - **January 26, 2023 (Game Version 3.140)**
+
   - [Official IOI Patch Notes](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes)
   - Patched Speedrun Tricks:
     - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36)
@@ -62,4 +63,9 @@ Also note that this list only considers changes that **negatively** affected spe
       - Will return in a later patch, allegedly
     - [Dartmoor Ledge Drop (Again)](https://media.discordapp.net/attachments/523948180287651860/1068219406842347621/image.png)
   - Kalmer and Sieker no longer share ammo <br></br>
-    - Other stuff that will be updated later
+
+- **May 11, 2023 (Game Version 3.150.1)**
+  - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2023/hitman-woa-may-patch-notes)
+  - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36) returned to previous state
+  - [Stored Shots](https://youtu.be/aw1ueYw4a-Y) have been removed, need to aim longer before shooting in Instinct now
+  - NPC's drop items immediately after getting hit by tranq darts now
