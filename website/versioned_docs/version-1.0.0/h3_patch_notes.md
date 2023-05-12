@@ -68,7 +68,7 @@ Also note that this list only considers changes that **negatively** affected spe
   - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2023/hitman-woa-may-patch-notes)
   - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36) returned to previous state
   - Input delay added for shooting while in Instinct mode
-    - [Short Video Demo](https://youtu.be/8n22un-jRgQ) (0:00 to 0:25 is on patch, 0:25 to end is on old patch)
+    - [Short Video Demo](https://youtu.be/8n22un-jRgQ) (0:00 to 0:25 is on current patch, 0:25 to end is on old patch)
     - [More In Depth Video (read description)](https://youtu.be/aw1ueYw4a-Y)
   - NPC's drop items immediately after getting hit by tranq darts now
   - [First Person Camera Glitch](https://youtu.be/j5oJwjdMdVQ) has been removed
