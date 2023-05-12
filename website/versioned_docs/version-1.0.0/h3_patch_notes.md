@@ -69,3 +69,5 @@ Also note that this list only considers changes that **negatively** affected spe
   - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36) returned to previous state
   - [Stored Shots](https://youtu.be/aw1ueYw4a-Y) have been removed, need to aim longer before shooting in Instinct now
   - NPC's drop items immediately after getting hit by tranq darts now
+  - [First Person Camera Glitch](https://youtu.be/j5oJwjdMdVQ) has been removed
+  - Puddles electrocute more reliably now
