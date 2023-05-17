@@ -53,7 +53,7 @@ Download Livesplit [here](https://livesplit.org/downloads/)
 #### Credits
 
 - Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
-- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [B3akers](https://github.com/B3akers), [MOBILITY](https://www.speedrun.com/user/MOB1LITY) (most recent contributor for current patch)
+- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [B3akers](https://github.com/B3akers), [MOBILITY](https://www.speedrun.com/user/MOB1LITY), [quatilyti](https://www.speedrun.com/user/quatilyti)
 
 ### Freelancer
 
