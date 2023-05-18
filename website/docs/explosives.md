@@ -12,7 +12,7 @@ If you still can't find what you're looking for, feel free to shoot a question i
 Please consult the following tables for explosive device properties before reading further:
 
 - General Explosives Properties / Interactions:
-  ![solderexplosives](https://i.imgur.com/rZWBNlu.png)
+  ![solderexplosives](../static/img/explosives1.png)
 
 - More Info on Explosive Radiii:
   ![explosives table](https://i.ibb.co/yVd6R4m/unknown-5.png)
@@ -21,7 +21,7 @@ Please consult the following tables for explosive device properties before readi
 **Note that it is possible to KO or kill a target with an explosive device before the accident explosion kills them. If you KO a target before they die from accident explosion, you lose SA**
 
 - [Example of a propane kill that is not SA due to explosive device being too close, and KOing target](https://youtu.be/9Y2jrg4JYPI)
-- [Graphic of the sweet spot for SA with an explosive device and accident explosion source](https://imgur.com/a/Q9tygKe)
+- Graphic of the sweet spot for SA with an explosive device and accident explosion source: ![](../static/img/explosion_radius.png)
 - Breaching charge, bullets, Big One, EMP, and tasers can be considered "safe" ways to trigger accident explosions due to not doing much explosive damage themselves.
 
 - Note that accident KO will keep SA on nontargets, but lose you SA on targets.
