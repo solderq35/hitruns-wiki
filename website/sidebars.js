@@ -13,51 +13,50 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  "Docusaurus": [
+  Docusaurus: [
     {
-      "type": "category",
-      "label": "Gameplay Technique Guides",
-      "link": {
-        "type": "generated-index",
-        "slug": "index"
+      type: 'category',
+      label: 'Gameplay Technique Guides',
+      link: {
+        type: 'generated-index',
+        slug: 'index',
       },
-      "items": ["boosting", "electrocution", "explosives", "fast_anim", "guns", "lures", "miscellaneous"]
+      items: ['boosting', 'electrocution', 'explosives', 'fast_anim', 'guns', 'lures', 'miscellaneous'],
     },
     {
-      "type": "doc",
-      "id": "beginner"
+      type: 'doc',
+      id: 'beginner',
     },
     {
-      "type": "doc",
-      "id": "fullgame_tutorials"
+      type: 'doc',
+      id: 'fullgame_tutorials',
     },
     {
-      "type": "doc",
-      "id": "h3_patch_notes"
+      type: 'doc',
+      id: 'h3_patch_notes',
     },
     {
-      "type": "category",
-      "label": "Livesplit",
-      "link": {
-        "type": "generated-index",
-        "slug": "livesplit"
+      type: 'category',
+      label: 'Livesplit',
+      link: {
+        type: 'generated-index',
+        slug: 'livesplit',
       },
-      "items": ["livesplit_peacock", "livesplit_manual", "livesplit_auto_official"]
+      items: ['livesplit_peacock', 'livesplit_manual', 'livesplit_auto_official'],
     },
     {
-      "type": "doc",
-      "id": "discord"
+      type: 'doc',
+      id: 'discord',
     },
     {
-      "type": "doc",
-      "id": "resources"
+      type: 'doc',
+      id: 'resources',
     },
     {
-      "type": "doc",
-      "id": "downpatching"
-    }
-  ]
-
+      type: 'doc',
+      id: 'downpatching',
+    },
+  ],
 };
 
 module.exports = sidebars;

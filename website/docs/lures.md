@@ -21,7 +21,7 @@ You can make the peekaboo stronger by aiming a gun at the target; this enables l
 
 ### Briefcase
 
-**For more info on what explosives work with briefcase, check [here](https://imgur.com/a/VdQnRVm)**
+**For more info on what explosives work with briefcase, check [here](../static/img/explosion_radius.png)**
 
 Briefcase has the highest visual lure range of any passive distraction in the game. Do note however that it can fail to lure NPC's if you are seen near the briefcase. Try to make sure you can not be seen in the same area as the briefcase when attempting a briefcase lure.
 

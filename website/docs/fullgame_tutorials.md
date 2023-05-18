@@ -69,6 +69,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
     Then you walk further right until you see the gap in the window (you can also step back a bit) and shoot Robert as soon as his head appears.
 
 - [Fusha's Album of Visual Lineups for Miami](https://imgur.com/a/BP4ko2E)
+  - [Backup Google Drive Link](https://drive.google.com/drive/folders/1KI7oylXtBMdRG0kRzRIi02-p-MjQ98CD?usp=sharing)
 - [Miami 15s by Scruffy](https://youtu.be/C0hHg3_SQ6Q)
 - [Miami 20s by Shtok](https://www.youtube.com/watch?v=zxa7gFswhxA)
 
