@@ -80,9 +80,11 @@ description: Information on downpatching Hitman 3
 
 - Install Steam DepotDownloader from here: https://github.com/SteamRE/DepotDownloader/releases/latest (just download the zip and unzip it)
   - Check their README for general Steam DepotDownloader documentation: https://github.com/SteamRE/DepotDownloader/blob/master/README.md
+- Download downpatch bat file here: https://github.com/solderq35/hitruns-wiki/raw/master/Hitman%203%20Downpatch.bat
+  -  Put this file into the folder you unzipped DepotDownloader to.
 - You may need the latest version of dotnet, especially if you use an older version of Visual Studio for programming.
   - Install here: https://dotnet.microsoft.com/en-us/download
-- Before proceeding further, right click Hitman 3 in your Steam Library > Properties > Updates > Only update this game when I launch it
+- If you plan to patch the files of your original game install to save disk space, right click Hitman 3 in your Steam Library > Properties > Updates > Only update this game when I launch it
   - This will prevent Steam from trying to auto-update the game (in theory)
   - [Screenshot for Reference](https://media.discordapp.net/attachments/1018323831468851202/1066670572257415199/image.png?width=968&height=670)
 
@@ -90,13 +92,14 @@ description: Information on downpatching Hitman 3
 
 - For the next steps, head to [SteamDB](https://steamdb.info/depot/1659041/manifests/) to check the manifest ID's, or refer to the [table below](#manifest-download-table--specific-patch-findings).
   - Note that since Steam Hitman 3 was released January 2022, you can't downpatch to 2021 on Steam.
-- In Terminal / Command Line, navigate to the directory from where you installed Steam DepotDownloader with `cd <INSTALL_LOCATION>`, e.g. `cd C:\Users\usernamehere\Downloads\depotdownloader-2.47`
-- Run the following instructions:
-- `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR>`
-  - EXAMPLE INPUT: `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest 1587269672222714171 -user steamusernamehere -pass passwordhere -dir "C:\Program Files (x86)\Steam\steamapps\common\HITMAN 3"`
-- `dotnet DepotDownloader.dll -app 1847520 -depot 1659041 -manifest <MANIFEST_ID> -user <STEAM_USER_ID> -pass <STEAM_PASSWORD> -dir <INSTALLDIR> -validate`
-  - Running "validate" afterwards ensures that no files were corrupted while being downloaded
-- Alternatively, if you want to keep your downpatch files separate / maintain a backup, you can leave out the `dir <INSTALLDIR>` argument and copy over the files manually.
+- Once you've decided on the version you want to download, copy it, open Hitman 3 Downpatch.bat and paste the manifest ID using right click, and press enter.
+- Now you'll need to input your steam account username and password.
+  -  If you have Steam Guard Authentication on, you will also need to input your Authenticator code recieved via phone or email.
+- After DepotDownloader finishes downloading HITMAN 3, you're free to either add it to steam, or overwrite your main game install's files.
+  - If you want to keep both the current game install and the downpatched versions, you can simply add the game to steam as a non-steam game by clicking **ADD A GAME** on the bottom left of your steam client, clicking **Browse** on the window that pops up, and locating the downpatched game directory, selecting Launcher.exe, and adding the game to steam. 
+  - ![image](steam%20screenshot.png)
+  - If you want to replace your current install game files with the downpatched version to save file space on your system, simply drag and drop the files over your original install. If you need help finding the game install directory, you can right click the game on steam -> hover over Manage -> then select Browse Local Files.
+  - ![image](steam%20screenshot%202.png)
 - Unlike with Epic, you can launch the downpatched game as normal through the official Steam client as you normally would.
 
 ## Game Ownership / DLC's
