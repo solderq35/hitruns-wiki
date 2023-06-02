@@ -52,7 +52,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 #### Colorado
 
 - [Colorado 0:52 by Volvomodus](https://www.youtube.com/watch?v=KvagMHu-6LM) (**Voiceover Commentary**)
-- [Colorado 0:52 to 0:55 by Vezlaye](https://www.youtube.com/watch?v=WJO6FGiz6yY) (**Voiceover Commentary**)
+- [Colorado 0:52 to 0:55 by Vezlaye](https://www.youtube.com/watch?v=WJO6FGiz6yY) (**Subtitled**)
 - [Colorado 1:03 by Fusha](https://youtu.be/LO2VuOVlNQY) (**Voiceover Commentary**)
 
 #### Hokkaido
@@ -110,7 +110,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 #### Chongqing
 
-- [New Boostless Chongqing (~54s) strat tutorial by Hashashin47](https://youtu.be/qFE7m4M3nlc) (**Voiceover Commentary**)
+- [New Boostless Chongqing (~54s) strat tutorial by Hashashin47](https://youtu.be/qFE7m4M3nlc) (**Subtitled**)
   - Easier Hush kill without any panics needed
 - [Chongqing Visual Lineups / Tutorial by Koats](https://youtu.be/_TQnwtdWfSM)
   - (Old Strat version with Hush panics)
