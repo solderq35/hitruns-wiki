@@ -150,7 +150,7 @@ Short summary of pro / master differences:
 
 ### Meta Strategies Overview
 
-- [21:49 Run by Hashashin47](https://www.youtube.com/watch?v=E0andMCDD8g)
+- [21:24 Run by Hashashin47](https://www.youtube.com/watch?v=kJ0xbMIgduo)
 - [Segmented Commentated Run by Aspecticor (23 minutes estimate)](https://www.youtube.com/watch?v=yA6mjuBUNfY)
   - Commentary is somewhat surface level, refer to Pro SASO tutorials above for more insight.
 - [Segmented "Ideal" Strats by Moodehh (20:45)](https://www.youtube.com/watch?v=naftsNAnoxw)
