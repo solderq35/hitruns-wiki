@@ -7,22 +7,25 @@ Specific Strategy Tutorials for fullgame speedrun tutorials
 
 Disclaimer: Not all maps have a tutorial listed here. That may be because we have a shortage of well commentated and knowledgable tutorials for that map, or that said map is not considered particularly difficult.
 
+## General Tips
+
+- [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/watch?v=-iaWEkmj9ko&list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
+- [GenP's Tutorial of General Hitman Speedrun Tricks](https://www.youtube.com/watch?v=z71oLdcsipE)
+
+  - Good Overview of Hitman Speedrun Techniques
+
+- New York Frisk Skip Options (needed after [October 6, 2022 Patch](h3_patch_notes#list-of-patches)):
+  - [Fast Frisk Skip](https://www.youtube.com/watch?v=AtxksTzYzPQ)
+  - [Slower Frisk Skip](https://youtu.be/VNvP75Upe8A)
+  - [Slower Frisk Skip via bullet distractions (for Default Loadout)](https://youtu.be/A5TPuBZCLAE)
+
 ## SASO Pro
 
 ### Meta Strategies Overview
 
-- [Vezlaye's 21:32 Trilogy run (Good Overview of Current Strats)](https://www.youtube.com/watch?v=yVCP9MJWaUs).
-- [Vezlaye's Playlist of Full Game Strats](https://youtube.com/playlist?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
+- [Zionicle's 19:08 Trilogy SA/SO run (Good Overview of Current Strats)](https://www.youtube.com/watch?v=QjLISNHWj9o).
+- [Vezlaye's Playlist of SA/SO Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
   - Optimal execution for consistent full game strats
-- [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/watch?v=-iaWEkmj9ko&list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
-- [GenP's Tutorial of General Hitman Speedrun Tricks](https://www.youtube.com/watch?v=z71oLdcsipE)
-
-  - Some explanations slightly flawed but good overview.
-
-- New York Frisk Skip Options:
-  - [Fast Frisk Skip](https://www.youtube.com/watch?v=AtxksTzYzPQ)
-  - [Slower Frisk Skip](https://youtu.be/VNvP75Upe8A)
-  - [Slower Frisk Skip via bullet distractions (for Default Loadout)](https://youtu.be/A5TPuBZCLAE)
 
 ### Additional Fullgame Resources Listed by Map
 
@@ -44,9 +47,12 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 #### Bangkok
 
 - [Bangkok 0:2X by Moo](https://youtu.be/DfEQBmea1_0) (**Voiceover Commentary**)
+- [Volvomodus Bangok 0:2X by Volvomodus](https://youtu.be/8TMs3n1IvrY) (**Voiceover Commentary**)
 
 #### Colorado
 
+- [Colorado 0:52 by Volvomodus](https://www.youtube.com/watch?v=KvagMHu-6LM) (**Voiceover Commentary**)
+- [Colorado 0:52 to 0:55 by Vezlaye](https://www.youtube.com/watch?v=WJO6FGiz6yY) (**Voiceover Commentary**)
 - [Colorado 1:03 by Fusha](https://youtu.be/LO2VuOVlNQY) (**Voiceover Commentary**)
 
 #### Hokkaido
@@ -58,6 +64,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 #### Miami
 
+- [Volvomodus 15s Miami](https://youtu.be/V25jpM09n8M) (**Voiceover Commentary**)
 - [Papier's Miami Video + Text Commentary](https://www.youtube.com/watch?v=rWAce1vnXzg)
 
   - You can skip cutscene as soon as the light of Sierra's car go on
@@ -103,7 +110,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 #### Chongqing
 
-- [New Boostless Chongqing (~54s) strat tutorial by Moo](https://www.youtube.com/watch?v=Fj5zkz7iDxs) (**Voiceover Commentary**)
+- [New Boostless Chongqing (~54s) strat tutorial by Hashashin47](https://youtu.be/qFE7m4M3nlc) (**Voiceover Commentary**)
   - Easier Hush kill without any panics needed
 - [Chongqing Visual Lineups / Tutorial by Koats](https://youtu.be/_TQnwtdWfSM)
   - (Old Strat version with Hush panics)
@@ -184,10 +191,13 @@ List of maps that can benefit from a disguise for speed and consistency on SA ca
 
 ### Meta Strategies Overview
 
-- [Yannini 22:02 run](https://youtu.be/DkgcftoZghA)
+- [Vezlaye 17:06 run](https://www.youtube.com/watch?v=BqtsS6Ej7p0)
   - Some strategies outdated, compare with [SASO Pro section above](fullgame_tutorials#saso-pro)
-- [Moodehh Season 1 SA 3:31 run](https://youtu.be/vy6sVpPhza8)
+- [Vezlaye's Season 1 SA 3:17 run](https://www.youtube.com/watch?v=W6J6bYEJl8s)
+- [Vezlaye's Season 3 SA 5:15 run](https://www.youtube.com/watch?v=6ljaNE4axyk)
 - See the other seasonal (Season 1 / 2 / 3) SA Pro records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+- [Vezlaye's Playlist of SA Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz0hA-mg6Uom0cLVwCzFclcN)
+  - Optimal execution for consistent full game strats
 
 ## Any%
 
