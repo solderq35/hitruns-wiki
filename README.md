@@ -59,5 +59,5 @@ If you are a Hitman speedrunner seeking to contribute and have some basic coding
 
 If you don't have much coding knowledge but still want to contribute as a Hitman speedrunner:
 
-- Edit the Markdown files specified in Step 4 above, and send me the edited files to me on Discord (Solder#2337).
+- Edit the Markdown files specified in Step 4 above, and send me the edited files to me on Discord (solderq35).
 - Or just tell me what you want changed on Discord.
