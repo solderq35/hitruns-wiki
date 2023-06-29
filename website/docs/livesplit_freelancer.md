@@ -1,5 +1,5 @@
 ---
-title: Livesplit Load Remover (Freelancer) (Official Servers)
+title: Livesplit Load Remover (Freelancer)
 description: Load Remover for the Freelancer game mode (Official Servers Only).
 ---
 

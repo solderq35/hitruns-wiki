@@ -1,5 +1,5 @@
 ---
-title: Livesplit Autosplitter (Main Game Mode) (Official Servers)
+title: Livesplit Autosplitter (Main Game Mode)
 description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 ---
 

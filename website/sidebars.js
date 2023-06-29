@@ -42,7 +42,7 @@ const sidebars = {
         type: 'generated-index',
         slug: 'livesplit',
       },
-      items: ['livesplit_peacock', 'livesplit_manual', 'livesplit_auto_official'],
+      items: ['livesplit_peacock', 'livesplit_manual', 'livesplit_auto_official', 'livesplit_freelancer'],
     },
     {
       type: 'doc',
