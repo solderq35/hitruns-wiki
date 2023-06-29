@@ -57,8 +57,19 @@ Download Livesplit [here](https://livesplit.org/downloads/)
 
 ### Freelancer
 
-- **Download the hitman3.asl code for Freelancer game mode here:** https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl
-  - Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
+1. Right click LiveSplit -> Edit Splits
+2. Change "Game Name" to "Hitman 3 Freelancer"
+3. Below, text saying "Load removal is available" should appear with an Activate button. Press Activate.
+4. Click OK to close the window
+5. Right click on LiveSplit and ensure "Compare Against" is set to "Game Time".
+
+![image](../static/img/livesplit-freelancer.png)
+
+Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
+
+#### Contributing
+
+You can view the source code [here](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl). You can view some documentation about the ASL in the [README](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md). Feel free to open an issue on the repository to discuss any issues you may have.
 
 #### Credits
 
