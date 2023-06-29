@@ -1,20 +1,13 @@
 ---
-title: Livesplit Autosplitter (Official Servers)
+title: Livesplit Autosplitter (Main Game Mode) (Official Servers)
 description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 ---
 
 ## Video Demos (Installation / Usage)
 
 - [Video Tutorial (Main Game Mode)](https://youtu.be/81oA4RHAQug)
-
   - Walks through all steps of installing / using the splitter for Main Game Mode
-  - Mostly applicable to Freelancer autosplitter as well, see [here](livesplit_auto_official#main-game-mode-vs-freelancer) for differences
   - Credits: [Solder](https://github.com/solderq35)
-
-- [Demo Video (Freelancer Game Mode)](https://youtu.be/S1nyeAB1da4)
-  - No installation steps shown but [see below](livesplit_auto_official#freelancer)
-  - Demo of how the splitter works, removing loads from the timing
-    Credits: [Mitchell Merry](https://github.com/mitchell-merry)
 
 ## Specifications:
 
@@ -32,53 +25,16 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 - This autosplitter is not 100% accurate, this tool is just to get a decent estimate of your final in game time. Runs will be retimed by moderators as necessary.
 
-### Main Game Mode vs Freelancer
-
-- The Freelancer splitter is RTA loadless, not in-game-time. The Freelancer splitter does not count time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
-- The Main Game Mode splitter tracks in-game time, meaning the timer does not run during Inventory or Pause Screen.
-- The Freelancer splitter is on both Steam and Epic while the Main Game Mode splitter is Epic only at the moment.
-  - That is simply due to the devs for each splitter only owning the game on one platform; in theory, either splitter can be configured to work on both platforms, provided people are available to keep updating the memory addresses on both platforms after each game patch.
-  - See [Contribution Guidelines](livesplit_auto_official#contribution-instructions)
 
 ## Autosplitter Files Download
 
 Download Livesplit [here](https://livesplit.org/downloads/)
 
-### Main Game Mode
-
-- **Download the hitman3.asl code for main game mode here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/main-game-mode/hitman3_igt_epic.asl
-  - NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
-  - Remember, this tracks in-game time, and the timer does not run during Inventory or Pause Screen (unlike the Freelancer splitter below)
-
-#### Credits
-
-- Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
-- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [B3akers](https://github.com/B3akers), [MOBILITY](https://www.speedrun.com/user/MOB1LITY), [quatilyti](https://www.speedrun.com/user/quatilyti)
-
-### Freelancer
-
-1. Right click LiveSplit -> Edit Splits
-2. Change "Game Name" to "Hitman 3 Freelancer"
-3. Below, text saying "Load removal is available" should appear with an Activate button. Press Activate.
-4. Click OK to close the window
-5. Right click on LiveSplit and ensure "Compare Against" is set to "Game Time".
-
-![image](../static/img/livesplit-freelancer.png)
-
-Remember, this splitter is RTA loadless, not in-game-time. This splitter counts time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
-
-#### Contributing
-
-You can view the source code [here](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl). You can view some documentation about the ASL in the [README](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md). Feel free to open an issue on the repository to discuss any issues you may have.
-
-#### Credits
-
-- [mitchell-merry](https://github.com/mitchell-merry) (Steam)
-- [Finalist](https://www.speedrun.com/user/Finalist) (Epic)
+**Download the hitman3.asl code for main game mode here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/main-game-mode/hitman3_igt_epic.asl
+- NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
+- Remember, this tracks in-game time, and the timer does not run during Inventory or Pause Screen.
 
 ## Installation
-
-**Steps below will work for both Main Game Mode and Freelancer autosplitter. **
 
 Unzip the folder of the Livesplit Download, and then click on the Livesplit Application to start. Unzip the hitman3.asl file from its folder as well.
 
@@ -112,7 +68,9 @@ Final disclaimer: Timer may not be 100% accurate, use rating screen + on screen 
 
 ## Contribution Instructions
 
-See below instructions for how to find the corresponding memory addresses for Steam / Epic, and also how to update the memory addresses after each game update.
+See the code comments in the [script](https://github.com/sandro-h/hitman3_asl/blob/main/hitman3.asl) for how to find the corresponding memory addresses for Steam / Epic, and also how to update the memory addresses after each game update.
 
-- Freelancer: https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md
-- Main Game Mode (read code comments): https://github.com/sandro-h/hitman3_asl/blob/main/hitman3.asl
+### Credits
+
+- Original (now outdated for current patch) - https://github.com/sandro-h/hitman3_asl
+- Contributors: [sandro-h](https://github.com/sandro-h), [fu5ha](https://github.com/fu5ha), [emcifuntik](https://github.com/emcifuntik), [B3akers](https://github.com/B3akers), [MOBILITY](https://www.speedrun.com/user/MOB1LITY), [quatilyti](https://www.speedrun.com/user/quatilyti)
