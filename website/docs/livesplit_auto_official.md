@@ -25,12 +25,12 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 - This autosplitter is not 100% accurate, this tool is just to get a decent estimate of your final in game time. Runs will be retimed by moderators as necessary.
 
-
 ## Autosplitter Files Download
 
 Download Livesplit [here](https://livesplit.org/downloads/)
 
 **Download the hitman3.asl code for main game mode here:** https://github.com/solderq35/hitman-tech-tips/blob/main/asl/main-game-mode/hitman3_igt_epic.asl
+
 - NOTE: The file above only works on Epic Games version although it can also be configured for Steam with right memory addresses
 - Remember, this tracks in-game time, and the timer does not run during Inventory or Pause Screen.
 

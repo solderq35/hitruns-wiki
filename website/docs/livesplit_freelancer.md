@@ -16,7 +16,7 @@ This is a load remover for the Freelancer game mode. It pauses the timer during 
 
 The load remover is RTA loadless, not in-game-time. It counts the time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
 
-It only supports Steam and Epic at the moment for the May 2023 patch. See the [Contribution Guidelines](livesplit_auto_official#contribution-instructions) for how to add it for another version, or to update it for a new patch should the time come.
+It only supports Steam and Epic at the moment for the May 2023 patch. See the [Contribution Guidelines](livesplit_freelancer#contribution-instructions) for how to add it for another version, or to update it for a new patch should the time come.
 
 ## Installation
 
