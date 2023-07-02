@@ -3,18 +3,20 @@ title: Livesplit Load Remover (Freelancer)
 description: Load Remover for the Freelancer game mode (Official Servers Only).
 ---
 
-## Video Demos (Installation / Usage)
+## Video Guides (Installation / Usage)
 
-- [Demo Video (Freelancer Game Mode)](https://youtu.be/S1nyeAB1da4)
-  - No installation steps shown but [see below](livesplit_freelancer#installation)
+- [Installation Guide Video](https://youtu.be/kSReuJalfYg)
+  - Credits: [Mendie](https://www.twitch.tv/mendie)
+- [Demo Video](https://youtu.be/S1nyeAB1da4)
+  - No installation steps shown but refer to the installation video above / [written guide below](livesplit_freelancer#installation)
   - Demo of how the splitter works, removing loads from the timing
-    Credits: [Mitchell Merry](https://github.com/mitchell-merry)
+  - Credits: [Mitchell Merry](https://github.com/mitchell-merry)
 
-## Specification
+## Specifications
 
 This is a load remover for the Freelancer game mode. It pauses the timer during the longer loading screens when loading to and from the safehouse. It doesn't remove all loading screens at the moment. See the above demo video for which loading screen is removed.
 
-The load remover is RTA loadless, not in-game-time. It counts the time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.
+**The load remover is RTA loadless, not in-game-time. It counts the time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.**
 
 It only supports Steam and Epic at the moment for the May 2023 patch. See the [Contribution Guidelines](livesplit_freelancer#contribution-instructions) for how to add it for another version, or to update it for a new patch should the time come.
 
