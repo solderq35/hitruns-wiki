@@ -44,9 +44,10 @@ Press numpad 3 (default value) to reset timer. Remember to press numpad 1 again 
 
 ## Contribution Instructions
 
-See the [README](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md) for how to find the corresponding memory addresses for Steam / Epic, and also how to update the memory addresses after each game update. You can find the source code [here](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl).
+See the [README](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md) for how to find the corresponding memory addresses, and also how to update the memory addresses after each game update. You can find the source code [here](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl).
 
 ### Credits
 
 - [mitchell-merry](https://github.com/mitchell-merry) (Steam)
 - [Finalist](https://www.speedrun.com/user/Finalist) (Epic)
+- [la-moreno](https://github.com/la-moreno) (Game Pass)
