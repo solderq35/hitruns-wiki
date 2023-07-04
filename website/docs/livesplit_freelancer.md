@@ -18,7 +18,7 @@ This is a load remover for the Freelancer game mode. It pauses the timer during 
 
 **The load remover is RTA loadless, not in-game-time. It counts the time spent in Inventory or Pause screen. It _can_ be used in the main game mode but it is not advised.**
 
-It only supports Steam and Epic at the moment for the May 2023 patch. See the [Contribution Guidelines](livesplit_freelancer#contribution-instructions) for how to add it for another version, or to update it for a new patch should the time come.
+It supports the versions of the game listed in the state blocks [in the script](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl). See the [Contribution Guidelines](livesplit_freelancer#contribution-instructions) for how to add it for another or update an existing one.
 
 ## Installation
 
@@ -44,9 +44,10 @@ Press numpad 3 (default value) to reset timer. Remember to press numpad 1 again 
 
 ## Contribution Instructions
 
-See the [README](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md) for how to find the corresponding memory addresses for Steam / Epic, and also how to update the memory addresses after each game update. You can find the source code [here](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl).
+See the [README](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/README.md) for how to find the corresponding memory addresses, and also how to update the memory addresses after each game update. You can find the source code [here](https://github.com/mitchell-merry/autosplitters/blob/main/Hitman%203/hitman3.asl).
 
 ### Credits
 
 - [mitchell-merry](https://github.com/mitchell-merry) (Steam)
 - [Finalist](https://www.speedrun.com/user/Finalist) (Epic)
+- [la-moreno](https://github.com/la-moreno) (Game Pass)
