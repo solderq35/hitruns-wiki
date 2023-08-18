@@ -55,7 +55,7 @@ Also note that this list only considers changes that **negatively** affected spe
 
 - **January 26, 2023 (Game Version 3.140)**
 
-  - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes?panel=https%3A%2F%2Fioi.dk%2Fhitman%2Fpatch-notes%2Fjanuary-patch-notes)
+  - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/january-patch-notes)
   - Patched Speedrun Tricks:
     - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36)
       - [Full List of Runs Affected by Boost](https://github.com/solderq35/hitman-tech-tips/blob/main/srdc/h3_boost_patch.md) (Main Boards)
