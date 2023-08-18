@@ -64,6 +64,14 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 #### Miami
 
+- [Miami 15-30s strat](https://youtu.be/QjLISNHWj9o?t=628) is now more FPS dependent, need high FPS to kill Sierra reliably
+  - Preliminary findings:
+    - ~35% success on 120 FPS
+    - ~50% success on 190 FPS
+  - **[Backup Strat (~35s)](https://youtu.be/ZWvJEn1k0j4)**
+
+**Old Miami Tutorials Below (still relevant but use [backup 35s strat](https://youtu.be/ZWvJEn1k0j4) if you have FPS issues)**
+
 - [Volvomodus 15s Miami](https://youtu.be/V25jpM09n8M) (**Voiceover Commentary**)
 - [Papier's Miami Video + Text Commentary](https://www.youtube.com/watch?v=rWAce1vnXzg)
 

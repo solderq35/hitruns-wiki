@@ -74,6 +74,11 @@ Also note that this list only considers changes that **negatively** affected spe
   - NPC's drop items immediately after getting hit by tranq darts now
   - [First Person Camera Glitch](https://youtu.be/j5oJwjdMdVQ) has been removed
   - Puddles electrocute more reliably now
+  - [Miami 15-30s strat](https://youtu.be/QjLISNHWj9o?t=628) is now more FPS dependent, need high FPS to kill Sierra reliably
+    - Preliminary findings:
+      - ~35% success on 120 FPS
+      - ~50% success on 190 FPS
+    - [Backup Strat (~35s)](https://youtu.be/ZWvJEn1k0j4)
 
 - **August 17, 2023 (Game Version 3.160)**
   - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2023/hitman-woa-august-patch-notes)
