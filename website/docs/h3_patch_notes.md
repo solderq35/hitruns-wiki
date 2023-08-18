@@ -22,30 +22,30 @@ Disclaimer: Only patches that affected runs that were submitted to speedrun.com 
 Also note that this list only considers changes that **negatively** affected speedrunning techniques, because that's what causes a run to be invalidated.
 
 - **February 23, 2021 (Game Version 3.11)**
-  - [Official IOI Patch Notes](https://oldwebsite.ioi.dk/hitman-3-february-patch-3-11/)
+  - [Official IOI Patch Notes](https://web.archive.org/web/20220925013119/https://www.ioi.dk/hitman-3-february-patch-3-11/)
   - Patched Speedrun Tricks:
     - [Druzhina Arctic wallbangs](https://www.youtube.com/watch?v=bo_vPd7cN80)
     - [Running Along the Side of the Train in Romania](https://youtu.be/hGr-ekdRMxA?t=26)
     - [Berlin Manhole Exit](https://youtu.be/yA83Ip4-jHg?t=213)
     - [Chongqing Vault Skip by Hush's Office](https://youtu.be/T-swLeD-vtY?t=60) (Affected Chonqing SA Fiberwire Runs)
 - **May 10, 2021 (Game Version 3.30)**
-  - [Official IOI Patch Notes](https://oldwebsite.ioi.dk/hitman-3-may-patch-3-30/)
+  - [Official IOI Patch Notes](https://web.archive.org/web/20220925013119/https://www.ioi.dk/hitman-3-may-patch-3-30/)
   - Patched Speedrun Tricks:
     - [Emetic Patch, NPC now go to different places now to throw up](https://www.youtube.com/watch?v=zk4kBSXJf8c)
     - [No longer legal to carry sniper rifles as a guard in Mendoza, also free sniper accidents bug removed](https://www.youtube.com/watch?v=Y0NZZN0VkFQ)
 - **January 20, 2022 (Game Version 3.100)**
-  - [Official IOI Patch Notes](https://oldwebsite.ioi.dk/hitman-3-year-2-patch-notes/)
+  - [Official IOI Patch Notes](https://web.archive.org/web/20220925013119/https://www.ioi.dk/hitman-3-year-2-patch-notes/)
   - Patched Speedrun Tricks:
     - [Sniper Wallbang onto Chandelier for 37s Dartmoor SA patched](https://www.youtube.com/watch?v=77QUS3sY0EQ)
     - [Sliding Doors no longer open if you're too close](https://youtu.be/9rqI3jBgoFM?t=19s) (didn't invalidate any runs per se, but affected how you play Romania particularly in full game). Also note this change is not included in patch notes
 - **May 24, 2022 (Game Version 3.110)**
-  - [Official IOI Patch Notes](https://oldwebsite.ioi.dk/hitman-3-year-2-may-patch-notes/)
+  - [Official IOI Patch Notes](https://web.archive.org/web/20220925013119/https://www.ioi.dk/hitman-3-year-2-may-patch-notes/)
   - Patched Speedrun Tricks:
     - Cameras added on Season 3 maps on Master Difficulty, Affected Dubai / Chongqing Speedruns. [Advice on how to handle new camera for Dubai Master on current patch](https://www.youtube.com/watch?v=GJcN8RMhOxo&t=24s)
     - [Invisible barrier added for Mendoza sliding roof](https://youtu.be/v2LsiANC3NY) (Affected Mendoza SA/SO No Loadout runs)
 - **October 6, 2022 (Game Version 3.130)**
 
-  - [Official IOI Patch Notes](https://oldwebsite.ioi.dk/hitman-3-october-patch-notes/)
+  - [Official IOI Patch Notes](https://web.archive.org/web/20220925013119/https://www.ioi.dk/hitman-3-october-patch-notes/)
   - Patched Speedrun Tricks:
     - [Molotov Cocktail is no longer an accident kill](https://youtu.be/eXTd8ZC3ftA)
     - Also reduced Molotov wallbang potential
@@ -55,7 +55,7 @@ Also note that this list only considers changes that **negatively** affected spe
 
 - **January 26, 2023 (Game Version 3.140)**
 
-  - [Official IOI Patch Notes](https://ioi.dk/hidden/h3-patchnotes?panel=hitman%2Fpatch-notes%2Fjanuary-patch-notes)
+  - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes?panel=https%3A%2F%2Fioi.dk%2Fhitman%2Fpatch-notes%2Fjanuary-patch-notes)
   - Patched Speedrun Tricks:
     - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36)
       - [Full List of Runs Affected by Boost](https://github.com/solderq35/hitman-tech-tips/blob/main/srdc/h3_boost_patch.md) (Main Boards)
@@ -65,6 +65,7 @@ Also note that this list only considers changes that **negatively** affected spe
   - Kalmer and Sieker no longer share ammo <br></br>
 
 - **May 11, 2023 (Game Version 3.150.1)**
+
   - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2023/hitman-woa-may-patch-notes)
   - [Particle Boosts](https://youtu.be/l5xo6fOUSq0?t=36) returned to previous state
   - Input delay added for shooting while in Instinct mode
@@ -73,3 +74,9 @@ Also note that this list only considers changes that **negatively** affected spe
   - NPC's drop items immediately after getting hit by tranq darts now
   - [First Person Camera Glitch](https://youtu.be/j5oJwjdMdVQ) has been removed
   - Puddles electrocute more reliably now
+
+- **August 17, 2023 (Game Version 3.160)**
+  - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2023/hitman-woa-august-patch-notes)
+  - [Removed Dartmoor Ledge Drop (again)](https://youtu.be/ylGwSNNgp6I?t=23)
+  - Dropping [Chloroform](https://hitman.fandom.com/wiki/Chloroform_Flask) is now illegal (both Freelancer and normal mode)
+  - Alt F4 is no longer banned in Hitman Freelancer
