@@ -85,3 +85,7 @@ Also note that this list only considers changes that **negatively** affected spe
   - [Removed Dartmoor Ledge Drop (again)](https://youtu.be/ylGwSNNgp6I?t=23)
   - Dropping [Chloroform](https://hitman.fandom.com/wiki/Chloroform_Flask) is now illegal (both Freelancer and normal mode)
   - Alt F4 is no longer banned in Hitman Freelancer
+  - Some audio distractions in and around the trophy room in Dartmoor can no longer be heard by NPC's. Examples:
+    - [This distraction outside of room](https://youtu.be/_axr3SeMMCs?t=20)
+    - [These panic shots at start of run](https://youtu.be/Wpq4FNr0kyc?t=6) (Rebecca panic lure)
+    - [Shooting this door](https://youtu.be/Rao5WrQChls?t=119)
