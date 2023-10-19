@@ -5,12 +5,9 @@ description: Load Remover for the Freelancer game mode (Official Servers Only).
 
 ## Video Guides (Installation / Usage)
 
-- [Installation Guide Video](https://youtu.be/kSReuJalfYg)
-  - Credits: [Mendie](https://www.twitch.tv/mendie)
-- [Demo Video](https://youtu.be/S1nyeAB1da4)
-  - No installation steps shown but refer to the installation video above / [written guide below](livesplit_freelancer#installation)
-  - Demo of how the splitter works, removing loads from the timing
-  - Credits: [Mitchell Merry](https://github.com/mitchell-merry)
+- [Installation Guide Video](https://youtu.be/u8pa8kJcy30)
+  - Shows installation & a demo of how the loads are removed
+  - Credits: [Mitchell Merry / diggity](https://github.com/mitchell-merry)
 
 ## Specifications
 
