@@ -11,6 +11,12 @@ If you still can't find what you're looking for, feel free to shoot a question i
 
 Please consult the following tables for explosive device properties before reading further:
 
+- [Zeb's Flying Explosives Spreadsheet](https://docs.google.com/spreadsheets/d/1evp3EMDGanw17w6gxLcSg7t9hjpzb4EqC41xcWOzymc/edit#gid=0)
+  - Legality of explosives to hold, drop, throw
+  - How long for explosives to fly to destination
+  - How far explosives fly
+  - Whether to drop and/or place various explosive types for best results (for flying explosives)
+
 - General Explosives Properties / Interactions:
   ![solderexplosives](../static/img/explosives1.png)
 
@@ -62,6 +68,12 @@ If you place breaching charge next to another explosive, you can make the second
 - [Example 2](https://youtu.be/DX0MfURfqPo?t=13): C4 explosive is launched by breaching charge to where Reza Zeydan's office is. Triggering the C4 later causes an accident kill on Reza Zeydan.
 
 ### Flying Explosive Launch Distances
+
+- [Zeb's Flying Explosives Spreadsheet](https://docs.google.com/spreadsheets/d/1evp3EMDGanw17w6gxLcSg7t9hjpzb4EqC41xcWOzymc/edit#gid=0)
+  - Legality of explosives to hold, drop, throw
+  - How long for explosives to fly to destination
+  - How far explosives fly
+  - Whether to drop and/or place various explosive types for best results (for flying explosives)
 
 (Sorted Lowest to Highest Distance, non-exhaustive list)
 
