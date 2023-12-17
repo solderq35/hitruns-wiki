@@ -63,23 +63,17 @@ Sieker does not fire bullets, but its emetic effect is very useful. Besides the 
 
 Generally speaking snap shooting refers to shooting quickly without aiming much before hand, using the white dot in the middle of screen to help aim at most.
 
-Right Click can be understood to refer to "Aim" and Left Click to "Shoot" in instructions below.
+Note that sniper rifles do not have the white dot in the middle of screen by default, but you can install [Crosshair V2](https://www.microsoft.com/en-is/p/crosshair-v2/9n1k9q56hvxr) (which is legal for Hitman 3 speedrun.com leaderboards), or simply put some white tape on your monitor.
 
 The optimal snap shooting inputs are:
 
-- Right Click (hold) > Left Click > Let go of Left Click > Let go of Right Click
+- Aim Button (Right Mouse Button on PC) > Shoot Button (Left Mouse Button on PC) > Let go of Shoot Button > Let go of Aim Button
   - Note that you should never let go of right click before left click, that may result in delay, as shown [here](https://youtu.be/voBsuKu-thI?t=172)
   - [Snap Shooting example](https://youtu.be/XPyBK2yCC5o?t=62)
-- Alternatively, use Right + Left Click while holding down Instinct before, during, and after the shot. Keeping Instinct on the whole time basically ensures it's impossible to get a slow animation when shooting.
-- If you must have instinct off when aiming (for instance sometimes it's easier to see certain textures with Instinct off), you can consider Stored Shot.
-  - Stored Shot Instructions: While using Instinct, press the "fire gun" button (left click on PC). When you come out of Instinct and aim (right click on PC), you will perform a snap shot with zero stutters.
-  - [Example](https://youtu.be/xUrp7yAIqD0?t=204). Note going into Instinct just before shooting.
-- Another option: Left click > Right click > Let go of Right Click > Inventory > Drop gun > Pick gun back up (optional)
-  - [Example](https://youtu.be/YMJeUqyN88E?t=159)
+- Note that the timings for this are different with Instinct on or off as of May 2023 update:
+  - Compare Aim / Shoot button timings in NohBoard overlay from 0:23-0:25 (Instinct on) vs 0:26-0:28 (Instinct off): https://youtu.be/aw1ueYw4a-Y?t=22
 
-Also note that sniper rifles do not have the white dot in the middle of screen by default, but you can install [Crosshair V2](https://www.microsoft.com/en-is/p/crosshair-v2/9n1k9q56hvxr) (which is legal for Hitman 3 speedrun.com leaderboards), or simply put some white tape on your monitor.
-
-Also see Stored Shot below for another option to snap shoot with no risk of stutter.
+Buffering with pause / map menu can also be used for fastest timings on [single shots](https://youtu.be/JVPR1OXVIdI?t=3) or [multiple shots](https://youtu.be/tP2wunSibnE?t=4), see [mudshot](#mudshot) section below
 
 ## Bullet Distractions (1 bullet)
 
@@ -140,7 +134,7 @@ To prevent this, crouch and uncrouch before aiming.
 
 Video Tutorial Overview from Fusha: https://youtu.be/tAm527gQTdI
 
-- Basic Version: Aim at door and hold aim button, pause, hold shoot button (should have both aim and shoot held by now), rapidly tap pause and unpause. You need as tiny a gap between unpause and pause as possible, but you can take a breather between pause and unpause.
+- Basic Version: Aim at door (or any other target) and hold aim button, pause, hold shoot button (should have both aim and shoot held by now), rapidly tap pause and unpause. You need as tiny a gap between unpause and pause as possible, but you can take a breather between pause and unpause.
   - [Basic Example](https://youtu.be/voBsuKu-thI?t=136)
 - More advanced version: Shoot the first shot normally, then pause, hold shoot and aim buttons, tap pause and unpause (faster but maybe riskier).
 
