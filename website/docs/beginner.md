@@ -13,7 +13,7 @@ A: **Short(er) Answer**:
 - These 2 options both add up to about $99 USD full price as of February 2024, and they will get you all of the main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
 
 **Long Answer**:
-As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), the main two Hitman 3 / Hitman World of Assassination editions are [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) and [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
+As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), the main two Hitman 3 / WoA editions are [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) and [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
 
 - See [Hitman 3 Steam Store page](https://store.steampowered.com/app/1659040/HITMAN_3/) for any additional / future game editions
 - The only difference between the two HITMAN World of Assassination editions is that HITMAN World of Assassination Deluxe Edition also includes:
@@ -43,18 +43,25 @@ Other Pointers:
 
 ### Related: If I own Hitman 1 (2016 edition) or Hitman 2 (2018 edition), do I have to buy those levels again?
 
-A: **Short Answer**: No. Previous game ownership does not earn you any discounts, as of January 26, 2023.
+A: **Short Answer**: You will have to re-purchase the Hitman 2 Expansion Pass to access New York and Haven levels (among other things) to access them within the latest game engine (Hitman 3 / WoA).
 
 **Long Answer**:
-Although it used to be possible to obtain all Hitman 1 and 2 content inside of the Hitman 3 / Hitman WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
+Although it used to be possible to obtain all Hitman 1 and 2 content inside of the Hitman 3 / WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
 
-- Note that the standard edition "HITMAN World of Assassination" now includes everything you'd get from the previous 2 games, except the Hitman 2 Expansion Pass
+- See also: https://ioisupport.zendesk.com/hc/en-us/articles/360019016477-Access-Pass-Guide-Location-Importing
 
-### Related: What if I want to try out HITMAN (2016) or HITMAN 2 (2018) in their original game engines?
+### Related: If I own Hitman 1 (2016 edition) or Hitman 2 (2018 edition), can I transfer progress?
+
+A: You can transfer progress from the Hitman 2 (2018 edition) to the Hitman 3 / WoA game engine here: https://profile.hitman.com/
+
+- Hitman 2 and 3 (WoA) must be owned on compatible platforms for this to work, which is explained in guide below
+- The "Player Guide" linked has been taken down, but you can see the IOI's new progress carryover guide here: https://ioisupport.zendesk.com/hc/en-us/articles/360019061577-Progression-Carryover-Guide
+
+### Related: What if I want to try out Hitman (2016) or Hitman 2 (2018) in their original game engines?
 
 - A: As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), it is no longer possible to buy the original Hitman (2016) or Hitman 2 (2018) game engines / versions, at least not on mainstream storefronts. It is still possible to purchase the 2016 or 2018 edition game CD's (for console) or Steam game keys (for PC) on various retailer or key reseller sites.
 
-Although this wiki is focused on the current HITMAN 3 / World of Assasination (2021) game engine, you can find more information on speedrunning the Hitman (2016) and Hitman 2 (2018 game versions here:
+Although this wiki is focused on the current HITMAN 3 / WoA (2021) game engine, you can find more information on speedrunning the Hitman (2016) and Hitman 2 (2018 game versions here:
 
 - https://www.speedrun.com/hitman_2016/guides
 - https://www.speedrun.com/hitman_2/guides
