@@ -9,8 +9,9 @@ A: **Short(er) Answer**:
 
 - Option 1: [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
 - Option 2: [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) + [Hitman 2 Expansion Pass](https://store.steampowered.com/app/1829590/HITMAN_3_Access_Pass_HITMAN_2_Expansion/) + [Hitman 3 - 7 Deadly Sins DLC](https://store.steampowered.com/app/1829587/HITMAN_3__Seven_Deadly_Sins_Collection/)
-  - Option 2 is technically missing the Hitman 3 Deluxe Pack (not to be confused with "Hitman World of Assassination Deluxe Pack"), but that DLC does not add any unique new items so can be skipped from a speedrunning standpoint. I included Option 2 here in case you are not sure if you want to commit to buying any DLC yet
-- These 2 options both add up to about $99 USD full price as of February 2024, and they will get you all of the main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
+  - Option 2 is technically missing the Hitman 3 Deluxe Pack (not to be confused with "Hitman World of Assassination Deluxe Pack"), but that DLC does not add any unique new items so can be skipped from a speedrunning standpoint
+  - As noted below, Option 1 and 2 both are about the same price despite Option 2 missing a minor DLC, due to Option 1 having a default discount. Option 2 is a good option if you want to try out the Hitman WoA standard edition first before buying any DLC
+- These 2 options both add up to about $99 USD (with no additional discounts) as of February 2024, and they will get you all of the main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
 
 **Long Answer**:
 As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), the main two Hitman 3 / WoA editions are [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) and [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
