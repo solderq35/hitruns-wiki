@@ -3,21 +3,61 @@ title: Beginner FAQ
 description: Beginner FAQ
 ---
 
-## Q: What should I buy, what do the different editions mean?
+## Q: Which version of Hitman 3 / Hitman World of Assassination should I buy, what do the different editions mean?
 
-A: You can buy any combination of DLC you like, but to compete at the top level with other NG+ runs (more on this later), you will want to buy the Hitman 3 standard edition, and then Hitman 1 Standard Access Pass and HITMAN 2 Gold Access pass, and possibly the 7 deadly sins DLC too (the Sloth DLC for Goldbrick Proximity Mine, in particular).
+A: **Short(er) Answer**:
 
-- More info on what items are in what DLC [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637).
+- Option 1: [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
+- Option 2: [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) + [Hitman 2 Expansion Pass](https://store.steampowered.com/app/1829590/HITMAN_3_Access_Pass_HITMAN_2_Expansion/) + [Hitman 3 - 7 Deadly Sins DLC](https://store.steampowered.com/app/1829587/HITMAN_3__Seven_Deadly_Sins_Collection/)
+  - Option 2 is technically missing the Hitman 3 Deluxe Pack (not to be confused with "Hitman World of Assassination Deluxe Pack"), but that DLC does not add any unique new items so can be skipped from a speedrunning standpoint. I included Option 2 here in case you are not sure if you want to commit to buying any DLC yet
+- These 2 options both add up to about $99 USD full price as of February 2024, and they will get you all of the main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
 
-In other words: _You can skip buying the Deluxe Pack / Edition as well as the Hitman 1 GOTY Access Pass_, as the unlocks from this DLC are reskins only. Every other DLC has some unique items.
+**Long Answer**:
+As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), the main two Hitman 3 / Hitman World of Assassination editions are [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) and [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
 
-- A key item to note here is the White Ruby sniper rifle, unlocked by completing the "Faux Pas", "Entrepreneuers", or "Clichés" Arcade Elusive targets. This is identical to the Sieger 300 Ghost / Arctic, but unlike these two other rifles, the White Ruby does not require buying the HITMAN 1 GOTY DLC or Deluxe DLC.
+- See [Hitman 3 Steam Store page](https://store.steampowered.com/app/1659040/HITMAN_3/) for any additional / future game editions
+- The only difference between the two HITMAN World of Assassination editions is that HITMAN World of Assassination Deluxe Edition also includes:
+  - [Hitman 2 Expansion Pass](https://store.steampowered.com/app/1829590/HITMAN_3_Access_Pass_HITMAN_2_Expansion/)
+    - Includes "Golden Handshake (New York)" and "The Last Resort (Haven)" main campaign missions / maps. There are some very useful unique unlocks from these maps, notably the Sieker-1 emetic dart gun from Haven
+    - Also includes: "Special Assignment" missions (Silver Tongue, Bitter Pill, Illusions of Grandeur, Embrace of the Serpent), Hantu Port and Siberia sniper maps, and some additional cosmetic reskins
+  - [Hitman 3 - 7 Deadly Sins DLC](https://store.steampowered.com/app/1829587/HITMAN_3__Seven_Deadly_Sins_Collection/)
+    - Some unique (not just cosmetic reskin) items such as Goldbrick Proximity Mine, as well as some new escalation missions
+  - [Hitman 3 Deluxe Pack](https://store.steampowered.com/app/1829591/HITMAN_3__Deluxe_Pack/)
+    - Director commentary for the season 3 levels of Dubai to Romania, a digital art book, and some cosmetic reskins
+    - Not to be confused with the [HITMAN World of Assassination Deluxe Pack](https://store.steampowered.com/bundle/30335/HITMAN_World_of_Assassination_Deluxe_Pack/) (which bundles together the three DLC discussed above)
+    - If confused, just read the game edition / DLC names again very carefully and read the fine print on the game storefronts on which each DLC includes
+- Additional DLC (not necessarily exhaustive):
+  - [See Hitman 3 Steam DLC page](https://store.steampowered.com/dlc/1659040/HITMAN_3/) for any additional / future DLC
+  - [Sarajevo Six](https://store.steampowered.com/app/2475260/HITMAN_3__Sarajevo_Six_Campaign_Pack/): Bonus missions that used to be PlayStation exclusive back in 2016, but are now cross-platform as paid DLC
+  - Trinity Pack: Pre-order cosmetic reskins, that can now be obtained by anyone as paid DLC
+  - Street Art Pack: Cosmetic reskins
+  - Makeshift Pack: Cosmetic reskins
+- Example links provided here are for Steam, but the info and game edition / DLC names should be the same for other platforms and mainstream storefronts (Epic, Playstation, Xbox, etc)
+  - May also be abbreviated as `HITMAN WOA...` on some storefronts
 
-Note that if you are an owner of HITMAN (2016) or HITMAN 2 (2018) you may be eligible to redeem the Hitman 1 or 2 Access Passes. More info [here](https://oldwebsite.ioi.dk/hitman-3-pre-launch-guide/).
+Other Pointers:
 
-If you are still confused on what DLC is what, [please consult this handy spreadsheet](https://media.discordapp.net/attachments/833505136290299935/945096773251252325/unknown.png?width=809&height=586).
+- List of unlocks in the game and how to obtain them: https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637
+- **Hitman 1 DLC is generally sold at no additional cost within the Hitman WoA game engine, but the same cannot be said for Hitman 2 DLC (Expansion Pass)**
+- With that said, Hitman 2 Expansion Pass will still by far give you the best bang for your buck (2 main campaign levels + other bonus missions), then the 7 Deadly Sins for the unlocks, and then the other paid DLC is of subjective value (depending how much you value cosmetic items or arguably lackluster bonus missions)
 
-_Do not buy the "HITMAN Trilogy" nor "HITMAN Trilogy Premium Add-Ons Bundle" if you are eligible to redeem Hitman 1 and 2 Access Passes! You will waste money._
+### Related: If I own Hitman 1 (2016 edition) or Hitman 2 (2018 edition), do I have to buy those levels again?
+
+A: **Short Answer**: No. Previous game ownership does not earn you any discounts, as of January 26, 2023.
+
+**Long Answer**:
+Although it used to be possible to obtain all Hitman 1 and 2 content inside of the Hitman 3 / Hitman WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
+
+- Note that the standard edition "HITMAN World of Assassination" now includes everything you'd get from the previous 2 games, except the Hitman 2 Expansion Pass
+
+### Related: What if I want to try out HITMAN (2016) or HITMAN 2 (2018) in their original game engines?
+
+- A: As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), it is no longer possible to buy the original Hitman (2016) or Hitman 2 (2018) game engines / versions, at least not on mainstream storefronts. It is still possible to purchase the 2016 or 2018 edition game CD's (for console) or Steam game keys (for PC) on various retailer or key reseller sites.
+
+Although this wiki is focused on the current HITMAN 3 / World of Assasination (2021) game engine, you can find more information on speedrunning the Hitman (2016) and Hitman 2 (2018 game versions here:
+
+- https://www.speedrun.com/hitman_2016/guides
+- https://www.speedrun.com/hitman_2/guides
 
 ## Q: Do I need to be connected to the Internet at all times to speedrun this game?
 

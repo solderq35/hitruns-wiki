@@ -12,6 +12,7 @@ If you still can't find what you're looking for, feel free to shoot a question i
 Please consult the following tables for explosive device properties before reading further:
 
 - [Zeb's Flying Explosives Spreadsheet](https://docs.google.com/spreadsheets/d/1evp3EMDGanw17w6gxLcSg7t9hjpzb4EqC41xcWOzymc/edit#gid=0)
+
   - Legality of explosives to hold, drop, throw
   - How long for explosives to fly to destination
   - How far explosives fly
