@@ -55,6 +55,8 @@ If you are a Hitman speedrunner seeking to contribute and have some basic coding
 2. Make a Github Account if you don't already have one.
 3. [Make a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 4. Go to [Docs folder](https://github.com/solderq35/hitruns-wiki/tree/master/website/docs) (`hitruns-wiki/website/docs`) and make your edits. Edit `hitruns-wiki/website/sidebars.js` as well if you added a new guide.
+   - See "Installation" section above for how to run site locally while editing
+   - Formatting: Run `yarn prettier`
 5. [Make a Pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for your changes.
 
 If you don't have much coding knowledge but still want to contribute as a Hitman speedrunner:
