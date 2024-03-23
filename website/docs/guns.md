@@ -67,7 +67,7 @@ Note that sniper rifles do not have the white dot in the middle of screen by def
 
 The optimal snap shooting inputs are:
 
-- Aim Button (Right Mouse Button on PC) > Shoot Button (Left Mouse Button on PC) > Let go of Shoot Button > Let go of Aim Button
+- Aim Button > Shoot Button > Let go of Shoot Button > Let go of Aim Button
   - Note that you should never let go of right click before left click, that may result in delay, as shown [here](https://youtu.be/voBsuKu-thI?t=172)
   - [Snap Shooting example](https://youtu.be/XPyBK2yCC5o?t=62)
 - Note that the timings for this are different with Instinct on or off as of May 2023 update:
@@ -141,7 +141,7 @@ Video Tutorial Overview from Fusha: https://youtu.be/tAm527gQTdI
   - [Advanced example](https://youtu.be/EfANY3ROWzo?t=145)
 
 - Other Notes:
-  - To avoid stutter after performing the mudshot, let go of the directional keys or buttons (WASD on PC). Then press the unpause button or press aim button (right mouse button on PC) to unpause. After unpausing, it is safe to touch the movement keys again.
+  - To avoid stutter after performing the mudshot, let go of any movement keys or buttons. Then press the unpause button or press aim button to unpause. After unpausing, it is safe to touch the movement keys again.
   - Krugermeier and Hwk 21 Homemade may need more shots to work with this trick.
 
 ## Miscellaneous Gun Stats (from muddye)
