@@ -133,6 +133,7 @@ Since [May 2023](h3_patch_notes#may-11-2023-game-version-31501), shooting Sierra
 #### Romania
 
 - [Cover-Aim 'Fast Train' in 2:05+ by Vezlaye](https://youtu.be/RlXAD0qRb2k) (**read description**)
+  - See [cover aim boost explanation](boosting#cover-aim-boost) for boost used at 0:31
 - [Romania 2:10ish by Papier](https://youtu.be/F0mYxJ0CE2s?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD) (**Voiceover Commentary**)
 - [Romania Starting Tips by Fusha](https://www.youtube.com/watch?v=ucMrTTHLNSg)
 
