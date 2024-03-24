@@ -178,7 +178,7 @@ Short summary of pro / master differences:
 
 #### Marrakesh
 
-- [Master Marrakesh Tips by Fusha](https://media.discordapp.net/attachments/1059614210134388836/1059622392852389938/image.png?width=841&height=670)
+- [Master Marrakesh Tips by Fusha](https://i.ibb.co/KGJ4LjS/fushamarrakesh.png)
   - [Supplementary Clip to above explanation](https://clips.twitch.tv/GlutenFreeModernFiddleheadsChefFrank-RMBkEDdr6j-ak0BJ)
 
 #### Colorado

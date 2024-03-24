@@ -49,6 +49,13 @@ Coins are not unique in their ability to be placed on the ground and lure people
 - Napoleon and Lil Flashy have the next highest audio lure range, followed by Mixtape 47/ ICA audio distraction.
 - Note that Napoleon and Lil Flashy can be used for chain lures. You can drop Napoleon/ Lil Flashy a second time and the target will respond to the second distraction as soon as they are close enough. With the phones, the target will not respond to a second phone ring until done investigating the first phone ring.
 
+### Audio Lure Ranges
+
+- [Spreadsheet for audio lure ranges (items)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxYvks-qCrInUosy3aTeVA25grz8wv_EXCb9Y7sW14NAdH8eV1OSHxUxgjMN53QZlg7JGl0FsFTvny/pubhtml)
+- [Spreadsheet for audio lure ranges (NPC actions / guns)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSETDkdFvI4KywAI7fvdz9xs-sGwiH66GRFxDbfsJG3gEIHhxefIdI7O2GISn-UIUGrMxO8ERhHrpeZ/pubhtml)
+- Helpful diagram of audio lure ranges (items / bullets): ![audiolureimage](https://i.ibb.co/KjZDDXC/Hearing-Range-Graphic-With-Bullet.png)
+- _Credits for audio lure spreadsheets / graphics: [BluntsNBeatz](https://www.speedrun.com/users/BluntsNBeatz)_
+
 ### Empty Gun Lure
 
 Empty guns will still make a sound when you dry-fire them. This sound can even travel through walls.

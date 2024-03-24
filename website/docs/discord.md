@@ -17,7 +17,7 @@ These are the following Hitman speedrunning discord servers:
 
 **[Frote's Server](https://discord.com/invite/kVMBEZA)** (server ran by **[Fortheseven](https://www.speedrun.com/user/Fortheseven)** aka Frote)
 
-- Generally good Hitman knowledge, but not really focused on speedrunning main missions)
+- Generally good Hitman knowledge, but not really focused on speedrunning main missions
 
 ## Okay, But Why are There Three Discords?
 

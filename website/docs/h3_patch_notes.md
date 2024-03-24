@@ -6,7 +6,7 @@ description: List of patches relevant to Hitman 3 speedruns, archive spreadsheet
 ## No Longer Possible Runs
 
 - No Longer Possible Runs are primarily tracked on [speedrun.com](https://www.speedrun.com/hitman_3) in their own category:
-  ![Example of NLP](https://media.discordapp.net/attachments/725721210121617419/1060469822711930920/image.png)
+  ![Example of NLP](https://i.ibb.co/DQ6Yfvj/nlp.png)
 
   - Please hover your mouse over the sticky note icon by each run (as shown in screenshot above) to see more information on why a particular run is No Longer Possible.
 
@@ -69,7 +69,7 @@ Also note that this list only considers changes that **negatively** affected spe
     - [Full List of Runs Affected by Boost](https://github.com/solderq35/hitman-tech-tips/blob/main/srdc/h3_boost_patch.md) (Main Boards)
     - [Red Tie Kiwi](https://youtu.be/Ea3vtYhKWOo) (notable for being the only unlockable item listed here), [Apple](https://youtu.be/g9VWeXQGABE?t=58), Soap, Apricot, [Flower Pot](https://youtu.be/04kyQ6mahsY?t=1) still work for boosting.
     - Will return in a later patch, allegedly
-  - [Dartmoor Ledge Drop (Again)](https://media.discordapp.net/attachments/523948180287651860/1068219406842347621/image.png)
+  - [Dartmoor Ledge Drop removed second time](https://i.ibb.co/7pjjG4v/jan2023-removed-dartmoor-ledge-drop.png) (one of the versions where you take cover first)
 - Kalmer and Sieker no longer share ammo <br></br>
 
 ### May 11, 2023 (Game Version 3.150.1)
@@ -91,7 +91,7 @@ Also note that this list only considers changes that **negatively** affected spe
 ### August 17, 2023 (Game Version 3.160)
 
 - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2023/hitman-woa-august-patch-notes)
-- [Removed Dartmoor Ledge Drop (again)](https://youtu.be/ylGwSNNgp6I?t=23)
+- [Removed Dartmoor Ledge Drop third time](https://youtu.be/ylGwSNNgp6I?t=23) (removed more of the variants with taking cover first)
 - Dropping [Chloroform](https://hitman.fandom.com/wiki/Chloroform_Flask) is now illegal (both Freelancer and normal mode)
 - Alt F4 is no longer banned in Hitman Freelancer
 - Some audio distractions in and around the trophy room in Dartmoor can no longer be heard by NPC's. Examples:

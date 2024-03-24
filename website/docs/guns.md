@@ -31,7 +31,7 @@ DAK X2 Covert and ICA 19 F/A stealth are silenced handheld guns that can shoot o
 
 ## Sniper Rifles
 
-Sniper Properties Data Table from muddye: ![SniperTable](https://media.discordapp.net/attachments/1018323831468851202/1065435451713925130/image.png)
+Sniper Properties Data Table from muddye: ![SniperTable](https://i.ibb.co/Mf1q3QZ/muddyesnipertable.png)
 Sniper rifles can also shoot swinging doors open, so you may not need a lockpick or disposable scrambler if you're already bringing a sniper rifle.
 
 - [Example of shooting door open with sniper rifle](https://www.youtube.com/watch?v=yoMQOQgOWQQ&list=PLflusD4O8jzNubvmK7dMBgbZ6Vsl-qiwR&index=2)
@@ -147,7 +147,7 @@ Video Tutorial Overview from Fusha: https://youtu.be/tAm527gQTdI
 ## Miscellaneous Gun Stats (from muddye)
 
 Non Sniper Gun Stats
-![gun stats](https://media.discordapp.net/attachments/610476804448452618/868583868729524264/pistoldmg.png)
+![gun stats](https://i.ibb.co/tbk5pgz/muddyeothergunstable.png)
 
 Damage Multiplier values for each Difficulty
-![damage multiplier table](https://media.discordapp.net/attachments/845296311800561694/845841968424681472/DifficultyDMG.png)
+![damage multiplier table](https://i.ibb.co/sFVg33h/difficultydmg.png)

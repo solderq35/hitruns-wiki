@@ -55,7 +55,7 @@ If you still can't find what you're looking for, feel free to shoot a question i
 - [Chongqing Stair Boost](https://youtu.be/dh8IuU2kTho?t=33): Throw breakable brick to get onto stair railings
 - [Sgail Stair Boost](https://youtu.be/3LJ_Bffotwg?t=610): Throw muffin to get onto stair railings, use pistol aiming to move precisely after that.
 - Additional tips: Throw breakable object about as far away from the side and the width of 47's feet and on the 1st step. If you throw the breakable object on the corner of the step or the edge of the step it may not break. Try to make sure that you get a circle emanating from where the muffin throw reticle is, for most consistency.
-  - [Example](https://media.discordapp.net/attachments/802883289240043571/818312945205248030/unknown.png?width=1043&height=586)
+  - [Example](https://i.ibb.co/vPgJqC2/throwexample.png)
 - Checking for circle when throwing breakable object
   - [Example](https://youtu.be/1JA3QvBl9b8?t=1)
 
