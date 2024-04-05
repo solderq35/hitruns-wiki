@@ -45,7 +45,7 @@ How to change Node version:
 - `yarn install` to install required node modules.
 - `yarn start` to open the dev environment to preview the website.
 - `yarn build` to build the website locally (needed if you want to test the search function before deployment).
-- For Vercel Deployment: Go to `https://vercel.com/VERCEL_USERNAME/PROJECT_NAME/settings` and use [these settings](https://media.discordapp.net/attachments/1018323831468851202/1042614310515515442/image.png?width=1128&height=670) in "Build and Development" section of Vercel settings.
+- For Vercel Deployment: Go to `https://vercel.com/VERCEL_USERNAME/PROJECT_NAME/settings` and use [these settings](https://i.ibb.co/711Y9bS/vercel-build-settings.png) in "Build and Development" section of Vercel settings.
 
 ## Contribution Guidelines
 
