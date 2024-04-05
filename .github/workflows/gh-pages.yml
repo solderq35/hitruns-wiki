@@ -15,9 +15,9 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18
-      - name: yarn install
+      - name: yarn add @easyops-cn/docusaurus-search-local
         run: |
-          yarn install
+          yarn install (custom)
       - name: yarn build
         run: |
           yarn build
