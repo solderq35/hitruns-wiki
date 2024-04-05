@@ -1,4 +1,5 @@
-name: gh pages
+name: gh pages, react client-side routing
+
 on:
   push:
     branches:
@@ -14,17 +15,15 @@ jobs:
       - name: Set-up Node
         uses: actions/setup-node@v1
         with:
-          node-version: 18
-      - name: yarn add @easyops-cn/docusaurus-search-local
+          node-version: '18'
+      - name: Install dependencies (custom)
         run: |
-          yarn install (custom)
-      - name: yarn build
+          yarn add @easyops-cn/docusaurus-search-local
+      - name: Build
         run: |
           yarn build
-      - name: deploy frontend to gh pages
-        uses: crazy-max/ghaction-github-pages@v3     # https://github.com/crazy-max/ghaction-github-pages
+      - name: Deploy Frontend to gh pages
+        uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
-          target_branch: gh-pages
-          build_dir: website/build
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: website/build
