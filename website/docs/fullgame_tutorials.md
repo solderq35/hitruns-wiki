@@ -24,7 +24,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 ### Meta Strategies Overview
 
 - [Vezlaye's 17:29 (Good Overview of Current Strats)](https://youtu.be/96mJAn2Ab0Y)
-- [Vezlaye's Playlist of SA/SO Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
+- [Vezlaye's Playlist of SA/SO Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
   - Optimal execution for consistent full game strats
 
 ### Additional Fullgame Resources Listed by Map
