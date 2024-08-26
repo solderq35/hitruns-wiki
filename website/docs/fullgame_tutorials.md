@@ -9,7 +9,7 @@ Disclaimer: Not all maps have a tutorial listed here. That may be because we hav
 
 ## General Tips
 
-- [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/watch?v=-iaWEkmj9ko&list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
+- [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/playlist?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
 - [GenP's Tutorial of General Hitman Speedrun Tricks](https://www.youtube.com/watch?v=z71oLdcsipE)
 
   - Good Overview of Hitman Speedrun Techniques
