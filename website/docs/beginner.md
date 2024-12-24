@@ -77,7 +77,7 @@ Playing offline and without Peacock is allowed for any%, provided you have the i
 
 A: The main leaderboards are NG+ by default. There isn't a _true_ New Game speedrun category due to 2 main factors. Firstly, all progress is stored online, and you can only wipe an account's progress every 6 months through IO's website. Secondly, some platforms like Epic Games do not have family sharing built in, meaning it would cost a lot of money to buy the game multiple times for multiple accounts.
 
-There are some categories in Category Extensions that comes close to simulating a New Game experience, you can check the leaderboards [here](https://www.speedrun.com/hitman_3_extensions/full_game). Click on "Default Loadout/Start (NG)" or "Default Loadout/Start (NG+)" and then click "View Rules" if confused about the rules.
+There are some categories in Category Extensions that comes close to simulating a New Game experience, you can check the leaderboards [here](https://www.speedrun.com/hitman_woa_extensions/leaderboards). Click on "Default Loadout/Start (NG)" or "Default Loadout/Start (NG+)" and then click "View Rules" if confused about the rules.
 
 - "Default Loadout/Start (NG)" is a category for playing the game like you would on the first playthrough, but with zero unlocking of items/ features allowed.
 - "Default Loadout/Start (NG+)" is a category that allows for some minimal NG+ features.
@@ -116,7 +116,7 @@ A: You can use one of the following livesplit methods
 
 ## Q: I'm new, what categories are there?
 
-A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_3), [Category Extensions Leaderboard](https://www.speedrun.com/hitman_3_extensions), [Escalations Leaderboard](https://www.speedrun.com/hitman_3_escalations), [Elusive Target Leaderboard](https://www.speedrun.com/hitman_3_et).
+A: There is the [Main Leaderboard](https://www.speedrun.com/hitman_woa), [Category Extensions Leaderboard](https://www.speedrun.com/hitman_woa_extensions), [Escalations Leaderboard](https://www.speedrun.com/hitman_woa_escalations), [Elusive Target Leaderboard](https://www.speedrun.com/hitman_woa_ets).
 
 - For new players, SA/SO on the Main Leaderboard is suggested. Start with a level you like playing casually.
 
