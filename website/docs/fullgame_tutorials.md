@@ -113,7 +113,7 @@ Since [May 2023](h3_patch_notes#may-11-2023-game-version-31501), shooting Sierra
 - [Dubai 17s Tutorial by Moo](https://www.youtube.com/watch?v=7cmZn47I7sY)
   - Probably not consistent enough for trilogy, just good for Season 3 runs
   - See also: [Dubai 16s](https://youtu.be/MB029LdQci8?t=7) (mostly the same but shoot Marcus slightly sooner)
-- See the other seasonal (Season 1 / 2 / 3) SASO Pro records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+- See the other seasonal (Season 1 / 2 / 3) SASO Pro records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
 
 #### Dartmoor
 
@@ -170,7 +170,7 @@ Short summary of pro / master differences:
   - Commentary is somewhat surface level, refer to Pro SASO tutorials above for more insight.
 - [Segmented "Ideal" Strats by Moodehh (20:45)](https://www.youtube.com/watch?v=naftsNAnoxw)
   - No commentary. Difficult strats executed to a high level but it shows what is possible on Master SASO full game.
-- See the other seasonal (Season 1 / 2 / 3) SASO Master records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+- See the other seasonal (Season 1 / 2 / 3) SASO Master records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
 
 ### Additional Fullgame Resources Listed by Map
 
@@ -210,11 +210,11 @@ List of maps that can benefit from a disguise for speed and consistency on SA ca
   - Some strategies outdated, compare with [SASO Pro section above](fullgame_tutorials#saso-pro)
 - [Vezlaye's Season 1 SA 3:17 run](https://www.youtube.com/watch?v=W6J6bYEJl8s)
 - [Vezlaye's Season 3 SA 5:15 run](https://www.youtube.com/watch?v=6ljaNE4axyk)
-- See the other seasonal (Season 1 / 2 / 3) SA Pro records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+- See the other seasonal (Season 1 / 2 / 3) SA Pro records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
 - [Vezlaye's Playlist of SA Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz0hA-mg6Uom0cLVwCzFclcN)
   - Optimal execution for consistent full game strats
 
 ## Any%
 
 - For Any% Trilogy, is recommended to compare and contrast the [first](https://www.youtube.com/watch?v=SFkbE0_fr3c) and [second](https://www.youtube.com/watch?v=vsUziP-UqMc) place runs, and use the fastest strategies from either.
-- See the other seasonal (Season 1 / 2 / 3) Any% records [here](https://www.speedrun.com/hitman_3/full_game) for other faster but riskier strategies.
+- See the other seasonal (Season 1 / 2 / 3) Any% records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.

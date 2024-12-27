@@ -11,7 +11,7 @@ description: Autosplitter (Official Servers Only). Beware of inaccuracies.
 
 ## Specifications:
 
-**For a number of reasons explained below, please install the [Peacock Autosplitter](https://www.speedrun.com/hitman_3/guide/vamms) if you have the option to do so. It is more accurate, although it does require installing [Peacock](https://thepeacockproject.org/wiki/intel/) as well.**
+**For a number of reasons explained below, please install the [Peacock Autosplitter](https://thepeacockproject.org/wiki/intel/autosplitter-setup/) if you have the option to do so. It is more accurate, although it does require installing [Peacock](https://thepeacockproject.org/wiki/intel/) as well.**
 
 - Does not split between levels automatically although a running total of the in game time is maintained. The use of the term "autosplitter" below is just due to convenience.
 

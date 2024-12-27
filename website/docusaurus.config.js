@@ -39,7 +39,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://www.speedrun.com/hitman_3/',
+          href: 'https://www.speedrun.com/hitman_woa/',
           label: 'Leaderboards',
           position: 'left',
         },
@@ -97,7 +97,7 @@ module.exports = {
             },
             {
               label: 'Leaderboards',
-              href: 'https://www.speedrun.com/hitman_3/',
+              href: 'https://www.speedrun.com/hitman_woa/',
             },
             {
               label: 'Hitman 3 Patch Notes',

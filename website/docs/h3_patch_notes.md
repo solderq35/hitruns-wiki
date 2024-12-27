@@ -5,7 +5,7 @@ description: List of patches relevant to Hitman 3 speedruns, archive spreadsheet
 
 ## No Longer Possible Runs
 
-- No Longer Possible Runs are primarily tracked on [speedrun.com](https://www.speedrun.com/hitman_3) in their own category:
+- No Longer Possible Runs are primarily tracked on [speedrun.com](https://www.speedrun.com/hitman_woa) in their own category:
   ![Example of NLP](https://i.ibb.co/DQ6Yfvj/nlp.png)
 
   - Please hover your mouse over the sticky note icon by each run (as shown in screenshot above) to see more information on why a particular run is No Longer Possible.
