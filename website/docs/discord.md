@@ -7,7 +7,7 @@ description: Hitman Speedrun Discords
 
 These are the following Hitman speedrunning discord servers:
 
-**[Hitman Runs Server](https://discord.gg/TKH8yGkDns)** (the "official" Hitman speedrun.com server)
+**[Hitman Runs Server](https://discord.gg/E45wUBnxBT)** (the "official" Hitman speedrun.com server)
 
 - Best place to ask a general question regarding speedrun strats or run rules, and get information about announcements and polls for Hitman 3 speedrun.com leaderboards
 
