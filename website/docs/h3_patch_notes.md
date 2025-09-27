@@ -103,4 +103,4 @@ Also note that this list only considers changes that **negatively** affected spe
 
 - [Official IOI Patch Notes](https://ioi.dk/hitman/patch-notes/2025/season-of-the-dragon-3-240-0-2025-september-25-hitman-woa)
 - [Removed Subdue Boosts](https://www.youtube.com/watch?v=01U_iwUyLRw&t=15s)
-- 
+-
