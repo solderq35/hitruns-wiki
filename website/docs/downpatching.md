@@ -138,6 +138,7 @@ description: Information on downpatching Hitman 3
   - In general, you can unlock items on an older patch. As long as the mission / item involved are playable (following guidelines above), it should work. Even if the item has messed up name and the challenge name UI is also messed up, it will unlock. When you return to current patch, you will retain that unlock you completed on old patch.
   - You will not lose progress, mastery, or challenge completion by downpatching, in general.
     - Exception: Some items / missions will unplayable, or simply not there on older patches. In this case, your new patch unlocks won't carry over. See guidelines above.
+  - As of version 3.230.1, the entitlements were updated. Meaning that older versions than that will require a compatible version of peacock for that game update, as the locations will remain locked, due to entitlement mismatch not unlocking the locations.
 
 ## Manifest Download Table / Specific Patch Findings
 
