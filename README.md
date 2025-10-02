@@ -27,7 +27,7 @@ HitRuns Wiki has several advantages over the build-in guides on speedrun.com, in
 
 ### Dependencies
 
-You will need either node version `16.15.1` or older, OR yarn version of `3.2.2` or newer. I recommend updating yarn so you can use newer node versions.
+Currently using Node v22.20.0 for Vercel deployment.
 
 How to update yarn:
 
@@ -37,8 +37,6 @@ How to update yarn:
 How to change Node version:
 
 - See https://github.com/coreybutler/nvm-windows or https://github.com/nvm-sh/nvm
-- `nvm install 16.15.1` (or whichever version you want)
-- `nvm use 16.15.1`
 
 ### Installation
 
