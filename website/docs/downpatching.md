@@ -9,13 +9,11 @@ description: Information on downpatching Hitman 3
 
 - The purpose of this is to explain how to downpatch Hitman 3 on Steam / Epic
 - Downpatching can allow you to experience unique patched game mechanics otherwise no longer available, as detailed in the [table below](#manifest-download-table--specific-patch-findings)
-- **This downpatching guide is not an endorsement of a downpatched category on speedrun.com for Hitman 3**.
-  - Whether downpatching _should_ be used for Hitman 3 speedruns is a complex topic, and we will avoid making any hasty decisions here.
-    - For instance, downpatching could split the Hitman 3 speedrun playerbase even further (we arguably already have too many categories), it will lock out console players, etc.
-  - For the time being, this document exists purely for spreading awareness on how to downpatch, and to promote preservation of older game versions.
+- Downpatching is allowed for patches beginning at the start of year 2 (Steam release) as of August 30th 2026. More info on this can be found in [This newspost](https://www.speedrun.com/hitman_woa/news/8xwqodxv).
 - The manifest files listed below will require you to legally own the game in some capacity (more on this [here](#game-ownership--dlcs)). Piracy is not condoned.
 - There's no way IOI can ban you for downpatching, considering they don't ban actual cheaters on the in-game leaderboards
 - There does not seem to be any long-term consequence of downpatching, but there's a lot about this topic not yet understood; proceed at your own risk and consider backing up important game files or mods (mods in your install folder may be wiped after a downpatch)
+- This wiki will be updated when downpatching is explored more.
 
 ## Video Walkthrough (Epic)
 
@@ -51,7 +49,7 @@ description: Information on downpatching Hitman 3
 - Legendary is essentially a modded game launcher for Epic that will allow you to downpatch
 - Install Legendary from here: https://github.com/derrod/legendary/releases/latest (just download `legendary.exe` if on Windows)
 - See this document on more information on how to install Hitman 3 with Legendary specifically: https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3legendary.md
-- General Legendary documentation: https://github.com/derrod/legendary/blob/master/README.md
+- General Legendary documentation: https://github.com/legendary-gl/legendary/blob/master/README.md
 - Before proceeding further, open the official Epic Games Launcher, click profile picture in upper right, then go to Settings > Manage Games > Uncheck "Allow Auto Updates". Otherwise, the game will update itself to the latest version automatically again if you ever open the Epic Games launcher later for any reason.
   - [Screenshot for Reference](https://i.ibb.co/gSBsmD9/epicautoupdates.png)
 
