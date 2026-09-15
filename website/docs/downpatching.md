@@ -28,7 +28,7 @@ description: Information on downpatching Hitman 3
 | [RFID Exit](https://youtu.be/fyPVfSPQSb4?t=96)     | Pre 3.130 | Used in multiple levels with walk-into exits.
 | Molotov Accident Kill     | 3.100 to 3.120  | Officially introduced in 3.120, available in 3.100 to 3.120
 | Mumbai Chawls Cutscene Bug     | 3.240.1 to 3.250  | Chawls level starting cutscene is multiple seconds shorter on these builds.
-| Master had less cameras     | Pre 3.110 | Chawls level starting cutscene is multiple seconds shorter on these builds
+| Master had less cameras     | Pre 3.110 | Mostly effected Dubai elevator exit, but were added across season 3.
 | Dartmoor ledge drops     | Pre 3.130 | Multiple iterations of these ledge drops exist, began to get patched out eventually starting at 3.130.
 | Particle boost nerf     | 3.140 | This singular patch only. Majorly nerfed Violin, Muffin, and other boosts.
 
