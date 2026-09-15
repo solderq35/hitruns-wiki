@@ -33,21 +33,21 @@ As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-worl
   - Trinity Pack: Pre-order cosmetic reskins, that can now be obtained by anyone as paid DLC
   - Street Art Pack: Cosmetic reskins
   - Makeshift Pack: Cosmetic reskins
-- Example links provided here are for Steam, but the info and game edition / DLC names should be the same for other platforms and mainstream storefronts (Epic, Playstation, Xbox, etc)
+- Example links provided here are for Steam, but the info and game edition / DLC names should be the same for other platforms and mainstream storefronts (Epic, PlayStation, Xbox, etc.)
   - May also be abbreviated as `HITMAN WOA...` on some storefronts
 
 Other Pointers:
 
 - List of unlocks in the game and how to obtain them: https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637
 - **Hitman 1 DLC is generally sold at no additional cost within the Hitman WoA game engine, but the same cannot be said for Hitman 2 DLC (Expansion Pass)**
-- With that said, Hitman 2 Expansion Pass will still by far give you the best bang for your buck (2 main campaign levels + other bonus missions), then the 7 Deadly Sins for the unlocks, and then the other paid DLC is of subjective value (depending how much you value cosmetic items or arguably lackluster bonus missions)
+- With that said, Hitman 2 Expansion Pass will still by far give you the best bang for your buck (2 main campaign levels + other bonus missions), then the 7 Deadly Sins for the unlocks, and then the other paid DLC is of subjective value (depending on how much you value cosmetic items or arguably lackluster bonus missions)
 
 ### Related: If I own Hitman 1 (2016 edition) or Hitman 2 (2018 edition), do I have to buy those levels again?
 
 A: **Short Answer**: You will have to re-purchase the Hitman 2 Expansion Pass to access New York and Haven levels (among other things) to access them within the latest game engine (Hitman 3 / WoA).
 
 **Long Answer**:
-Although it used to be possible to obtain all Hitman 1 and 2 content inside of the Hitman 3 / WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
+Although it used to be possible to obtain all Hitman 1 and 2 content inside the Hitman 3 / WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
 
 - See also: https://ioisupport.zendesk.com/hc/en-us/articles/360019016477-Access-Pass-Guide-Location-Importing
 
@@ -90,7 +90,7 @@ If you are on console or do not wish to use Peacock, take a look at [this list o
 
 In general, to level up mastery you should first get The Classics challenges (SASO, Sniper Assassin) done first, as you can get many challenges done in one run. Note that for the most part, **any other challenge besides The Classics do not require you to finish the level to get XP**.
 
-Thus, for other challenges, the most efficient way to get XP is to make a save right before critical points in a run, such as after you have a target isolated. Then you can load the save multiple times to complete multiple challenges. Note that the mastery level can take a while to update if you don't finish the mission, go to Career->Mastery from main menu to get a more accurate look at your current mastery level. Note that if you dislike the in game challenges, you technically can get XP just by playing the game normally, it will just take way longer to level up.
+Thus, for other challenges, the most efficient way to get XP is to make a save right before critical points in a run, such as after you have a target isolated. Then you can load the save multiple times to complete multiple challenges. Note that the mastery level can take a while to update if you don't finish the mission, go to Career → Mastery from main menu to get a more accurate look at your current mastery level. Note that if you dislike the in game challenges, you technically can get XP just by playing the game normally, it will just take way longer to level up.
 
 ## Q: What are the optimal in-game settings to run the game?
 
@@ -102,8 +102,8 @@ A: Keybinds are mostly just personal preference, but here are some things to con
 
 - Remember you can have secondary keybinds for most actions in the game. You can for instance have inventory bound to both a mouse button and a key on your keyboard.
 - It is highly recommended to rebind Inventory to a mouse button, or at least a key more easily accessible to the left hand on the keyboard than the "I" key. You need to be able to interact with Inventory at a moment's notice for [fast interact](fast_anim#fast-interact).
-- It is highly recommended to rebind the drop/crouch/unpack buttons (perhaps as secondary keybinds), to facillitate [fast unpack](guns#fast-sniper-briefcase-unpack). Suggestions: have these three actions bound to 1/2/3 or Z/X/C so that all three buttons are right next to each other.
-- If you do so prefer, there is a [Hitman Keybinds spreadsheet](https://docs.google.com/spreadsheets/d/1EAWNP6Kuo-cAY_Y0agxNapX0T8mSqwR-VVHdQG0L0GM/edit?gid=1847360943#gid=1847360943) with some of the keybinds that some people use.
+- It is highly recommended to rebind the drop/crouch/unpack buttons (perhaps as secondary keybinds), to facilitate [fast unpack](guns#fast-sniper-briefcase-unpack). Suggestions: have these three actions bound to 1/2/3 or Z/X/C so that all three buttons are right next to each other.
+- If you prefer, there is a [Hitman Keybinds spreadsheet](https://docs.google.com/spreadsheets/d/1EAWNP6Kuo-cAY_Y0agxNapX0T8mSqwR-VVHdQG0L0GM/edit?gid=1847360943#gid=1847360943) with some of the keybinds that some people use.
 
 ## Q: How do I set up Livesplit for full game runs?
 
@@ -113,7 +113,7 @@ A: You can use one of the following livesplit methods
 
 - [Official Servers Autosplitter](https://hitruns-wiki.vercel.app/docs/livesplit_auto_official) - As the name implies, this works on official servers (Epic Only). **May be out of date / no longer working**. It is generally less accurate than the Peacock Autosplitter.
 
-- [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However it is a bit cumbersome to use.
+- [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However, it is a bit cumbersome to use.
 
 ## Q: I'm new, what categories are there?
 
@@ -132,7 +132,7 @@ A: It really depends on the map and category you are running. On many maps and c
   - This also makes [NPC panics](guns#triple-shot-panic) spread more quickly, which can sometimes be a good thing depending on the context
 - NPC's will hear footsteps if you run, which includes crouch running
   - Note: NPC hearing range for footsteps is **random**, and using footstep sounds to intentionally distract an NPC as a stealth tactic is not reliable at all
-  - It is quite disappointing how one of the only unique gameplay changes from Master is randomized and difficult to use to the player's advantage
+  - It is quite disappointing how one of the few unique gameplay changes from Master is randomized and difficult to use to the player's advantage
 - NPC's will take less damage from bullets, as [shown here](guns#miscellaneous-gun-stats-from-muddye)
 
 ### Map-Specific Changes

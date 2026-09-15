@@ -112,7 +112,7 @@ description: Information on downpatching Hitman 3
 - After DepotDownloader finishes downloading HITMAN 3, you're free to either add it to steam, or overwrite your main game install's files.
   - If you want to keep both the current game install and the downpatched versions, you can simply add the game to steam as a non-steam game by clicking **ADD A GAME** on the bottom left of your steam client, clicking **Browse** on the window that pops up, and locating the downpatched game directory, selecting Launcher.exe, and adding the game to steam.
   - ![image](steam%20screenshot.png)
-  - If you want to replace your current install game files with the downpatched version to save file space on your system, simply drag and drop the files over your original install. If you need help finding the game install directory, you can right click the game on steam -> hover over Manage -> then select Browse Local Files.
+  - If you want to replace your current install game files with the downpatched version to save file space on your system, simply drag and drop the files over your original install. If you need help finding the game install directory, you can right click the game on steam → hover over Manage → then select Browse Local Files.
   - ![image](steam%20screenshot%202.png)
 - Unlike with Epic, you can launch the downpatched game as normal through the official Steam client as you normally would.
 
@@ -144,7 +144,7 @@ description: Information on downpatching Hitman 3
 - Some items or missions from later patches are available on earlier patches. Here are some general guidelines regarding compatibility (non-exhaustive list, do not take as universal truths)
   - A suit / item with messed up name but with a thumbnail (insert screenshot later) will work if equipped.
     - In general, a missing thumbnail indicates that an item is unusable on that patch. If you equip it, it will not show up in inventory after you are loaded in (for item), or you will not be wearing it (for suit).
-  - A mission (main mission, contract, escalation, etc) will work even if the thumbnail is gone and name is messed up.
+  - A mission (main mission, contract, escalation, etc.) will work even if the thumbnail is gone and name is messed up.
     - However, a mission that says "Get Access" will not work
   - In general, some items are internally introduced to the game's servers before they officially become available in a patch. In a downpatched game state, you can access some items earlier than you should be able to (with fully working thumbnails and normal item name).
     - For instance, Molotov can be accessed in the downpatch state as far back as January 2022 (with non-glitched UI / thumbnail), although it was only introduced to the game officially in July 2022.

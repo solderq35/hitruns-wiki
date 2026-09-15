@@ -11,7 +11,7 @@ These are the following Hitman speedrunning discord servers:
 
 - This is the landing pad for all Hitman speedrunning and the best place to ask general questions, rules questions, and to keep up-to-date with announcements/polls regarding the speedrun.com leaderboards.
 
-**[The Official HITMAN DIscord Server (ran by IO Interactive)](https://discord.gg/hitman)**
+**[The Official HITMAN Discord Server (ran by IO Interactive)](https://discord.gg/hitman)**
 
 - This is the best place to keep up with new content and game updates.
 

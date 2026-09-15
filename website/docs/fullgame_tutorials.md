@@ -31,11 +31,11 @@ Differences between Master and Professional difficulties:
 ## SASO Pro
 
 - [Vezlaye's Fullgame Strats Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEpVIFxl_lAouywhBwJjJ6XfBFALDjlKk45pEMinganU649SaiV8oaR8a34h7wsL6s3msVeGA-vpmh/pubhtml)
-  - Contains example runs of multiple diffrent strategies for each level of the trilogy based on difficulty and RNG.
+  - Contains example runs of multiple different strategies for each level of the trilogy based on difficulty and RNG.
 
 ### Additional notes for SASO Pro, listed in map order
 
-- Not all maps have additional notes needed. This is only for the maps, where there could be significant diffrences.
+- Not all maps have additional notes needed. This is only for the maps, where there could be significant differences.
 
 #### Miami
 
