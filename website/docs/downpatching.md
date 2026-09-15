@@ -15,6 +15,24 @@ description: Information on downpatching Hitman 3
 - There does not seem to be any long-term consequence of downpatching, but there's a lot about this topic not yet understood; proceed at your own risk and consider backing up important game files or mods (mods in your install folder may be wiped after a downpatch)
 - This wiki will be updated when downpatching is explored more.
 
+## Notable Patches
+
+
+| Tech     | Versions relevant | Notes
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------
+| Strafing     | Pre 3.240 | Strafing was nerfed on 3.240 onwards.
+| Subdue Boosts     | Pre 3.240 |  Subdue Boosts dont work 3.240 onwards.
+| Miami Wall FPS Dependancy     | Pre 3.150.1 | Still works somewhat, just needs higher fps.
+| Instinct Shooting Delay     | Pre 3.150.1 | Input delay added for shooting while in Instinct mode.
+| Vanya Wallbang    | Pre 3.150.1? | 
+| [RFID Exit](https://youtu.be/fyPVfSPQSb4?t=96)     | Pre 3.130 | Used in multiple levels with walk-into exits.
+| Molotov Accident Kill     | 3.100 to 3.120  | Officially introduced in 3.120, available in 3.100 to 3.120
+| Mumbai Chawls Cutscene Bug     | 3.240.1 to 3.250  | Chawls level starting cutscene is multiple seconds shorter on these builds.
+| Master had less cameras     | Pre 3.110 | Chawls level starting cutscene is multiple seconds shorter on these builds
+| Dartmoor ledge drops     | Pre 3.130 | Multiple iterations of these ledge drops exist, began to get patched out eventually starting at 3.130.
+| Particle boost nerf     | 3.140 | This singular patch only. Majorly nerfed Violin, Muffin, and other boosts.
+
+
 ## Video Walkthrough (Epic)
 
 - https://www.youtube.com/watch?v=4Uzx9CJf-uk
@@ -204,6 +222,26 @@ description: Information on downpatching Hitman 3
 | [Eider 10212273](https://github.com/Rekt05/hitman-downpatching/blob/main/manifests/Eider_Windows_10212273.manifest?raw=true) (Epic) <br /><br />5604189710016205281 (Steam) | 06-Jun-2026          | 3.270.0                                    | [https://ioi.dk/hitman/patch-notes/2025/game-update-3-270](https://ioi.dk/hitman/patch-notes/2025/game-update-3-270) |   <br /> - Added The Wizard ET                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [Eider 10212273](https://github.com/Rekt05/hitman-downpatching/blob/main/manifests/Eider_Windows_10269511.manifest?raw=true) (Epic) <br /><br />8577875111335820028 (Steam) | 12-Jun-2026          | 3.270.1                                    | [https://ioi.dk/hitman/patch-notes/2025/game-update-3-270-1](https://ioi.dk/hitman/patch-notes/2025/game-update-3-270-1) |
 | [Eider 10546568](https://github.com/Rekt05/hitman-downpatching/blob/main/manifests/Eider_Windows_10546568.manifest?raw=true) (Epic) <br /><br />5408453574472182733 (Steam) | 27-Aug-2026          | 3.280                                    | [https://ioi.dk/hitman/patch-notes/2025/game-update-3-280](https://ioi.dk/hitman/patch-notes/2025/game-update-3-280) | - Added The Herbalist ET <br />  - VIP Guard behaviour altered in major ways.
+
+## ZHM SDK Compatibility table
+
+- SDK is not known to be backwards compatible between versions
+- For instructions on installing the sdk, refer to the [Official Documentation](https://github.com/OrfeasZ/ZHMModSDK/blob/master/README.md)
+- Even with the correct version of the SDK, the included mods could still prevent the game from booting, if you encounter this, look at the ZHMModLoader.log to see which mods are causing the crash, and then remove them from the mods folder.
+- The patch ranges below were inferred from the ZHM release notes so they could be wrong please do inform a hitman moderator if you find any issues here.
+
+
+| Patch Range     | SDK Version  
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------
+| 3.100 - 3.120     | v1.5.0
+| 3.130     | v1.6.0
+| 3.140-3.200     | v2.0.0
+| 3.210.1-3.230.1     | v3.1.1
+| 3.240.1-3.270     | v4.0.2
+| 3.280 onwards as of now     | v4.1.0
+
+
+
 
 ## Acknowledgements
 
