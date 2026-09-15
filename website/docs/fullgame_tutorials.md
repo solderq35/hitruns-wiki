@@ -37,7 +37,6 @@ Differences between Master and Professional difficulties:
 
 - Not all maps have additional notes needed. This is only for the maps, where there could be significant diffrences.
 
-
 #### Miami
 
 **FPS dependancy for Sierra kill**
