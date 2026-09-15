@@ -3,218 +3,58 @@ title: Fullgame Tutorials
 description: Specific Strategy Tutorials for fullgame speedrun tutorials
 ---
 
-Specific Strategy Tutorials for fullgame speedrun tutorials
+Covers a growing number of individual level and fullgame speedrun strategies.
 
-Disclaimer: Not all maps have a tutorial listed here. That may be because we have a shortage of well commentated and knowledgable tutorials for that map, or that said map is not considered particularly difficult.
-
-## General Tips
-
-- [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/playlist?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
-- [GenP's Tutorial of General Hitman Speedrun Tricks](https://www.youtube.com/watch?v=z71oLdcsipE)
-
-  - Good Overview of Hitman Speedrun Techniques
-
-- New York Frisk Skip Options (needed after [October 6, 2022 Patch](h3_patch_notes#list-of-patches)):
-  - [Fast Frisk Skip](https://www.youtube.com/watch?v=AtxksTzYzPQ)
-  - [Slower Frisk Skip](https://youtu.be/VNvP75Upe8A)
-  - [Slower Frisk Skip via bullet distractions (for Default Loadout)](https://youtu.be/A5TPuBZCLAE)
-
-## SASO Pro
-
-### Meta Strategies Overview
-
-- [Vezlaye's 17:29 (Good Overview of Current Strats)](https://youtu.be/96mJAn2Ab0Y)
-- [Vezlaye's Playlist of SA/SO Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD)
-  - Optimal execution for consistent full game strats
-
-### Additional Fullgame Resources Listed by Map
-
-- Not all maps have additional resources or tutorials (yet). If none are listed for a particular map, just watch the fullgame run listed [above](#meta-strategies-overview) for a starting point. Also note that some strats listed below may be too risky for a trilogy run and may be better suited for a seasonal run.
-
-#### Paris
-
-- [Paris Bomb Launch 29-31s by Zebulaus](https://youtu.be/8k-WKp0SyC8) (**Voiceover Commentary**)
-
-#### Sapienza
-
-- [Sapienza 1:2X (Including Cliff Boost) by Moo](https://youtu.be/BqgSfJlBoGU) (**Voiceover Commentary**)
-
-#### Marrakesh
-
-- [Marrakesh 0:3X by Moo](https://youtu.be/wqpDMdvhoAU) (**Voiceover Commentary**)
-- [Marrakesh 0:26 to 0:29 by Moo](https://youtu.be/WaI7Qn8TfpA) (**Voiceover Commentary**)
-
-#### Bangkok
-
-- [Bangkok 0:2X by Moo](https://youtu.be/DfEQBmea1_0) (**Voiceover Commentary**)
-- [Volvomodus Bangok 0:2X by Volvomodus](https://youtu.be/8TMs3n1IvrY) (**Voiceover Commentary**)
-
-#### Colorado
-
-- [Colorado 0:52 by Volvomodus](https://www.youtube.com/watch?v=KvagMHu-6LM) (**Voiceover Commentary**)
-- [Colorado 0:52 to 0:55 by Vezlaye](https://www.youtube.com/watch?v=WJO6FGiz6yY) (**Subtitled**)
-- [Colorado 1:03 by Fusha](https://youtu.be/LO2VuOVlNQY) (**Voiceover Commentary**)
-
-#### Hokkaido
-
-- [Hokkaido 0:30 SASO Bomb Launch by Zebulaus](https://youtu.be/yb4uS1CNAms) (**Voiceover Commentary**)
-- [Hokkaido Bomb Launch Tutorial 2 by Zebulaus](https://youtu.be/yb4uS1CNAms)
-
-#### Hawke's Bay
-
-#### Miami
-
-**FPS independent strats for new patch**
-
-Since [May 2023](h3_patch_notes#may-11-2023-game-version-31501), shooting Sierra through the wall has been inconsistent on lower FPS. See below for some strategies that avoid shooting the wall and thus are not affected by FPS / hardware.
-
-- [17-18s Strat by Vezlaye](https://youtu.be/PhATE3OXTX0)
-- [~26s Strat by Vezlaye](https://www.youtube.com/watch?v=NQKcNcEFPX0&t=0s)
-- [Backup Strat (~35s) by GenP](https://youtu.be/ZWvJEn1k0j4)
-  - This Sierra kill happens at 32s, so it can be used as a backup if you mess up the 11s Sierra kill timing
-
-**Old Miami Tutorials Below (still relevant but see above if you have FPS issues)**
-
-- [Volvomodus 15s Miami](https://youtu.be/V25jpM09n8M) (**Voiceover Commentary**)
-- [Papier's Miami Video + Text Commentary](https://www.youtube.com/watch?v=rWAce1vnXzg)
-
-  - You can skip cutscene as soon as the light of Sierra's car go on
-    then you walk towards the right corner of the gate (shoot a sieker dart onto the journalist cause she can spot you killing Robert) and shoot through the garage wall when Sierra drives past. You wanna shoot slightly before sierra is in your scope cause she's moving quick. The fake NPC's outside the gate are RNG so ideally you'd have nobody in your way but sometimes you have to adapt where you shoot depending on these NPC's.
-    In case you miss sierra you get a second chance once she's around the corner.
-
-  - For Robert I walk to the corner of the blue sign on the ground and aim towards him. You see a black window to his right which is what you want to shoot. You wanna be on the 2nd scope lvl (so 1 more than nothing) and once you see Robert being outside the black part of your sniper scope, you can shoot the wiindow twice.
-    Then walk forward along the sign until you see the window next to robert which you wanna shoot after he's walked past. Shoot the bottom right of the window.
-    Then you walk further right until you see the gap in the window (you can also step back a bit) and shoot Robert as soon as his head appears.
-
-- [Fusha's Album of Visual Lineups for Miami](https://imgur.com/a/BP4ko2E)
-  - [Backup Google Drive Link](https://drive.google.com/drive/folders/1KI7oylXtBMdRG0kRzRIi02-p-MjQ98CD?usp=sharing)
-- [Miami 15s by Scruffy](https://youtu.be/C0hHg3_SQ6Q)
-- [Miami 20s by Shtok](https://www.youtube.com/watch?v=zxa7gFswhxA)
-
-#### Santa Fortuna
-
-#### Mumbai
-
-- [Moo's Mumbai Explanation for Vanya](https://www.youtube.com/watch?v=eu5LfU_JwKo)
-- [Fusha's Mumbai strat Explanation](https://youtu.be/ZhNN2AVc2hk)
-
-#### Whittleton Creek
-
-#### Isle of Sgail
-
-#### New York
-
-#### Haven
-
-- [22s Haven Tutorial by Fusha](https://www.youtube.com/watch?v=UqwsskmxCl4) (**Voiceover Commentary**)
-
-#### Dubai
-
-- [Dubai 17s Tutorial by Moo](https://www.youtube.com/watch?v=7cmZn47I7sY)
-  - Probably not consistent enough for trilogy, just good for Season 3 runs
-  - See also: [Dubai 16s](https://youtu.be/MB029LdQci8?t=7) (mostly the same but shoot Marcus slightly sooner)
-- See the other seasonal (Season 1 / 2 / 3) SASO Pro records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
-
-#### Dartmoor
-
-#### Berlin
-
-#### Chongqing
-
-- [New Boostless Chongqing (~54s) strat tutorial by Hashashin47](https://youtu.be/qFE7m4M3nlc) (**Read Description**)
-  - Easier Hush kill without any panics needed
-- [Chongqing 1:07 by Volvomodus](https://www.youtube.com/watch?v=pYtLKtM44D4) (**Voiceover Commentary**)
-  - (Old Strat, but good Explanation of Hush / Imogen Kill)
-- [Chongqing Visual Lineups / Tutorial by Koats (~1:13)](https://youtu.be/_TQnwtdWfSM) (**Voiceover Commentary**)
-  - (Old Strat, but good Explanation of Hush / Imogen Kill)
-
-#### Mendoza
-
-#### Romania
-
-- [Cover-Aim 'Fast Train' in 2:05+ by Vezlaye](https://youtu.be/RlXAD0qRb2k) (**read description**)
-  - See [cover aim boost explanation](boosting#cover-aim-boost) for boost used at 0:31
-- [Romania 2:10ish by Papier](https://youtu.be/F0mYxJ0CE2s?list=PLCe2j05dQZz1o0d4Dujqjfw68vbmzAIUD) (**Voiceover Commentary**)
-- [Romania Starting Tips by Fusha](https://www.youtube.com/watch?v=ucMrTTHLNSg)
-
-### Beginner-Friendly(ish) Strats
-
-- [Tsta's 29:36 Trilogy SA/SO](https://www.youtube.com/watch?v=vR9otQKNVAw)
-  - Some strategies may be riskier for new players, such as Paris, Sapienza, Dartmoor.
-- [Solderq35's 37:42 Trilogy SA/SO](https://youtu.be/jHzyLh_Gy8c)
-  - Turn on Youtube Subtitles for text commentary.
-  - Colorado strategy here is somewhat outdated due to lighting changes, use Tsta's Colorado strategy instead.
-
-Other Beginner Routes to consider:
-
-- [1:27 easy Paris SA/SO alternative](https://youtu.be/U4tb4vn5UbY)
-  - Middle ground (in terms of speed and difficulty) compared to the Paris strat shown in the 29:36 and 37:42 trilogy runs.
-- [1:44 easy Sapienza](https://youtu.be/TUSgSfCZIe0)
-  - Easier virus and Silvio kills
-- [2:43 easy Romania](https://youtu.be/4fatU6HntPA)
-
-## SASO Master
-
-Short summary of pro / master differences:
+Differences between Master and Professional difficulties:
 
 - Longer viewcones
 - NPC can hear your footsteps when you trespass
   - Note: Inconsistent mechanic, NPC will react to footsteps at random distances every time
-- Some items are moved (moreso on Season 1 than Season 2 or 3)
-- Extra guards / enforcers / cameras (moreso on Season 1 than Season 2 or 3)
+- Some items are moved (not very impactful)
+- Extra guards / enforcers / cameras (not very impactful)
+- Disclaimer: The mostly used Professional and Master strategies are largely the same at this point as the Master difficulties have become less important to modern speedruns. The result of this is most people choose to play on professional difficulty for the fastest and highest level of competition.
 
-### Meta Strategies Overview
+## General Tips
 
-- [21:24 Run by Hashashin47](https://www.youtube.com/watch?v=kJ0xbMIgduo)
-- [Segmented Commentated Run by Aspecticor (23 minutes estimate)](https://www.youtube.com/watch?v=yA6mjuBUNfY)
-  - Commentary is somewhat surface level, refer to Pro SASO tutorials above for more insight.
-- [Segmented "Ideal" Strats by Moodehh (20:45)](https://www.youtube.com/watch?v=naftsNAnoxw)
-  - No commentary. Difficult strats executed to a high level but it shows what is possible on Master SASO full game.
-- See the other seasonal (Season 1 / 2 / 3) SASO Master records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
+- [Vezlaye's Playlist of Miscellaneous Hitman Speedrun Tips and Tricks](https://www.youtube.com/playlist?list=PLCe2j05dQZz0imgzKn1G5swnujlLrTIJi)
 
-### Additional Fullgame Resources Listed by Map
+  - General Hitman World of Assassination Speedrunning info & tips
 
-- Will only list a few videos here for maps where Master really changes. Otherwise, just watch the fullgame run listed [above](#meta-strategies-overview) for a starting point, or refer to the [SASO pro section](#saso-pro).
+- [GenP's Tutorial of General Hitman Speedrun Tricks](https://www.youtube.com/watch?v=z71oLdcsipE)
 
-#### Marrakesh
+  - Good Overview of Hitman Speedrun Techniques
 
-- [Master Marrakesh Tips by Fusha](https://i.ibb.co/KGJ4LjS/fushamarrakesh.png)
-  - [Supplementary Clip to above explanation](https://clips.twitch.tv/GlutenFreeModernFiddleheadsChefFrank-RMBkEDdr6j-ak0BJ)
+- [Hitman Speedrunning](https://www.youtube.com/@hitmanspeedrunguides/videos)
 
-#### Colorado
+  - Contains video guides, and explanations for some Fullgame strategies, individual level runs, and general game knowledge.
 
-- [Master Colorado 1:03 to 1:06 by Fusha](https://www.twitch.tv/videos/1676040322)
+## SASO Pro
 
-#### Romania
+- [Vezlaye's Fullgame Strats Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEpVIFxl_lAouywhBwJjJ6XfBFALDjlKk45pEMinganU649SaiV8oaR8a34h7wsL6s3msVeGA-vpmh/pubhtml)
+  - Contains example runs of multiple diffrent strategies for each level of the trilogy based on difficulty and RNG.
 
-- [2:36 to 2:40 Romania by Fusha](https://youtu.be/poOBcy4TLJg)
+### Additional notes for SASO Pro, listed in map order
 
-## SA Pro / Master
+- Not all maps have additional notes needed. This is only for the maps, where there could be significant diffrences.
 
-List of maps that can benefit from a disguise for speed and consistency on SA category:
+
+#### Miami
+
+**FPS dependancy for Sierra kill**
+
+Since [May 2023](h3_patch_notes#may-11-2023-game-version-31501), shooting Sierra through the wall has been inconsistent on lower FPS. If you are running on a patch that is **OLDER THAN** 3.150.1, this will not be effecting you as heavily.
+
+## SA Professional
+
+List of maps that are faster to complete from a disguise starting location in an SA fullgame run
 
 - Paris
 - Sapienza
-- Colorado (Maybe, needs development)
 - Hokkaido
-- Santa Fortuna (Speed is comparable to SA/SO but probably safer with disguise)
-- Sgail
-- New York (Whether this is faster somewhat depends on Athena cycle RNG)
 - Dartmoor
 - Berlin
-- Romania (You'll lose a few seconds getting a disguise but it's arguably worth it for consistency)
-
-### Meta Strategies Overview
-
-- [Vezlaye 17:06 run](https://www.youtube.com/watch?v=BqtsS6Ej7p0)
-  - Some strategies outdated, compare with [SASO Pro section above](fullgame_tutorials#saso-pro)
-- [Vezlaye's Season 1 SA 3:17 run](https://www.youtube.com/watch?v=W6J6bYEJl8s)
-- [Vezlaye's Season 3 SA 5:15 run](https://www.youtube.com/watch?v=6ljaNE4axyk)
-- See the other seasonal (Season 1 / 2 / 3) SA Pro records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
-- [Vezlaye's Playlist of SA Full Game Strats](https://www.youtube.com/playlist?list=PLCe2j05dQZz0hA-mg6Uom0cLVwCzFclcN)
-  - Optimal execution for consistent full game strats
 
 ## Any%
 
-- For Any% Trilogy, is recommended to compare and contrast the [first](https://www.youtube.com/watch?v=SFkbE0_fr3c) and [second](https://www.youtube.com/watch?v=vsUziP-UqMc) place runs, and use the fastest strategies from either.
+- For Any% Trilogy, is recommended to compare and contrast the [first](https://www.youtube.com/watch?v=nXbcY_aLokk) and [second](https://www.youtube.com/watch?v=rusyY5IGMj0) place runs, and use the fastest strategies from either.
 - See the other seasonal (Season 1 / 2 / 3) Any% records [here](https://www.speedrun.com/hitman_woa) for other faster but riskier strategies.
