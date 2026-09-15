@@ -139,8 +139,6 @@ description: Information on downpatching Hitman 3
   - As of version 3.230.1, the entitlements were updated. Meaning that older versions than that will require a compatible version of peacock for that game update, as the locations will remain locked, due to entitlement mismatch not unlocking the locations.
 
 ## Manifest Download Table / Specific Patch Findings
-
-- Refer [here](h3_patch_notes#list-of-patches) for more general information on some patches that specifically affected Hitman 3 speedruns.
 - As of January 24, 2023, the official IOI website ([ioi.dk](https://ioi.dk/)) has majorly redesigned their website, resulting in much worse website animations that make it difficult to navigate.
   - Replace https://www.ioi.dk/ in the URL with https://web.archive.org/web/20220925013119/https://www.ioi.dk/ to see the old version (official IOI patch notes below are the old version for all patch notes older than January 26, 2023).
 - Refer [here](https://github.com/solderq35/hitman-3-downpatch?tab=readme-ov-file#game-update-instructions) for advice on editing the Markdown table below.

@@ -42,7 +42,7 @@ Differences between Master and Professional difficulties:
 
 **FPS dependancy for Sierra kill**
 
-Since [May 2023](h3_patch_notes#may-11-2023-game-version-31501), shooting Sierra through the wall has been inconsistent on lower FPS. If you are running on a patch that is **OLDER THAN** 3.150.1, this will not be effecting you as heavily.
+Since patch 3.150.1 shooting Sierra through the wall has been inconsistent on lower FPS. If you are running on a patch that is **OLDER THAN** 3.150.1, this will not be effecting you as heavily.
 
 ## SA Professional
 
