@@ -11,7 +11,7 @@ A: **Short(er) Answer**:
 - Option 2: [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) + [Hitman 2 Expansion Pass](https://store.steampowered.com/app/1829590/HITMAN_3_Access_Pass_HITMAN_2_Expansion/) + [Hitman 3 - 7 Deadly Sins DLC](https://store.steampowered.com/app/1829587/HITMAN_3__Seven_Deadly_Sins_Collection/)
   - Option 2 is technically missing the Hitman 3 Deluxe Pack (not to be confused with "Hitman World of Assassination Deluxe Pack"), but that DLC does not add any unique new items so can be skipped from a speedrunning standpoint
   - As noted below, Option 1 and 2 both are about the same price despite Option 2 missing a minor DLC, due to Option 1 having a default discount. Option 2 is a good option if you want to try out the Hitman WoA standard edition first before buying any DLC
-- These 2 options both add up to about $99 USD (with no additional discounts) as of February 2024, and they will get you all of the main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
+- These 2 options both add up to about $99 USD (with no additional discounts) as of February 2024, and they will get you all main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
 
 **Long Answer**:
 As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), the main two Hitman 3 / WoA editions are [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) and [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
@@ -94,7 +94,7 @@ Thus, for other challenges, the most efficient way to get XP is to make a save r
 
 ## Q: What are the optimal in-game settings to run the game?
 
-A: Go to Options> Gameplay > HUD. Turn on Difficulty HUD (for verification purposes), Silent Assassin HUD (to see what rating you have at all times), Timer HUD (helps for timing certain kills). For Miami, you may also want to turn Simulation Quality in Graphics Settings to Base, to avoid rendering some racetrack flags.
+A: There is a guide going over multiple players preferences, and the settings that are required for speedrun.com submissions. [here](https://www.youtube.com/watch?v=wiAq_nmMt04).
 
 ## Q: What are the best keybinds (for PC)?
 
@@ -103,6 +103,7 @@ A: Keybinds are mostly just personal preference, but here are some things to con
 - Remember you can have secondary keybinds for most actions in the game. You can for instance have inventory bound to both a mouse button and a key on your keyboard.
 - It is highly recommended to rebind Inventory to a mouse button, or at least a key more easily accessible to the left hand on the keyboard than the "I" key. You need to be able to interact with Inventory at a moment's notice for [fast interact](fast_anim#fast-interact).
 - It is highly recommended to rebind the drop/crouch/unpack buttons (perhaps as secondary keybinds), to facillitate [fast unpack](guns#fast-sniper-briefcase-unpack). Suggestions: have these three actions bound to 1/2/3 or Z/X/C so that all three buttons are right next to each other.
+- If you do so prefer, there is a [Hitman Keybinds spreadsheet](https://docs.google.com/spreadsheets/d/1EAWNP6Kuo-cAY_Y0agxNapX0T8mSqwR-VVHdQG0L0GM/edit?gid=1847360943#gid=1847360943) with some of the keybinds that some people use.
 
 ## Q: How do I set up Livesplit for full game runs?
 
@@ -144,16 +145,4 @@ A: It really depends on the map and category you are running. On many maps and c
 
 A: For general advice, consider reading the [other guides](https://hitruns-wiki.vercel.app/docs/index) first.
 
-For more specific questions, these are the following Hitman speedrunning discord servers.
-
-[Hitman Runs Server](https://discord.com/invite/E45wUBnxBT) (the "official" Hitman speedrun.com server)
-
-- Best place to ask a general question regarding speedrun strats or run rules
-
-[Zebulaus](https://discord.gg/HRhnrSgE9s)
-
-- Good for more specific questions about a certain main mission speedrun strategy.
-
-[Frote's Server](https://discord.com/invite/kVMBEZA) (server ran by [Fortheseven](https://www.speedrun.com/user/Fortheseven) aka Frote)
-
-- Generally good Hitman knowledge, but not really focused on speedrunning main missions)
+For more specific questions, see the Hitman related Discord servers, to narrow down your needs.
