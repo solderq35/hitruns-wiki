@@ -116,6 +116,8 @@ _Credit to [ThatObserver](https://www.speedrun.com/users/ThatObserver) for the g
 - [Video Walkthrough](https://youtu.be/SrAZIVT17VY)
   - Credits: Agent Clapienza
 
+**Note: Subdue Boosts were patched out from 3.240 onwards.**
+
 ### Other Examples
 
 - [Sapienza Cave Boost](https://youtu.be/3r5OiAXVCjA?t=116): Aim with gun, press drop down button.
