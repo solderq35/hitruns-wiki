@@ -31,6 +31,8 @@ description: Information on downpatching Hitman WoA
 | Dartmoor ledge drops                           | Pre 3.130         | Multiple iterations of these ledge drops exist, began to get patched out eventually starting at 3.130. |
 | Particle boost nerf                            | 3.140             | This singular patch only. Majorly nerfed Violin, Muffin, and other boosts.                             |
 
+This [Hitman WoA Patch Guide](https://docs.google.com/spreadsheets/d/1GE6sIyhl0dFGgwRY6ErZtJvkv1UkW3zO1tS-7u131-Q/edit?gid=0#gid=0) will go into more depth, these are just the major tricks listed.
+
 ## Video Walkthrough (Epic)
 
 - https://www.youtube.com/watch?v=4Uzx9CJf-uk
