@@ -1,13 +1,13 @@
 ---
 title: Downpatching
-description: Information on downpatching Hitman 3
+description: Information on downpatching Hitman WoA
 ---
 
-# Hitman 3 Downpatching
+# Hitman WoA Downpatching
 
 ## Purpose and Disclaimer
 
-- The purpose of this is to explain how to downpatch Hitman 3 on Steam / Epic
+- The purpose of this is to explain how to downpatch Hitman WoA on Steam / Epic
 - Downpatching can allow you to experience unique patched game mechanics otherwise no longer available, as detailed in the [table below](#manifest-download-table--specific-patch-findings)
 - Downpatching is allowed for patches beginning at the start of year 2 (Steam release) as of August 30th 2026. More info on this can be found in [This newspost](https://www.speedrun.com/hitman_woa/news/8xwqodxv).
 - The manifest files listed below will require you to legally own the game in some capacity (more on this [here](#game-ownership--dlcs)). Piracy is not condoned.
@@ -53,7 +53,7 @@ description: Information on downpatching Hitman 3
 
 ## OS
 
-- This should work on Windows as well as Linux using Wine / Steam Proton (there is no native Linux version for Hitman 3)
+- This should work on Windows as well as Linux using Wine / Steam Proton (there is no native Linux version for Hitman WoA)
 - As a bit of trivia, most Legendary users are on Linux, presumably with Wine for Epic
 
 ## Install Instructions
@@ -64,7 +64,7 @@ description: Information on downpatching Hitman 3
 
 - Legendary is essentially a modded game launcher for Epic that will allow you to downpatch
 - Install Legendary from here: https://github.com/derrod/legendary/releases/latest (just download `legendary.exe` if on Windows)
-- See this document on more information on how to install Hitman 3 with Legendary specifically: https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3legendary.md
+- See this document on more information on how to install Hitman WoA with Legendary specifically: https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3legendary.md
 - General Legendary documentation: https://github.com/legendary-gl/legendary/blob/master/README.md
 - Before proceeding further, open the official Epic Games Launcher, click profile picture in upper right, then go to Settings > Manage Games > Uncheck "Allow Auto Updates". Otherwise, the game will update itself to the latest version automatically again if you ever open the Epic Games launcher later for any reason.
   - [Screenshot for Reference](https://i.ibb.co/gSBsmD9/epicautoupdates.png)
@@ -77,7 +77,7 @@ description: Information on downpatching Hitman 3
   - `legendary auth`
   - `legendary install Eider --manifest <WHERE_YOU_INSTALLED_MANIFEST>`
     - EXAMPLE INPUT (with my filepath): `legendary install Eider --manifest C:\Users\Legion\Downloads\Eider_Windows_6041891.manifest`
-    - `Eider` is a "code name" so to speak for Hitman 3 in Epic / Legendary
+    - `Eider` is a "code name" so to speak for Hitman WoA in Epic / Legendary
     - If you get asked if you want to install offline or if you want to install DLC's, say yes.
     - You might get 403 errors on the download; the Epic / Legendary servers aren't very stable for downloading. Either wait it out,
       or hit `Ctrl C` to cancel the download and try again.
@@ -98,18 +98,17 @@ description: Information on downpatching Hitman 3
   - Put this file into the folder you unzipped DepotDownloader to.
 - You may need the latest version of dotnet, especially if you use an older version of Visual Studio for programming.
   - Install here: https://dotnet.microsoft.com/en-us/download
-- If you plan to patch the files of your original game install to save disk space, right click Hitman 3 in your Steam Library > Properties > Updates > Only update this game when I launch it
+- If you plan to patch the files of your original game install to save disk space, right click Hitman WoA in your Steam Library > Properties > Updates > Only update this game when I launch it
   - This will prevent Steam from trying to auto-update the game (in theory)
   - [Screenshot for Reference](https://i.ibb.co/X7rMGRM/steamautoupdates.png)
 
 **Downpatch Instructions**
 
 - For the next steps, head to [SteamDB](https://steamdb.info/depot/1659041/manifests/) to check the manifest ID's, or refer to the [table below](#manifest-download-table--specific-patch-findings).
-  - Note that since Steam Hitman 3 was released January 2022, you can't downpatch to 2021 on Steam.
-- Once you've decided on the version you want to download, copy it, open [Hitman 3 Downpatch.bat](https://github.com/solderq35/hitman-tech-tips/blob/main/misc/Hitman%203%20Downpatch.bat?raw=true) and paste the manifest ID using right click, and press enter.
+  - Note that since Steam Hitman WoA was released January 2022, you can't downpatch to 2021 on Steam.
 - Now you'll need to input your steam account username and password.
   - If you have Steam Guard Authentication on, you will also need to input your Authenticator code recieved via phone or email.
-- After DepotDownloader finishes downloading HITMAN 3, you're free to either add it to steam, or overwrite your main game install's files.
+- After DepotDownloader finishes downloading Hitman WoA, you're free to either add it to steam, or overwrite your main game install's files.
   - If you want to keep both the current game install and the downpatched versions, you can simply add the game to steam as a non-steam game by clicking **ADD A GAME** on the bottom left of your steam client, clicking **Browse** on the window that pops up, and locating the downpatched game directory, selecting Launcher.exe, and adding the game to steam.
   - ![image](steam%20screenshot.png)
   - If you want to replace your current install game files with the downpatched version to save file space on your system, simply drag and drop the files over your original install. If you need help finding the game install directory, you can right click the game on steam → hover over Manage → then select Browse Local Files.
@@ -127,19 +126,19 @@ description: Information on downpatching Hitman 3
 ## Game Ownership / DLC's
 
 - Both Steam Depot Downloader and Legendary require you to own the game on Steam or Epic respectively to download the required files.
-  - Note that the free Steam Demo of Hitman 3 lets you download all the patch files, although you may not be able to do much with them, as explained below.
+  - Note that the free Steam Demo of Hitman WoA lets you download all the patch files, although you may not be able to do much with them, as explained below.
 - The manifest files provided / linked require you to own the game on Steam / Epic to play the game with. Piracy is not condoned.
-- In general, any edition of Hitman 3 actually has you install all the game files, buying DLC just unlocks access. No matter what DLC you own, downpatching will similarly give you all game files. But you might not be able to play all of it if you don't own access to them.
+- In general, any edition of Hitman WoA actually has you install all the game files, buying DLC just unlocks access. No matter what DLC you own, downpatching will similarly give you all game files. But you might not be able to play all of it if you don't own access to them.
 - The downpatched files from Steam and Epic are mostly but not completely compatible with each other. Any files ending with `.rpkg` are cross-platform. However, the `Launcher.exe` and `Hitman3.exe` will only work on the platform they are designed for.
-  - Due to an inability to get earlier versions of the `.exe` files from Steam Depot Downloader, Steam Hitman 3 is probably locked onto versions of January 2022 or later.
+  - Due to an inability to get earlier versions of the `.exe` files from Steam Depot Downloader, Steam Hitman WoA is probably locked onto versions of January 2022 or later.
 
 ## Miscellaneous Useful Info
 
-- "Downpatching" Hitman 3 with the following methods is not true downpatching like you will see in other games.
+- "Downpatching" Hitman WoA with the following methods is not true downpatching like you will see in other games.
   - The game server will remain the current version, which can cause some strange interactions (more on this later).
   - Technically you can use an older game version along with an older version of [Peacock](https://thepeacockproject.org/wiki/intel/what-is-peacock/), but this would mainly just help you avoid some visual bugs. Also some older versions of Peacock are not archived publicly.
   - Generally speaking the current game server is fine for our purposes.
-- You wouldn't think it, but you can connect to the current server version on downpatched version of Hitman 3, even up to launch patch (January 2021). This currently is true with both official servers latest version as well as Peacock latest version.
+- You wouldn't think it, but you can connect to the current server version on downpatched version of Hitman WoA, even up to launch patch (January 2021). This currently is true with both official servers latest version as well as Peacock latest version.
   - Note the UI bugs with the first couple patches as noted in the [table below](#manifest-download-table--specific-patch-findings)
 - Some items or missions from later patches are available on earlier patches. Here are some general guidelines regarding compatibility (non-exhaustive list, do not take as universal truths)
   - A suit / item with messed up name but with a thumbnail (insert screenshot later) will work if equipped.
@@ -158,7 +157,7 @@ description: Information on downpatching Hitman 3
 
 - This assumes you already have your desired version(s) of the game downloaded using legendary. This tutorial will use the latest retail build at the time of writing (v3.280.0) and the retail molotov accidents build (v3.120) as a baseline, but should be adaptable for any retail + downpatch build setup, including more than two downpatched builds.
 - This tutorial will be written specifically for linux, but most of this will also apply on windows.
-- Once installed in heroic, go to your library, right click on Hitman 3 and click on settings.
+- Once installed in heroic, go to your library, right click on Hitman WoA and click on settings.
 - Next, go to the Advanced Tab, and find "Select an alternative EXE to run".
 - Click the folder icon to open your file explorer of choice.
 - Next, go to your folder storing the **DOWNPATCHED BUILD** of choice.
@@ -166,7 +165,7 @@ description: Information on downpatching Hitman 3
 - Note: The downpatched version **SHOULD** follow the game settings for your live install of the game, but this has not been confirmed to be 100% true. If you need the launcher for some reason, remove the alternative exe from the advanced settings, and then launch the game normally through Heroic.
 - Start the game, through heroic, and it will launch you into the downpatched build of your choice.
 - Use the PeacockPatcher, or OnlineTools accordingly to connect to your Peacock instance. While this downpatched build will connect to the official servers as of writing this guide (9/9/26), the menus will look buggy.
-  - (LINUX ONLY) If you need to run PeacockPatcher for an older build of the game, Launch the game first. Then go back to Heroic, and access game settings again by right clicking on Hitman 3. Then go to the WINE tab, and click on "Run EXE on Prefix". Run the PeacockPatcher.exe appropriate for your version of the game. When closing the game, if you close the game before the patcher, the patcher might hang, and you will have to terminate it.
+  - (LINUX ONLY) If you need to run PeacockPatcher for an older build of the game, Launch the game first. Then go back to Heroic, and access game settings again by right clicking on Hitman WoA. Then go to the WINE tab, and click on "Run EXE on Prefix". Run the PeacockPatcher.exe appropriate for your version of the game. When closing the game, if you close the game before the patcher, the patcher might hang, and you will have to terminate it.
   - If you wish to revert your heroic install to use the latest patch, you can just clear the alternative EXE to run option, and it will launch your retail game instead.
 - If you wish to swap to another downpatched build, (example: 3.230.1), just download your 3.230.1 build using heroic, and point your alternative exe to the 3.230.1 folder instead. This allows you to swap between downpatched builds at your will.
 

@@ -13,17 +13,18 @@ Please consult the following tables for explosive device properties before readi
 
 - [Zeb's Flying Explosives Spreadsheet](https://docs.google.com/spreadsheets/d/1evp3EMDGanw17w6gxLcSg7t9hjpzb4EqC41xcWOzymc/edit#gid=0)
 
-  - Legality of explosives to hold, drop, throw
-  - How long for explosives to fly to destination
-  - How far explosives fly
-  - Whether to drop and/or place various explosive types for best results (for flying explosives)
+Covers the following regarding launching:
+  - Item drop-ability and placement
+  - Distance traveled when item launched 1 meter and 2 meters away from breaching charge
+  - Estimated travel distance time
+  - If item is illegal to hold/throw/drop
 
-- General Explosives Properties / Interactions:
-  ![solderexplosives](../static/img/explosives1.png)
+And the following regarding explosion radius:
 
-- More Info on Explosive Radiii:
-  ![explosives table](https://i.ibb.co/yVd6R4m/unknown-5.png)
-  (Credit: muddye)
+- Knockdown ability
+- Pacification ability
+- Radius values for Knockdown, Pacification and Lethality
+- Also radius and duration for flash/stun items
 
 **Note that it is possible to KO or kill a target with an explosive device before the accident explosion kills them. If you KO a target before they die from accident explosion, you lose SA**
 
