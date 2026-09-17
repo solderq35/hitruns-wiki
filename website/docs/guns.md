@@ -22,6 +22,7 @@ short version, read below for more info
 - Any variant of the Striker for loud ballistics
 - Any variant of the Sieger 300 Ghost
 - Sieger 300 Advanced/Tactical/Viper for non-lethal bodyshots with a sniper
+
 ## Ballistic Pistols
 
 ICA19 and its variants are overall the most accurate silenced pistol. Note that the ICA 19 Silverballer's "precise aim" is a placebo and doesn't actually improve the accuracy of the gun. This is confirmed by multiple renowned speedrunners such as Mendietinha, and Frote7.

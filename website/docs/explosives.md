@@ -14,10 +14,11 @@ Please consult the following tables for explosive device properties before readi
 - [Zeb's Flying Explosives Spreadsheet](https://docs.google.com/spreadsheets/d/1evp3EMDGanw17w6gxLcSg7t9hjpzb4EqC41xcWOzymc/edit#gid=0)
 
 Covers the following regarding launching:
-  - Item drop-ability and placement
-  - Distance traveled when item launched 1 meter and 2 meters away from breaching charge
-  - Estimated travel distance time
-  - If item is illegal to hold/throw/drop
+
+- Item drop-ability and placement
+- Distance traveled when item launched 1 meter and 2 meters away from breaching charge
+- Estimated travel distance time
+- If item is illegal to hold/throw/drop
 
 And the following regarding explosion radius:
 
