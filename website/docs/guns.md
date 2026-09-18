@@ -15,7 +15,13 @@ If you still can't find what you're looking for, feel free to shoot a question i
 
 ## Useful Guns
 
-If you do not know how to unlock any of the below weapons, check Hitman Wiki's Unlocks/ Mastery guide in Resources.
+short version, read below for more info
+
+- Any variant of the Silverballer
+- Any variant of the Krugermeier (incase silverballer is too loud)
+- Any variant of the Striker for loud ballistics
+- Any variant of the Sieger 300 Ghost
+- Sieger 300 Advanced/Tactical/Viper for non-lethal bodyshots with a sniper
 
 ## Ballistic Pistols
 

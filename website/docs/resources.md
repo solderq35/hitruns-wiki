@@ -23,10 +23,6 @@ Please use this tool to add up in-game time for full game runs. Click "Save as U
 
 Comprehensive list of speedrunning practice tools you can use while in-game. Some overlap with existing items here.
 
-### [HITMAN 3 Unlocks and Mastery Guide (Steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637)
-
-Comprehensive list of unlocks of Hitman 3, and where/ how to unlock them. Alternative guide (includes mastery starting locations, but not deluxe/ 7DS): https://hitman.fandom.com/wiki/List_of_mastery_unlocks_by_mission
-
 ### [HITMAPS](https://www.hitmaps.com/)
 
 Interactive maps containing info on every item location, navigation feature, etc. Useful tool for routing.

@@ -9,9 +9,9 @@ A: **Short(er) Answer**:
 
 - Option 1: [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
 - Option 2: [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) + [Hitman 2 Expansion Pass](https://store.steampowered.com/app/1829590/HITMAN_3_Access_Pass_HITMAN_2_Expansion/) + [Hitman 3 - 7 Deadly Sins DLC](https://store.steampowered.com/app/1829587/HITMAN_3__Seven_Deadly_Sins_Collection/)
-  - Option 2 is technically missing the Hitman 3 Deluxe Pack (not to be confused with "Hitman World of Assassination Deluxe Pack"), but that DLC does not add any unique new items so can be skipped from a speedrunning standpoint
-  - As noted below, Option 1 and 2 both are about the same price despite Option 2 missing a minor DLC, due to Option 1 having a default discount. Option 2 is a good option if you want to try out the Hitman WoA standard edition first before buying any DLC
-- These 2 options both add up to about $99 USD (with no additional discounts) as of February 2024, and they will get you all of the main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint)
+  - Option 2 is technically missing the Hitman 3 Deluxe Pack (not to be confused with "Hitman World of Assassination Deluxe Pack"), but that DLC does not add any unique new items so can be skipped from a speedrunning standpoint.
+  - As noted below, Option 1 and 2 both are about the same price despite Option 2 missing a minor DLC, due to Option 1 having a default discount. Option 2 is a good option if you want to try out the Hitman WoA standard edition first before buying any DLC.
+- These 2 options both add up to about $99 USD (with no additional discounts) as of February 2024, and they will get you all main campaign missions (the 6 Season 1 missions, 8 Season 2 missions, 6 Season 3 missions), most of the bonus missions, and unique items (from a gameplay standpoint).
 
 **Long Answer**:
 As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), the main two Hitman 3 / WoA editions are [HITMAN World of Assassination](https://store.steampowered.com/sub/672746/) and [HITMAN World of Assassination Deluxe Edition](https://store.steampowered.com/sub/963308/)
@@ -33,21 +33,22 @@ As of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-worl
   - Trinity Pack: Pre-order cosmetic reskins, that can now be obtained by anyone as paid DLC
   - Street Art Pack: Cosmetic reskins
   - Makeshift Pack: Cosmetic reskins
-- Example links provided here are for Steam, but the info and game edition / DLC names should be the same for other platforms and mainstream storefronts (Epic, Playstation, Xbox, etc)
+  - [The Getaway Pack](https://store.steampowered.com/app/4944070/HITMAN_WOA__The_Getaway_Pack/) released as of 27/8/2026 could be proven useful, as it comes with the "Red Water Balloon" item, that can create puddles for electrocution kills anywhere.
+- Example links provided here are for Steam, but the info and game edition / DLC names should be the same for other platforms and mainstream storefronts (Epic, PlayStation, Xbox, etc.)
   - May also be abbreviated as `HITMAN WOA...` on some storefronts
 
 Other Pointers:
 
 - List of unlocks in the game and how to obtain them: https://steamcommunity.com/sharedfiles/filedetails/?id=2725872637
 - **Hitman 1 DLC is generally sold at no additional cost within the Hitman WoA game engine, but the same cannot be said for Hitman 2 DLC (Expansion Pass)**
-- With that said, Hitman 2 Expansion Pass will still by far give you the best bang for your buck (2 main campaign levels + other bonus missions), then the 7 Deadly Sins for the unlocks, and then the other paid DLC is of subjective value (depending how much you value cosmetic items or arguably lackluster bonus missions)
+- With that said, Hitman 2 Expansion Pass will still by far give you the best bang for your buck (2 main campaign levels + other bonus missions), then the 7 Deadly Sins for the unlocks, and then the other paid DLC is of subjective value (depending on how much you value cosmetic items or arguably lackluster bonus missions)
 
 ### Related: If I own Hitman 1 (2016 edition) or Hitman 2 (2018 edition), do I have to buy those levels again?
 
 A: **Short Answer**: You will have to re-purchase the Hitman 2 Expansion Pass to access New York and Haven levels (among other things) to access them within the latest game engine (Hitman 3 / WoA).
 
 **Long Answer**:
-Although it used to be possible to obtain all Hitman 1 and 2 content inside of the Hitman 3 / WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
+Although it used to be possible to obtain all Hitman 1 and 2 content inside the Hitman 3 / WoA game engine at no added cost, as of [January 26, 2023](https://ioi.dk/hitman/news/2023/hitman-3-to-become-world-of-assassination), this is no longer the case.
 
 - See also: https://ioisupport.zendesk.com/hc/en-us/articles/360019016477-Access-Pass-Guide-Location-Importing
 
@@ -90,11 +91,11 @@ If you are on console or do not wish to use Peacock, take a look at [this list o
 
 In general, to level up mastery you should first get The Classics challenges (SASO, Sniper Assassin) done first, as you can get many challenges done in one run. Note that for the most part, **any other challenge besides The Classics do not require you to finish the level to get XP**.
 
-Thus, for other challenges, the most efficient way to get XP is to make a save right before critical points in a run, such as after you have a target isolated. Then you can load the save multiple times to complete multiple challenges. Note that the mastery level can take a while to update if you don't finish the mission, go to Career->Mastery from main menu to get a more accurate look at your current mastery level. Note that if you dislike the in game challenges, you technically can get XP just by playing the game normally, it will just take way longer to level up.
+Thus, for other challenges, the most efficient way to get XP is to make a save right before critical points in a run, such as after you have a target isolated. Then you can load the save multiple times to complete multiple challenges. Note that the mastery level can take a while to update if you don't finish the mission, go to Career → Mastery from main menu to get a more accurate look at your current mastery level. Note that if you dislike the in game challenges, you technically can get XP just by playing the game normally, it will just take way longer to level up.
 
 ## Q: What are the optimal in-game settings to run the game?
 
-A: Go to Options> Gameplay > HUD. Turn on Difficulty HUD (for verification purposes), Silent Assassin HUD (to see what rating you have at all times), Timer HUD (helps for timing certain kills). For Miami, you may also want to turn Simulation Quality in Graphics Settings to Base, to avoid rendering some racetrack flags.
+A: There is a guide going over multiple players preferences, and the settings that are required for speedrun.com submissions. [here](https://www.youtube.com/watch?v=wiAq_nmMt04).
 
 ## Q: What are the best keybinds (for PC)?
 
@@ -102,7 +103,8 @@ A: Keybinds are mostly just personal preference, but here are some things to con
 
 - Remember you can have secondary keybinds for most actions in the game. You can for instance have inventory bound to both a mouse button and a key on your keyboard.
 - It is highly recommended to rebind Inventory to a mouse button, or at least a key more easily accessible to the left hand on the keyboard than the "I" key. You need to be able to interact with Inventory at a moment's notice for [fast interact](fast_anim#fast-interact).
-- It is highly recommended to rebind the drop/crouch/unpack buttons (perhaps as secondary keybinds), to facillitate [fast unpack](guns#fast-sniper-briefcase-unpack). Suggestions: have these three actions bound to 1/2/3 or Z/X/C so that all three buttons are right next to each other.
+- It is highly recommended to rebind the drop/crouch/unpack buttons (perhaps as secondary keybinds), to facilitate [fast unpack](guns#fast-sniper-briefcase-unpack). Suggestions: have these three actions bound to 1/2/3 or Z/X/C so that all three buttons are right next to each other.
+- If you prefer, there is a [Hitman Keybinds spreadsheet](https://docs.google.com/spreadsheets/d/1EAWNP6Kuo-cAY_Y0agxNapX0T8mSqwR-VVHdQG0L0GM/edit?gid=1847360943#gid=1847360943) with some of the keybinds that some people use.
 
 ## Q: How do I set up Livesplit for full game runs?
 
@@ -112,7 +114,7 @@ A: You can use one of the following livesplit methods
 
 - [Official Servers Autosplitter](https://hitruns-wiki.vercel.app/docs/livesplit_auto_official) - As the name implies, this works on official servers (Epic Only). **May be out of date / no longer working**. It is generally less accurate than the Peacock Autosplitter.
 
-- [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However it is a bit cumbersome to use.
+- [Manual Splitter](https://hitruns-wiki.vercel.app/docs/livesplit_manual) - Very accurate and works on all platforms / server versions. However, it is a bit cumbersome to use.
 
 ## Q: I'm new, what categories are there?
 
@@ -131,7 +133,7 @@ A: It really depends on the map and category you are running. On many maps and c
   - This also makes [NPC panics](guns#triple-shot-panic) spread more quickly, which can sometimes be a good thing depending on the context
 - NPC's will hear footsteps if you run, which includes crouch running
   - Note: NPC hearing range for footsteps is **random**, and using footstep sounds to intentionally distract an NPC as a stealth tactic is not reliable at all
-  - It is quite disappointing how one of the only unique gameplay changes from Master is randomized and difficult to use to the player's advantage
+  - It is quite disappointing how one of the few unique gameplay changes from Master is randomized and difficult to use to the player's advantage
 - NPC's will take less damage from bullets, as [shown here](guns#miscellaneous-gun-stats-from-muddye)
 
 ### Map-Specific Changes
@@ -144,16 +146,4 @@ A: It really depends on the map and category you are running. On many maps and c
 
 A: For general advice, consider reading the [other guides](https://hitruns-wiki.vercel.app/docs/index) first.
 
-For more specific questions, these are the following Hitman speedrunning discord servers.
-
-[Hitman Runs Server](https://discord.com/invite/E45wUBnxBT) (the "official" Hitman speedrun.com server)
-
-- Best place to ask a general question regarding speedrun strats or run rules
-
-[Zebulaus](https://discord.gg/HRhnrSgE9s)
-
-- Good for more specific questions about a certain main mission speedrun strategy.
-
-[Frote's Server](https://discord.com/invite/kVMBEZA) (server ran by [Fortheseven](https://www.speedrun.com/user/Fortheseven) aka Frote)
-
-- Generally good Hitman knowledge, but not really focused on speedrunning main missions)
+For more specific questions, see the Hitman related Discord servers, to narrow down your needs.

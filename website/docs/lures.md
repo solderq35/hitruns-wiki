@@ -3,9 +3,7 @@ title: Lures
 description: Tips on various lures
 ---
 
-**NOTE: If a certain trick doesn't seem to be mentioned here, please check the other guides here first, or use the search bar.
-If you still can't find what you're looking for, feel free to shoot a question in the #hitman-3 channel of the Discord: https://discord.com/invite/E45wUBnxBT
-**
+**NOTE: This is absolutely not all of the possible lure methods. There is a great [video guide](https://www.youtube.com/watch?v=rsKDQDORyh8) made by [BluntsNBeatz](https://www.speedrun.com/users/BluntsNBeatz) that will cover more lure methods than listed here. **
 
 ## Visual Lures
 

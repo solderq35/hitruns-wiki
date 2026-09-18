@@ -32,10 +32,6 @@ const sidebars = {
       id: 'fullgame_tutorials',
     },
     {
-      type: 'doc',
-      id: 'h3_patch_notes',
-    },
-    {
       type: 'category',
       label: 'Livesplit',
       link: {
