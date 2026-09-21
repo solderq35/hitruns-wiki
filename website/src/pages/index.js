@@ -39,7 +39,7 @@ function Home() {
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">Hitman 3 Speedrunning Wiki</p>
+          <p className="hero__subtitle">Hitman WoA Speedrunning Wiki</p>
         </div>
       </header>
       <main>
